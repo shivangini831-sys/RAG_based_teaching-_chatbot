@@ -1,29 +1,6 @@
-# Python cache
-__pycache__/
-*.pyc
-
-# Virtual environment
-venv/
-env/
-.venv/
-
-# Whisper folder (if cloned)
-whisper/
-
-# Audio files
 audios/
+whisper/
 *.mp3
 *.wav
-
-# JSON outputs
 *.json
-
-# Streamlit secrets
-.streamlit/
-
-# System files
-.DS_Store
-Thumbs.db
-
-# Large temporary files
-*.log
+*.joblib
