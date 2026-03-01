@@ -1,0 +1,1797 @@
+{
+    "chunks": [
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " Welcome to 100 days of code guys."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 2.0,
+            "end": 7.0,
+            "text": " In 100 days of code, we are going to learn Python programming from zero to job ready."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 7.0,
+            "end": 13.0,
+            "text": " And if you have given your own sawdust, then I will tell you in the bite size lesson."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 13.0,
+            "end": 17.0,
+            "text": " Python programming, we will take it as a real zero."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 17.0,
+            "end": 22.0,
+            "text": " Starting, you will feel that it is easier to play with children and after that,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 22.0,
+            "end": 25.0,
+            "text": " we will get videos like this and we will go to day 100."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 25.0,
+            "end": 27.0,
+            "text": " We will raise the bar like anything."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 27.0,
+            "end": 29.0,
+            "text": " We will work on complex projects."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 29.0,
+            "end": 32.0,
+            "text": " We will work on things that are used in the industry."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 32.0,
+            "end": 34.0,
+            "text": " So it will be fun to make a lot of excitement."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 34.0,
+            "end": 37.0,
+            "text": " Python is dynamically type, object-oriented programming language."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 37.0,
+            "end": 40.0,
+            "text": " Which was made in 1991 in Guido 1."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 40.0,
+            "end": 43.0,
+            "text": " Guido 1 was made in Monty Python, the name of the circus name."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 43.0,
+            "end": 46.0,
+            "text": " When he was working on this language in the show and he thought"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 46.0,
+            "end": 50.0,
+            "text": " Why don't I give Python and then he got his name Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 50.0,
+            "end": 53.0,
+            "text": " In this course, we will practice a lot with theory."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 53.0,
+            "end": 55.0,
+            "text": " We will practice a lot with many exercises and quizzes."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 55.0,
+            "end": 58.0,
+            "text": " And you are waiting for many challenges for us."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 58.0,
+            "end": 60.0,
+            "text": " So I will practice in my computer battle."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 60.0,
+            "end": 64.0,
+            "text": " And you will learn Python's tricks and skills."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 64.0,
+            "end": 68.0,
+            "text": " So now you like this video and subscribe to the notifications."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 68.0,
+            "end": 70.0,
+            "text": " So that you don't miss any day."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 70.0,
+            "end": 72.0,
+            "text": " And you will get notifications every day."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 72.0,
+            "end": 75.0,
+            "text": " Because there is a lot of fun in YouTube."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 75.0,
+            "end": 77.0,
+            "text": " So you will get 100 days of code challenge."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 77.0,
+            "end": 79.0,
+            "text": " You will get 100 days of code challenge."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " You will get 100 days of code challenge."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " Let's get started."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 88.0,
+            "end": 94.0,
+            "text": " So I have already told you about Google Chrome browser."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 94.0,
+            "end": 98.0,
+            "text": " And I will tell you how to install Python from download and install."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 98.0,
+            "end": 102.0,
+            "text": " So as soon as you write Python, you will get Python.org."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 102.0,
+            "end": 106.0,
+            "text": " And here you will get the latest download of Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 106.0,
+            "end": 109.0,
+            "text": " You will get the latest download of Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 109.0,
+            "end": 112.0,
+            "text": " You will get the latest download of Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 112.0,
+            "end": 114.0,
+            "text": " So I will download Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 114.0,
+            "end": 116.0,
+            "text": " You will get the latest download of Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 116.0,
+            "end": 120.0,
+            "text": " You can download some of the ideas of Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 120.0,
+            "end": 122.0,
+            "text": " I will use Python in my computer."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 122.0,
+            "end": 124.0,
+            "text": " But I will use the template."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 124.0,
+            "end": 128.0,
+            "text": " And you can use the template."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " This is a collaborative browser based idea."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 130.0,
+            "end": 134.0,
+            "text": " I am using it because I feel it is easy to use."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 134.0,
+            "end": 140.0,
+            "text": " And with that, I will make the code easy for you."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 140.0,
+            "end": 143.0,
+            "text": " So I will sign in from Google account."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 143.0,
+            "end": 146.0,
+            "text": " And then I will redirect on screen."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 146.0,
+            "end": 149.0,
+            "text": " So as you can see, all my rapples are here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 149.0,
+            "end": 152.0,
+            "text": " You can write a code in the app."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 152.0,
+            "end": 156.0,
+            "text": " If you are not a computer fast, you can see it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 156.0,
+            "end": 161.0,
+            "text": " Compute wise means that your computer lacks a lot of lag."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " So you need a browser tap."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " And you will be able to follow me."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 165.0,
+            "end": 167.0,
+            "text": " And because I will use the template."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 167.0,
+            "end": 170.0,
+            "text": " You will get the easy to follow me."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 170.0,
+            "end": 173.0,
+            "text": " So I will go on my rapples."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 173.0,
+            "end": 175.0,
+            "text": " I have already made some rapples."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 175.0,
+            "end": 180.0,
+            "text": " And I will scroll down and go to Python 0 to JobReady folder."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 180.0,
+            "end": 184.0,
+            "text": " And this is not my day 1 rapples."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 184.0,
+            "end": 190.0,
+            "text": " So I can see here that my video will be in the floating pane."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 190.0,
+            "end": 194.0,
+            "text": " And we will keep our content here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 194.0,
+            "end": 198.0,
+            "text": " So the console I will keep here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 198.0,
+            "end": 203.0,
+            "text": " And with that, you will see the code."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 203.0,
+            "end": 205.0,
+            "text": " I will close it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 205.0,
+            "end": 207.0,
+            "text": " I will write the code here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 207.0,
+            "end": 210.0,
+            "text": " And the output of this code is going to be there."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 210.0,
+            "end": 212.0,
+            "text": " So I will make a new file soon."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 212.0,
+            "end": 215.0,
+            "text": " So I will click here and open the main.py."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 215.0,
+            "end": 217.0,
+            "text": " And I want to open it here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 217.0,
+            "end": 220.0,
+            "text": " So you can see how easy to use it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 220.0,
+            "end": 222.0,
+            "text": " Here is the tutorial."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 222.0,
+            "end": 224.0,
+            "text": " We will write the code here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 224.0,
+            "end": 226.0,
+            "text": " Here is the output."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 226.0,
+            "end": 228.0,
+            "text": " You can watch our video."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 228.0,
+            "end": 231.0,
+            "text": " I have put a demo video here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 231.0,
+            "end": 234.0,
+            "text": " You will see our day video."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 234.0,
+            "end": 239.0,
+            "text": " If you think how I did it, I will give you a link in the description."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 239.0,
+            "end": 241.0,
+            "text": " You will know how to do this."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " There is no teacher in this case."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 243.0,
+            "end": 245.0,
+            "text": " Python is talking quickly."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 245.0,
+            "end": 249.0,
+            "text": " But before talking about it, I want to talk about programming."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 249.0,
+            "end": 254.0,
+            "text": " So as you can see, programming is a way for us to tell computers what to do."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 254.0,
+            "end": 257.0,
+            "text": " And we do programming."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 257.0,
+            "end": 261.0,
+            "text": " If you have a calculator in your house,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 261.0,
+            "end": 266.0,
+            "text": " we can tell you how much we can do in the calculator."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 266.0,
+            "end": 271.0,
+            "text": " You will know how much we can do in the calculator."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 271.0,
+            "end": 276.0,
+            "text": " But how about 2, 3, 4, 5, 3, 4, 5, 3, 4, 5, 6, 4, 5, 6?"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 276.0,
+            "end": 279.0,
+            "text": " You can calculate it, but you can't do it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " You can do it as much as you can."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 281.0,
+            "end": 284.0,
+            "text": " We use a very important communication with a computer."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 284.0,
+            "end": 287.0,
+            "text": " And we use programming for it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 287.0,
+            "end": 290.0,
+            "text": " You can talk about it in English and Hindi."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 290.0,
+            "end": 293.0,
+            "text": " You can talk about Spanish and English."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 293.0,
+            "end": 296.0,
+            "text": " You can talk about any other language."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 296.0,
+            "end": 299.0,
+            "text": " We use programming languages for talking to computers."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 299.0,
+            "end": 304.0,
+            "text": " Python, C, C++, Java and many other languages in the market."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 304.0,
+            "end": 306.0,
+            "text": " But this is the course."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 306.0,
+            "end": 308.0,
+            "text": " Python is dedicated to us."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 308.0,
+            "end": 310.0,
+            "text": " And that is why Python is also easy."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 310.0,
+            "end": 313.0,
+            "text": " Python is the easiest to learn programming languages."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 313.0,
+            "end": 315.0,
+            "text": " Because when you learn Python,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 315.0,
+            "end": 319.0,
+            "text": " then you start to learn things on a different level."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 319.0,
+            "end": 321.0,
+            "text": " Python is dynamically typed,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 321.0,
+            "end": 323.0,
+            "text": " the general purpose programming languages"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " which support object oriented paradigm."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 325.0,
+            "end": 328.0,
+            "text": " And the functional approach also supports it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 328.0,
+            "end": 330.0,
+            "text": " If you don't know what they are,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 330.0,
+            "end": 332.0,
+            "text": " then we are going to learn in this course."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 332.0,
+            "end": 335.0,
+            "text": " Now the interpreter is the high level programming language."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 335.0,
+            "end": 338.0,
+            "text": " And in the video 1,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 338.0,
+            "end": 340.0,
+            "text": " you asked some people"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 340.0,
+            "end": 343.0,
+            "text": " when Python developed Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 343.0,
+            "end": 345.0,
+            "text": " It was not a single day."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " It was not a single year."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " It was created by the 1989s."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " So you can see it in 1991."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 351.0,
+            "end": 354.0,
+            "text": " You can see it in 1992."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 354.0,
+            "end": 357.0,
+            "text": " But it is true that it started in 1989."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 357.0,
+            "end": 359.0,
+            "text": " It was made by the period of years."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 359.0,
+            "end": 361.0,
+            "text": " What are the features of Python?"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 361.0,
+            "end": 363.0,
+            "text": " The first thing I will tell you."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 363.0,
+            "end": 366.0,
+            "text": " The simplest programming language is"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 366.0,
+            "end": 368.0,
+            "text": " Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 368.0,
+            "end": 370.0,
+            "text": " And you can do anything with it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 370.0,
+            "end": 372.0,
+            "text": " Platform is independent."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 372.0,
+            "end": 374.0,
+            "text": " It is independent."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 374.0,
+            "end": 378.0,
+            "text": " And it means that if you write code in Windows,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 378.0,
+            "end": 380.0,
+            "text": " you can also go to Linux."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 380.0,
+            "end": 382.0,
+            "text": " And if you write code in Mac,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 382.0,
+            "end": 384.0,
+            "text": " you can also go to Windows."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 384.0,
+            "end": 387.0,
+            "text": " You can also go to KCV platform."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 387.0,
+            "end": 389.0,
+            "text": " I am writing code in my browser."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 389.0,
+            "end": 391.0,
+            "text": " I don't mean to use the Rapplite platform."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 391.0,
+            "end": 393.0,
+            "text": " But if I write code in Mac,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 393.0,
+            "end": 396.0,
+            "text": " then you have to run it somewhere."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 396.0,
+            "end": 398.0,
+            "text": " It is very easy to be used for you."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 398.0,
+            "end": 400.0,
+            "text": " For a common Zoos programming language."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 400.0,
+            "end": 402.0,
+            "text": " The biggest thing is that you don't pay money."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 402.0,
+            "end": 405.0,
+            "text": " You have to use Python which is amazing."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 405.0,
+            "end": 408.0,
+            "text": " And Python provides very big library support."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 408.0,
+            "end": 411.0,
+            "text": " All these people use this simple language."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 411.0,
+            "end": 412.0,
+            "text": " Because of which,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 412.0,
+            "end": 416.0,
+            "text": " all these people are working on a project."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 416.0,
+            "end": 419.0,
+            "text": " And all the people's project"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 419.0,
+            "end": 420.0,
+            "text": " written by them,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 420.0,
+            "end": 423.0,
+            "text": " they have written code in their own way."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 423.0,
+            "end": 426.0,
+            "text": " Maybe someone has made something in a year and you can use it for a minute."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 426.0,
+            "end": 428.0,
+            "text": " It is a huge thing."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 428.0,
+            "end": 430.0,
+            "text": " I will talk about learning point of view."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 430.0,
+            "end": 432.0,
+            "text": " I will talk about error point of view."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 432.0,
+            "end": 434.0,
+            "text": " Maybe the error you are seeing today"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 434.0,
+            "end": 436.0,
+            "text": " has been created for 10 years."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 436.0,
+            "end": 438.0,
+            "text": " And he has broken it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 438.0,
+            "end": 440.0,
+            "text": " And he has put it on a website."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 440.0,
+            "end": 443.0,
+            "text": " You will be very easy for people."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 443.0,
+            "end": 445.0,
+            "text": " You will be very easy for people."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 445.0,
+            "end": 447.0,
+            "text": " That is the solution of that problem."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 447.0,
+            "end": 451.0,
+            "text": " Python provides a very big library support."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 451.0,
+            "end": 452.0,
+            "text": " And then,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 452.0,
+            "end": 455.0,
+            "text": " programming language is an integral thing."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 455.0,
+            "end": 459.0,
+            "text": " You can link it with a very good way."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 459.0,
+            "end": 460.0,
+            "text": " And then,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 460.0,
+            "end": 462.0,
+            "text": " I have written some applications."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 462.0,
+            "end": 464.0,
+            "text": " You can do database."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 464.0,
+            "end": 465.0,
+            "text": " You can do data science."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 465.0,
+            "end": 466.0,
+            "text": " You can do machine learning."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 466.0,
+            "end": 468.0,
+            "text": " You can make web applications."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 468.0,
+            "end": 471.0,
+            "text": " You can make a lot of complicated applications."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 471.0,
+            "end": 474.0,
+            "text": " And for increasing your business"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 474.0,
+            "end": 478.0,
+            "text": " you can do all the complex mathematical operations with Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 478.0,
+            "end": 480.0,
+            "text": " And I am using a replicate."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 480.0,
+            "end": 483.0,
+            "text": " Because the code is very easy to share."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 483.0,
+            "end": 485.0,
+            "text": " You can also install Python in local."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 485.0,
+            "end": 486.0,
+            "text": " It is very easy."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 486.0,
+            "end": 487.0,
+            "text": " Simply, you can do it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 487.0,
+            "end": 489.0,
+            "text": " Why not on any platform?"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 489.0,
+            "end": 492.0,
+            "text": " You can install it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 492.0,
+            "end": 494.0,
+            "text": " It is a game."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 494.0,
+            "end": 496.0,
+            "text": " And if you are in Mac,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 496.0,
+            "end": 498.0,
+            "text": " you can see how simple installation is."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 498.0,
+            "end": 500.0,
+            "text": " But in Windows,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 500.0,
+            "end": 502.0,
+            "text": " you can install Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 502.0,
+            "end": 505.0,
+            "text": " And if you are installing something,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 505.0,
+            "end": 509.0,
+            "text": " you can install Python at Python 3."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 509.0,
+            "end": 511.0,
+            "text": " Which is version 2."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 511.0,
+            "end": 514.0,
+            "text": " And if you are not installing it,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 514.0,
+            "end": 518.0,
+            "text": " you can use Python to use it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 518.0,
+            "end": 522.0,
+            "text": " If I open my terminal,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 522.0,
+            "end": 525.0,
+            "text": " I will write Python in Windows."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 525.0,
+            "end": 528.0,
+            "text": " And you can see that Python is not found."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 528.0,
+            "end": 530.0,
+            "text": " So, this problem is solved."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 530.0,
+            "end": 533.0,
+            "text": " If you are in Linux or Mac,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 533.0,
+            "end": 535.0,
+            "text": " then you can write Python in Python."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 535.0,
+            "end": 537.0,
+            "text": " So, you can see the error."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 537.0,
+            "end": 539.0,
+            "text": " If you are in Python 3,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 539.0,
+            "end": 542.0,
+            "text": " you can see the Rappl."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 542.0,
+            "end": 545.0,
+            "text": " The Rappl is a redevaluated print."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 545.0,
+            "end": 549.0,
+            "text": " And you can use Python as a calculator."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 549.0,
+            "end": 552.0,
+            "text": " You can use commands like this."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 552.0,
+            "end": 555.0,
+            "text": " If you don't know what is the print statement."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 555.0,
+            "end": 557.0,
+            "text": " We are going to read it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 557.0,
+            "end": 559.0,
+            "text": " We are going to read it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 559.0,
+            "end": 562.0,
+            "text": " We are going to digest slowly."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 562.0,
+            "end": 565.0,
+            "text": " So, if you want to come out from Rappl,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 565.0,
+            "end": 568.0,
+            "text": " or read it from the print loop,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 568.0,
+            "end": 571.0,
+            "text": " you can exit and come out."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 571.0,
+            "end": 573.0,
+            "text": " But what I am going to do is,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 573.0,
+            "end": 576.0,
+            "text": " I am going to use the Rappl."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 576.0,
+            "end": 578.0,
+            "text": " And in Rappl,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 578.0,
+            "end": 583.0,
+            "text": " we use the Rappl."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 583.0,
+            "end": 585.0,
+            "text": " And the name of the Rappl is here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 585.0,
+            "end": 587.0,
+            "text": " It is called the read devalue print loop."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 587.0,
+            "end": 590.0,
+            "text": " There are many programming languages."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 590.0,
+            "end": 592.0,
+            "text": " I have derived this name from here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 592.0,
+            "end": 594.0,
+            "text": " If I write hello word,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 594.0,
+            "end": 596.0,
+            "text": " and click on the run,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " then you can see how easy it is to run."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 598.0,
+            "end": 601.0,
+            "text": " I want to see its output."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 601.0,
+            "end": 603.0,
+            "text": " And it has also been added."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 603.0,
+            "end": 605.0,
+            "text": " Hello word."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 605.0,
+            "end": 608.0,
+            "text": " If I print 7 or 5,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 608.0,
+            "end": 610.0,
+            "text": " and run it,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 610.0,
+            "end": 612.0,
+            "text": " then it will run."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 612.0,
+            "end": 614.0,
+            "text": " And I will see 5."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 614.0,
+            "end": 616.0,
+            "text": " So, basically, I am writing code here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 616.0,
+            "end": 618.0,
+            "text": " But the code is executing."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 618.0,
+            "end": 621.0,
+            "text": " I am looking at Rappl."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 621.0,
+            "end": 623.0,
+            "text": " If my computer is slow,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 623.0,
+            "end": 626.0,
+            "text": " then I can run it from a very good point of view."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 626.0,
+            "end": 628.0,
+            "text": " And I can make new files here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 628.0,
+            "end": 630.0,
+            "text": " I can make new files here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 630.0,
+            "end": 632.0,
+            "text": " I can open new files here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 632.0,
+            "end": 634.0,
+            "text": " I can read text here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 634.0,
+            "end": 636.0,
+            "text": " I can watch this video."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 636.0,
+            "end": 638.0,
+            "text": " I can read it anywhere."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 638.0,
+            "end": 640.0,
+            "text": " I can read it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 640.0,
+            "end": 642.0,
+            "text": " I am not going to watch this video."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 642.0,
+            "end": 644.0,
+            "text": " I am going to practice it."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 644.0,
+            "end": 647.0,
+            "text": " And I am going to park it here."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 647.0,
+            "end": 649.0,
+            "text": " And when you want to see it,"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 649.0,
+            "end": 652.0,
+            "text": " then you will be able to make a lot of good experiences."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 652.0,
+            "end": 654.0,
+            "text": " So, I will request you to make"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 654.0,
+            "end": 657.0,
+            "text": " all the players who are going to make"
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 657.0,
+            "end": 659.0,
+            "text": " 100 days of code playlists."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 659.0,
+            "end": 661.0,
+            "text": " Please do access them."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 661.0,
+            "end": 663.0,
+            "text": " Like the video, subscribe the channel."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 663.0,
+            "end": 665.0,
+            "text": " So that you guys don't miss any day."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 665.0,
+            "end": 669.0,
+            "text": " I don't want you to miss any day of code playlists."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 669.0,
+            "end": 672.0,
+            "text": " Please do access the players who are going to make a book."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 672.0,
+            "end": 674.0,
+            "text": " And save it from them."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 674.0,
+            "end": 676.0,
+            "text": " I will meet you guys in the next day."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 676.0,
+            "end": 678.0,
+            "text": " We will talk about good things."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 678.0,
+            "end": 680.0,
+            "text": " And our dedicated date will be there."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 680.0,
+            "end": 683.0,
+            "text": " We will wait for some interesting things."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 683.0,
+            "end": 685.0,
+            "text": " And we will meet them."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 685.0,
+            "end": 689.0,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 689.0,
+            "end": 691.0,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "unknown",
+            "title": "1.audio lecture",
+            "start": 702.0,
+            "end": 704.0,
+            "text": " Bye."
+        }
+    ],
+    "text": " Welcome to 100 days of code guys. In 100 days of code, we are going to learn Python programming from zero to job ready. And if you have given your own sawdust, then I will tell you in the bite size lesson. Python programming, we will take it as a real zero. Starting, you will feel that it is easier to play with children and after that, we will get videos like this and we will go to day 100. We will raise the bar like anything. We will work on complex projects. We will work on things that are used in the industry. So it will be fun to make a lot of excitement. Python is dynamically type, object-oriented programming language. Which was made in 1991 in Guido 1. Guido 1 was made in Monty Python, the name of the circus name. When he was working on this language in the show and he thought Why don't I give Python and then he got his name Python. In this course, we will practice a lot with theory. We will practice a lot with many exercises and quizzes. And you are waiting for many challenges for us. So I will practice in my computer battle. And you will learn Python's tricks and skills. So now you like this video and subscribe to the notifications. So that you don't miss any day. And you will get notifications every day. Because there is a lot of fun in YouTube. So you will get 100 days of code challenge. You will get 100 days of code challenge. You will get 100 days of code challenge. Let's get started. So I have already told you about Google Chrome browser. And I will tell you how to install Python from download and install. So as soon as you write Python, you will get Python.org. And here you will get the latest download of Python. You will get the latest download of Python. You will get the latest download of Python. So I will download Python. You will get the latest download of Python. You can download some of the ideas of Python. I will use Python in my computer. But I will use the template. And you can use the template. This is a collaborative browser based idea. I am using it because I feel it is easy to use. And with that, I will make the code easy for you. So I will sign in from Google account. And then I will redirect on screen. So as you can see, all my rapples are here. You can write a code in the app. If you are not a computer fast, you can see it. Compute wise means that your computer lacks a lot of lag. So you need a browser tap. And you will be able to follow me. And because I will use the template. You will get the easy to follow me. So I will go on my rapples. I have already made some rapples. And I will scroll down and go to Python 0 to JobReady folder. And this is not my day 1 rapples. So I can see here that my video will be in the floating pane. And we will keep our content here. So the console I will keep here. And with that, you will see the code. I will close it. I will write the code here. And the output of this code is going to be there. So I will make a new file soon. So I will click here and open the main.py. And I want to open it here. So you can see how easy to use it. Here is the tutorial. We will write the code here. Here is the output. You can watch our video. I have put a demo video here. You will see our day video. If you think how I did it, I will give you a link in the description. You will know how to do this. There is no teacher in this case. Python is talking quickly. But before talking about it, I want to talk about programming. So as you can see, programming is a way for us to tell computers what to do. And we do programming. If you have a calculator in your house, we can tell you how much we can do in the calculator. You will know how much we can do in the calculator. But how about 2, 3, 4, 5, 3, 4, 5, 3, 4, 5, 6, 4, 5, 6? You can calculate it, but you can't do it. You can do it as much as you can. We use a very important communication with a computer. And we use programming for it. You can talk about it in English and Hindi. You can talk about Spanish and English. You can talk about any other language. We use programming languages for talking to computers. Python, C, C++, Java and many other languages in the market. But this is the course. Python is dedicated to us. And that is why Python is also easy. Python is the easiest to learn programming languages. Because when you learn Python, then you start to learn things on a different level. Python is dynamically typed, the general purpose programming languages which support object oriented paradigm. And the functional approach also supports it. If you don't know what they are, then we are going to learn in this course. Now the interpreter is the high level programming language. And in the video 1, you asked some people when Python developed Python. It was not a single day. It was not a single year. It was created by the 1989s. So you can see it in 1991. You can see it in 1992. But it is true that it started in 1989. It was made by the period of years. What are the features of Python? The first thing I will tell you. The simplest programming language is Python. And you can do anything with it. Platform is independent. It is independent. And it means that if you write code in Windows, you can also go to Linux. And if you write code in Mac, you can also go to Windows. You can also go to KCV platform. I am writing code in my browser. I don't mean to use the Rapplite platform. But if I write code in Mac, then you have to run it somewhere. It is very easy to be used for you. For a common Zoos programming language. The biggest thing is that you don't pay money. You have to use Python which is amazing. And Python provides very big library support. All these people use this simple language. Because of which, all these people are working on a project. And all the people's project written by them, they have written code in their own way. Maybe someone has made something in a year and you can use it for a minute. It is a huge thing. I will talk about learning point of view. I will talk about error point of view. Maybe the error you are seeing today has been created for 10 years. And he has broken it. And he has put it on a website. You will be very easy for people. You will be very easy for people. That is the solution of that problem. Python provides a very big library support. And then, programming language is an integral thing. You can link it with a very good way. And then, I have written some applications. You can do database. You can do data science. You can do machine learning. You can make web applications. You can make a lot of complicated applications. And for increasing your business you can do all the complex mathematical operations with Python. And I am using a replicate. Because the code is very easy to share. You can also install Python in local. It is very easy. Simply, you can do it. Why not on any platform? You can install it. It is a game. And if you are in Mac, you can see how simple installation is. But in Windows, you can install Python. And if you are installing something, you can install Python at Python 3. Which is version 2. And if you are not installing it, you can use Python to use it. If I open my terminal, I will write Python in Windows. And you can see that Python is not found. So, this problem is solved. If you are in Linux or Mac, then you can write Python in Python. So, you can see the error. If you are in Python 3, you can see the Rappl. The Rappl is a redevaluated print. And you can use Python as a calculator. You can use commands like this. If you don't know what is the print statement. We are going to read it. We are going to read it. We are going to digest slowly. So, if you want to come out from Rappl, or read it from the print loop, you can exit and come out. But what I am going to do is, I am going to use the Rappl. And in Rappl, we use the Rappl. And the name of the Rappl is here. It is called the read devalue print loop. There are many programming languages. I have derived this name from here. If I write hello word, and click on the run, then you can see how easy it is to run. I want to see its output. And it has also been added. Hello word. If I print 7 or 5, and run it, then it will run. And I will see 5. So, basically, I am writing code here. But the code is executing. I am looking at Rappl. If my computer is slow, then I can run it from a very good point of view. And I can make new files here. I can make new files here. I can open new files here. I can read text here. I can watch this video. I can read it anywhere. I can read it. I am not going to watch this video. I am going to practice it. And I am going to park it here. And when you want to see it, then you will be able to make a lot of good experiences. So, I will request you to make all the players who are going to make 100 days of code playlists. Please do access them. Like the video, subscribe the channel. So that you guys don't miss any day. I don't want you to miss any day of code playlists. Please do access the players who are going to make a book. And save it from them. I will meet you guys in the next day. We will talk about good things. And our dedicated date will be there. We will wait for some interesting things. And we will meet them. Thank you so much for watching this video. And I will see you next time. Bye."
+}

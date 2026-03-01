@@ -1,0 +1,1286 @@
+{
+    "chunks": [
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 0.0,
+            "end": 3.2800000000000002,
+            "text": " Guys, we welcome you guys in 100 days of code"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 3.2800000000000002,
+            "end": 6.76,
+            "text": " In today's video, we will write our Python program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 6.76,
+            "end": 9.44,
+            "text": " We will write our first Python program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 9.44,
+            "end": 11.6,
+            "text": " Because this is a Python program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 11.6,
+            "end": 13.76,
+            "text": " In which we will write a line of the line"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 13.76,
+            "end": 17.16,
+            "text": " We will understand what is happening in our Python program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 17.16,
+            "end": 19.68,
+            "text": " And we will write it from scratch"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 19.68,
+            "end": 23.8,
+            "text": " In our videos, we will write very dangerous Python programs from scratch"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 23.8,
+            "end": 25.6,
+            "text": " But this is going to be our first program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 25.6,
+            "end": 28.2,
+            "text": " Let's go to the computer screen and let's get started"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 30.0,
+            "end": 40.72,
+            "text": " So, I have already written in the day 4"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 40.72,
+            "end": 42.72,
+            "text": " And today we will write our first program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 42.72,
+            "end": 45.72,
+            "text": " Now we have written our first program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 45.72,
+            "end": 47.879999999999995,
+            "text": " We have not written many programs"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 47.879999999999995,
+            "end": 52.16,
+            "text": " But this is the program that is going to be the character by the word by word"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 52.16,
+            "end": 53.760000000000005,
+            "text": " I am going to write from scratch"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 53.760000000000005,
+            "end": 55.28,
+            "text": " So, this is going to be the feeling of it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 55.28,
+            "end": 57.0,
+            "text": " So, what do you guys do first?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 57.0,
+            "end": 60.0,
+            "text": " Now, what is the print in the Python program?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 60.0,
+            "end": 61.0,
+            "text": " Let me tell you"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 61.0,
+            "end": 63.0,
+            "text": " What is the function?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 63.0,
+            "end": 67.0,
+            "text": " Basically, you use some task to perform the print"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 67.0,
+            "end": 70.0,
+            "text": " And the print function is to invoke any function"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 70.0,
+            "end": 74.0,
+            "text": " We use some of the parentheses like this"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 74.0,
+            "end": 80.0,
+            "text": " You can see that after writing a PRI, I can write a parentheses after writing"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 80.0,
+            "end": 82.0,
+            "text": " And then I can close it like this"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " And I will write whatever I write in it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 84.0,
+            "end": 85.0,
+            "text": " I will get print in it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 85.0,
+            "end": 87.0,
+            "text": " I know that I write 7 in it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 87.0,
+            "end": 89.0,
+            "text": " So, I will get 7 print in it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 89.0,
+            "end": 91.0,
+            "text": " But we will know what we will do"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 91.0,
+            "end": 93.0,
+            "text": " We will write a Hello World"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 93.0,
+            "end": 95.0,
+            "text": " And you will have heard that Python programming"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 95.0,
+            "end": 97.0,
+            "text": " If you write any programming language in any language"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 97.0,
+            "end": 101.0,
+            "text": " Then the first program is written in it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 101.0,
+            "end": 105.0,
+            "text": " You can see here that I have written a print in it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 105.0,
+            "end": 107.0,
+            "text": " And I have written a red color line"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 107.0,
+            "end": 109.0,
+            "text": " And I will write this in valid syntax"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 109.0,
+            "end": 111.0,
+            "text": " Let's go and see it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 111.0,
+            "end": 113.0,
+            "text": " Yes, the beginning is doing error"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 113.0,
+            "end": 115.0,
+            "text": " When we eat a dough, we will learn"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 115.0,
+            "end": 117.0,
+            "text": " So, you guys, look here, I have written a print in it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 117.0,
+            "end": 119.0,
+            "text": " I have got a error"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 119.0,
+            "end": 121.0,
+            "text": " Why did I get error in it?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 121.0,
+            "end": 123.0,
+            "text": " When you use a print in Python"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 123.0,
+            "end": 125.0,
+            "text": " Then you have to give you an object"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " It is not a valid object in the Python"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " Python says that"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 130.0,
+            "end": 132.0,
+            "text": " I don't know the password"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 132.0,
+            "end": 135.0,
+            "text": " Yes, but if you would have included a double code"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 135.0,
+            "end": 139.0,
+            "text": " Then you are talking about a string in Python programming"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 139.0,
+            "end": 141.0,
+            "text": " And we will run it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 141.0,
+            "end": 143.0,
+            "text": " And we have written our first program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 143.0,
+            "end": 145.0,
+            "text": " Hello World, we are getting it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 145.0,
+            "end": 147.0,
+            "text": " You guys are watching the output"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 147.0,
+            "end": 149.0,
+            "text": " And we are getting it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 149.0,
+            "end": 151.0,
+            "text": " So, please write it in the comments"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 151.0,
+            "end": 153.0,
+            "text": " For me, this is the first program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 153.0,
+            "end": 155.0,
+            "text": " Which is written in the character background"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 155.0,
+            "end": 157.0,
+            "text": " It is very big"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 157.0,
+            "end": 159.0,
+            "text": " So far, so good"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 159.0,
+            "end": 161.0,
+            "text": " If I write a PRINT"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " And I write 5 and run it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " Then first, I will write the first word"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 165.0,
+            "end": 167.0,
+            "text": " And then I will write 5"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 167.0,
+            "end": 169.0,
+            "text": " We have run Python in the terminal"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 169.0,
+            "end": 173.0,
+            "text": " We saw that when I write Python 3 in the terminal"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 173.0,
+            "end": 175.0,
+            "text": " And then I write the print"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 175.0,
+            "end": 177.0,
+            "text": " Hello World"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 177.0,
+            "end": 179.0,
+            "text": " So, I am getting all the lines in the manual"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 179.0,
+            "end": 181.0,
+            "text": " And I am getting all the lines in the manual"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 181.0,
+            "end": 183.0,
+            "text": " I want to do everything in the manual"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 183.0,
+            "end": 187.0,
+            "text": " You guys see, I have typed the first word in the first word"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 187.0,
+            "end": 191.0,
+            "text": " Then I have typed the print 5 in the first word"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 191.0,
+            "end": 193.0,
+            "text": " So, I will do the same thing"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 193.0,
+            "end": 195.0,
+            "text": " No, I need to do the same thing"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 195.0,
+            "end": 197.0,
+            "text": " I can make a script"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 197.0,
+            "end": 199.0,
+            "text": " So, I made a script called mean.py script"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 199.0,
+            "end": 201.0,
+            "text": " Means, that the line by line execution"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 201.0,
+            "end": 203.0,
+            "text": " Our code is called Hello World"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 203.0,
+            "end": 205.0,
+            "text": " So, I will get that to see"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 205.0,
+            "end": 207.0,
+            "text": " And then, the print 5 will execute"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 207.0,
+            "end": 209.0,
+            "text": " And as I know"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 209.0,
+            "end": 211.0,
+            "text": " I will write the print by"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 211.0,
+            "end": 213.0,
+            "text": " I will write it like this"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 213.0,
+            "end": 215.0,
+            "text": " And then I will do it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 215.0,
+            "end": 217.0,
+            "text": " So, I will write the first word"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 217.0,
+            "end": 219.0,
+            "text": " Then I will get the 5 by line"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 219.0,
+            "end": 221.0,
+            "text": " Because the script is executing the line by line"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 221.0,
+            "end": 223.0,
+            "text": " Now, how the print is written in this implementation"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 223.0,
+            "end": 225.0,
+            "text": " If you want to know the print"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 225.0,
+            "end": 227.0,
+            "text": " And what are the uses of the print"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 227.0,
+            "end": 229.0,
+            "text": " You see, this is the display app"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 229.0,
+            "end": 231.0,
+            "text": " As I have taken the mouse here"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 231.0,
+            "end": 233.0,
+            "text": " I will tell you the value of the print"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 233.0,
+            "end": 235.0,
+            "text": " And the object is there"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 235.0,
+            "end": 237.0,
+            "text": " And you can also give multiple values"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 237.0,
+            "end": 239.0,
+            "text": " Like this, as I have done the word"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 239.0,
+            "end": 241.0,
+            "text": " So, you see, the word is called Hello World"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " And after that, the word is called 7"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 243.0,
+            "end": 245.0,
+            "text": " And then, the next statement is executed"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 245.0,
+            "end": 247.0,
+            "text": " And then, the next execute is done"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 247.0,
+            "end": 249.0,
+            "text": " And the line by line is our script execute"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 249.0,
+            "end": 251.0,
+            "text": " And then, the next statement is called"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 251.0,
+            "end": 253.0,
+            "text": " Printing is not possible"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 253.0,
+            "end": 255.0,
+            "text": " We can only print it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 255.0,
+            "end": 257.0,
+            "text": " And this is the score"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 257.0,
+            "end": 259.0,
+            "text": " That is the special thing"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 259.0,
+            "end": 261.0,
+            "text": " We will do what we will do"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 261.0,
+            "end": 263.0,
+            "text": " But, we will start our first Python program"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " What is the script of the thing"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 265.0,
+            "end": 269.0,
+            "text": " And when we execute the command"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 269.0,
+            "end": 271.0,
+            "text": " And then, the line by line is given by the python interpreter"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 271.0,
+            "end": 273.0,
+            "text": " And in the same thing"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 273.0,
+            "end": 275.0,
+            "text": " In the Rappl, it is called Rappl"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 275.0,
+            "end": 277.0,
+            "text": " When we write the python 3"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 277.0,
+            "end": 279.0,
+            "text": " The python 3 is called Rappl"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 279.0,
+            "end": 281.0,
+            "text": " I will write it 8 plus 9"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 281.0,
+            "end": 283.0,
+            "text": " So, I will write it 17"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 283.0,
+            "end": 287.0,
+            "text": " But, after that, I will get some more written output"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " As I write it, I will get it in output"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 289.0,
+            "end": 291.0,
+            "text": " Ideally, we don't want to do this"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 291.0,
+            "end": 295.0,
+            "text": " Ideally, we want to process the sequence of instructions"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 295.0,
+            "end": 297.0,
+            "text": " With the python"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 297.0,
+            "end": 299.0,
+            "text": " We want to say that python is the term"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 299.0,
+            "end": 301.0,
+            "text": " This is the first execute"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 301.0,
+            "end": 303.0,
+            "text": " Then execute it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " Then do it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " And I bought 10 rupees for the first time"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 307.0,
+            "end": 309.0,
+            "text": " And I bought 5 kilos"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 309.0,
+            "end": 311.0,
+            "text": " Or, I bought 17 rupees for the first time"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 311.0,
+            "end": 313.0,
+            "text": " And I bought 3 kilos"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 313.0,
+            "end": 315.0,
+            "text": " So, I will say that"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 315.0,
+            "end": 317.0,
+            "text": " If I buy 5, 17 rupees for the first time"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 317.0,
+            "end": 319.0,
+            "text": " And I bought 3 kilos"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 319.0,
+            "end": 323.0,
+            "text": " So, how much will the python be able to tell"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " You can do some kind of computations"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 325.0,
+            "end": 327.0,
+            "text": " For multiplication"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " You have to put a star"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 329.0,
+            "end": 331.0,
+            "text": " Don't put x"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 331.0,
+            "end": 333.0,
+            "text": " It is a star"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 333.0,
+            "end": 335.0,
+            "text": " And for the divide"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 335.0,
+            "end": 337.0,
+            "text": " If you want to do simple things"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " Try to do it"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 339.0,
+            "end": 341.0,
+            "text": " But, you can do it in 21"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " I bought it for the first time"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 343.0,
+            "end": 345.0,
+            "text": " So, by the way, you can do some kind of computations"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " In the coming videos, we will learn more"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " In this course, I want to tell you"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " Which course is not for this"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 351.0,
+            "end": 353.0,
+            "text": " If you can't do daily consistent things"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 353.0,
+            "end": 355.0,
+            "text": " Or, you want to do short cut"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 355.0,
+            "end": 357.0,
+            "text": " Or, you don't want to do this course"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 357.0,
+            "end": 359.0,
+            "text": " Because, this course is a demand"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 359.0,
+            "end": 361.0,
+            "text": " Consistency"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 361.0,
+            "end": 363.0,
+            "text": " Or, you can practice"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 363.0,
+            "end": 365.0,
+            "text": " And watch all the videos"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " And watch your time"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 367.0,
+            "end": 369.0,
+            "text": " And, come out and get 100 days of code challenge"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 369.0,
+            "end": 371.0,
+            "text": " Go all day"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 371.0,
+            "end": 373.0,
+            "text": " And you guys will give attendance"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 373.0,
+            "end": 375.0,
+            "text": " In the comment below"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 375.0,
+            "end": 377.0,
+            "text": " I will see in the present"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 377.0,
+            "end": 379.0,
+            "text": " If you want to learn more"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 379.0,
+            "end": 381.0,
+            "text": " And, learn more"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 381.0,
+            "end": 383.0,
+            "text": " And, don't go without practice"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 383.0,
+            "end": 385.0,
+            "text": " Practice is not a problem"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 385.0,
+            "end": 387.0,
+            "text": " You will have to take stairs"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 387.0,
+            "end": 389.0,
+            "text": " And, these are stairs"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 389.0,
+            "end": 391.0,
+            "text": " And you guys have to walk for 100 days"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 391.0,
+            "end": 393.0,
+            "text": " And, you will have to walk for 100 days"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " And, trust me, it will be worth it at the end"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 395.0,
+            "end": 399.0,
+            "text": " I will tell you the thing that I have learned"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 399.0,
+            "end": 403.0,
+            "text": " And, in the coming videos, we will do coding"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 403.0,
+            "end": 407.0,
+            "text": " We will write all the codes in the next few videos"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 407.0,
+            "end": 409.0,
+            "text": " And, in fact, over the next"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 409.0,
+            "end": 411.0,
+            "text": " A lot of videos that we will do for 100 days"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 411.0,
+            "end": 413.0,
+            "text": " And, we will do it in the next video"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 413.0,
+            "end": 415.0,
+            "text": " If you don't have access to playlists"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 415.0,
+            "end": 417.0,
+            "text": " Then, please do access"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 417.0,
+            "end": 419.0,
+            "text": " And, save them"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 419.0,
+            "end": 421.0,
+            "text": " Thanks for watching this video"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program   Python Tutorial - Day #4",
+            "start": 421.0,
+            "end": 423.0,
+            "text": " And, I will see you next time"
+        }
+    ],
+    "text": " Guys, we welcome you guys in 100 days of code In today's video, we will write our Python program We will write our first Python program Because this is a Python program In which we will write a line of the line We will understand what is happening in our Python program And we will write it from scratch In our videos, we will write very dangerous Python programs from scratch But this is going to be our first program Let's go to the computer screen and let's get started So, I have already written in the day 4 And today we will write our first program Now we have written our first program We have not written many programs But this is the program that is going to be the character by the word by word I am going to write from scratch So, this is going to be the feeling of it So, what do you guys do first? Now, what is the print in the Python program? Let me tell you What is the function? Basically, you use some task to perform the print And the print function is to invoke any function We use some of the parentheses like this You can see that after writing a PRI, I can write a parentheses after writing And then I can close it like this And I will write whatever I write in it I will get print in it I know that I write 7 in it So, I will get 7 print in it But we will know what we will do We will write a Hello World And you will have heard that Python programming If you write any programming language in any language Then the first program is written in it You can see here that I have written a print in it And I have written a red color line And I will write this in valid syntax Let's go and see it Yes, the beginning is doing error When we eat a dough, we will learn So, you guys, look here, I have written a print in it I have got a error Why did I get error in it? When you use a print in Python Then you have to give you an object It is not a valid object in the Python Python says that I don't know the password Yes, but if you would have included a double code Then you are talking about a string in Python programming And we will run it And we have written our first program Hello World, we are getting it You guys are watching the output And we are getting it So, please write it in the comments For me, this is the first program Which is written in the character background It is very big So far, so good If I write a PRINT And I write 5 and run it Then first, I will write the first word And then I will write 5 We have run Python in the terminal We saw that when I write Python 3 in the terminal And then I write the print Hello World So, I am getting all the lines in the manual And I am getting all the lines in the manual I want to do everything in the manual You guys see, I have typed the first word in the first word Then I have typed the print 5 in the first word So, I will do the same thing No, I need to do the same thing I can make a script So, I made a script called mean.py script Means, that the line by line execution Our code is called Hello World So, I will get that to see And then, the print 5 will execute And as I know I will write the print by I will write it like this And then I will do it So, I will write the first word Then I will get the 5 by line Because the script is executing the line by line Now, how the print is written in this implementation If you want to know the print And what are the uses of the print You see, this is the display app As I have taken the mouse here I will tell you the value of the print And the object is there And you can also give multiple values Like this, as I have done the word So, you see, the word is called Hello World And after that, the word is called 7 And then, the next statement is executed And then, the next execute is done And the line by line is our script execute And then, the next statement is called Printing is not possible We can only print it And this is the score That is the special thing We will do what we will do But, we will start our first Python program What is the script of the thing And when we execute the command And then, the line by line is given by the python interpreter And in the same thing In the Rappl, it is called Rappl When we write the python 3 The python 3 is called Rappl I will write it 8 plus 9 So, I will write it 17 But, after that, I will get some more written output As I write it, I will get it in output Ideally, we don't want to do this Ideally, we want to process the sequence of instructions With the python We want to say that python is the term This is the first execute Then execute it Then do it And I bought 10 rupees for the first time And I bought 5 kilos Or, I bought 17 rupees for the first time And I bought 3 kilos So, I will say that If I buy 5, 17 rupees for the first time And I bought 3 kilos So, how much will the python be able to tell You can do some kind of computations For multiplication You have to put a star Don't put x It is a star And for the divide If you want to do simple things Try to do it But, you can do it in 21 I bought it for the first time So, by the way, you can do some kind of computations In the coming videos, we will learn more In this course, I want to tell you Which course is not for this If you can't do daily consistent things Or, you want to do short cut Or, you don't want to do this course Because, this course is a demand Consistency Or, you can practice And watch all the videos And watch your time And, come out and get 100 days of code challenge Go all day And you guys will give attendance In the comment below I will see in the present If you want to learn more And, learn more And, don't go without practice Practice is not a problem You will have to take stairs And, these are stairs And you guys have to walk for 100 days And, you will have to walk for 100 days And, trust me, it will be worth it at the end I will tell you the thing that I have learned And, in the coming videos, we will do coding We will write all the codes in the next few videos And, in fact, over the next A lot of videos that we will do for 100 days And, we will do it in the next video If you don't have access to playlists Then, please do access And, save them Thanks for watching this video And, I will see you next time"
+}

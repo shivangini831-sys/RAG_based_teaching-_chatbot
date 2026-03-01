@@ -1,0 +1,8 @@
+  I am teaching c++. Here are video subtitle chunks containing video title,video number ,start time in second,end time in second, the text at that time:
+
+[{"title":"2 .audio lecture","number":"unknown","start":135.5,"end":137.5,"text":" What does this program do?"},{"title":"Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5","number":"5","start":47.82,"end":49.82,"text":" what I am doing in this program"},{"title":"Our First Python Program   Python Tutorial - Day #4","number":"4","start":151.0,"end":153.0,"text":" For me, this is the first program"},{"title":"Taking User Input in Python   Python Tutorial - Day #10","number":"10","start":114.84,"end":116.84,"text":" the basic program"},{"title":"Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5","number":"5","start":313.8,"end":316.8,"text":" And now, our program is running."}]
+........................
+
+"where is the starting of the program "
+user asked this question related to the video chunks, you have to answer in a human way (dont mention the above format,its just for you where and how much content is taught in which video where (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
+

@@ -1,0 +1,1888 @@
+{
+    "chunks": [
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " What a great day!"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 2.0,
+            "end": 6.8,
+            "text": " Even in day 9, 100 days of good consistency is 1st day of good consistency."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 6.8,
+            "end": 9.700000000000001,
+            "text": " Today I will tell you about the type of casting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 9.700000000000001,
+            "end": 11.200000000000001,
+            "text": " This term is very scary."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 11.200000000000001,
+            "end": 13.200000000000001,
+            "text": " I am hearing it in the type casting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 13.200000000000001,
+            "end": 15.6,
+            "text": " But I will tell you that it is very simple."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 15.6,
+            "end": 17.6,
+            "text": " See we have made a single string variable."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 17.6,
+            "end": 19.7,
+            "text": " And it has been written in the 27th."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 19.7,
+            "end": 21.5,
+            "text": " We have closed the double codes."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 21.5,
+            "end": 24.6,
+            "text": " Because the string was in the 27th."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 24.6,
+            "end": 28.0,
+            "text": " But if we add it in the 3th, then it will not come in 30."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 28.0,
+            "end": 29.5,
+            "text": " Because it is the 27th string."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 29.5,
+            "end": 31.0,
+            "text": " And the 3th is a integer."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 31.0,
+            "end": 33.0,
+            "text": " So if we want to tell you the pattern."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 33.0,
+            "end": 36.3,
+            "text": " The number of double codes written in the double codes is a valid number."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 36.3,
+            "end": 38.0,
+            "text": " So we can type it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 38.0,
+            "end": 40.5,
+            "text": " You and the integer by using end function."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 40.5,
+            "end": 42.5,
+            "text": " This is how all these works."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 42.5,
+            "end": 44.5,
+            "text": " We will see in this video in the video in the description."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 44.5,
+            "end": 47.0,
+            "text": " We will go to the video screen and let's get started."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 56.5,
+            "end": 58.5,
+            "text": " Let's see about the type casting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 58.5,
+            "end": 61.5,
+            "text": " First of all, why is it important?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 61.5,
+            "end": 62.5,
+            "text": " I had a comment."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 62.5,
+            "end": 64.0,
+            "text": " I will tell you what it is."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 64.0,
+            "end": 67.5,
+            "text": " The comment was that I also made A plus B."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 67.5,
+            "end": 72.0,
+            "text": " I got 1 value, 1 value, 2 value and I got a result 12."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 72.0,
+            "end": 75.0,
+            "text": " So I understood that my cherifix is small."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 75.0,
+            "end": 78.0,
+            "text": " I said, this is what it looks like."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 78.0,
+            "end": 79.5,
+            "text": " Harry was also coming to the exam."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 79.5,
+            "end": 81.0,
+            "text": " And he was thinking like this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 81.0,
+            "end": 83.0,
+            "text": " And today I will tell you why he came here."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 83.0,
+            "end": 84.0,
+            "text": " It looks like you are fine."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 84.0,
+            "end": 85.5,
+            "text": " Now see what happens."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 85.5,
+            "end": 88.0,
+            "text": " I am writing A is equal to 1."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 88.0,
+            "end": 90.0,
+            "text": " I am telling you the problem."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 90.0,
+            "end": 92.0,
+            "text": " The problem comes from Python developers."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 92.0,
+            "end": 94.0,
+            "text": " And developers are also from the state."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 94.0,
+            "end": 98.0,
+            "text": " Now if you say I will print A plus B."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " Now you are saying why are you writing things like this?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 101.0,
+            "end": 103.0,
+            "text": " Why are you writing things like this?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 103.0,
+            "end": 107.0,
+            "text": " Because it is time to do this in this course."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 107.0,
+            "end": 110.0,
+            "text": " You are saying that it will be 13."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 110.0,
+            "end": 111.0,
+            "text": " Sorry, it will be 13."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 111.0,
+            "end": 112.5,
+            "text": " It will be 12."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 112.5,
+            "end": 115.0,
+            "text": " Now why I will tell you why I am 12?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 115.0,
+            "end": 117.5,
+            "text": " A is a string, B is a string."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 117.5,
+            "end": 122.5,
+            "text": " Python does not know that your string contains a number."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 122.5,
+            "end": 126.0,
+            "text": " Python is one number when you get two strings."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 126.0,
+            "end": 129.0,
+            "text": " If you write Harry and brother here,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 129.0,
+            "end": 131.5,
+            "text": " you can write Harry and brother here."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 131.5,
+            "end": 133.0,
+            "text": " Let me show you."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 133.0,
+            "end": 135.0,
+            "text": " If you write Harry and brother,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 135.0,
+            "end": 138.0,
+            "text": " then there is no number detection."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 138.0,
+            "end": 140.0,
+            "text": " Harry is hiding inside the side."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 140.0,
+            "end": 142.0,
+            "text": " Because the string is like this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 142.0,
+            "end": 143.5,
+            "text": " So if you write 1 or 2,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 143.5,
+            "end": 145.5,
+            "text": " then what will be hidden side by side?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 145.5,
+            "end": 148.5,
+            "text": " So I have arranged this one string."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 148.5,
+            "end": 150.5,
+            "text": " This one is a string."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 150.5,
+            "end": 153.5,
+            "text": " Convert it into integer."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 153.5,
+            "end": 155.5,
+            "text": " So all the shift and down arrow,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 155.5,
+            "end": 157.5,
+            "text": " I will replicate both lines."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 157.5,
+            "end": 158.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 158.5,
+            "end": 161.5,
+            "text": " And I wrote this one and here B is equal to 2."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 161.5,
+            "end": 163.5,
+            "text": " I do not need to comment on these lines."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 163.5,
+            "end": 165.5,
+            "text": " Because the value of the string was first."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 165.5,
+            "end": 167.5,
+            "text": " Then I have numbered it once."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 167.5,
+            "end": 169.5,
+            "text": " But I will also comment on clarity."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 169.5,
+            "end": 171.5,
+            "text": " Control plus forward slash."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 171.5,
+            "end": 172.5,
+            "text": " I will use it later."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 172.5,
+            "end": 174.5,
+            "text": " I will remember this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 174.5,
+            "end": 176.5,
+            "text": " I will remember this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 176.5,
+            "end": 178.5,
+            "text": " I will remember this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 178.5,
+            "end": 179.5,
+            "text": " I will remember this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 179.5,
+            "end": 181.5,
+            "text": " I will remember this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 181.5,
+            "end": 183.5,
+            "text": " And A1, B2."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 183.5,
+            "end": 184.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 184.5,
+            "end": 186.5,
+            "text": " I will repeat this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 186.5,
+            "end": 188.5,
+            "text": " Because this time A was number."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 188.5,
+            "end": 189.5,
+            "text": " And B was number."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 189.5,
+            "end": 190.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 190.5,
+            "end": 192.5,
+            "text": " They were writing this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 192.5,
+            "end": 194.5,
+            "text": " I have not seen it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 194.5,
+            "end": 196.5,
+            "text": " Now I will see."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 196.5,
+            "end": 198.5,
+            "text": " Now A1, B2."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 198.5,
+            "end": 200.5,
+            "text": " So what was the type of casting?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 200.5,
+            "end": 202.5,
+            "text": " The type of one data type"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 202.5,
+            "end": 205.5,
+            "text": " into the other data type is known as"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 205.5,
+            "end": 206.5,
+            "text": " type casting and Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 206.5,
+            "end": 208.5,
+            "text": " Or type conversion is also called as"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 208.5,
+            "end": 209.5,
+            "text": " Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 209.5,
+            "end": 210.5,
+            "text": " Both are functions."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 210.5,
+            "end": 211.5,
+            "text": " Support function."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 211.5,
+            "end": 213.5,
+            "text": " The data types are not talking about functions."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 213.5,
+            "end": 217.5,
+            "text": " And STR, ORD, HECK,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 217.5,
+            "end": 219.5,
+            "text": " AX, TAPL, SET, LIST, DICKT."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 219.5,
+            "end": 221.5,
+            "text": " These are all methods."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 221.5,
+            "end": 222.5,
+            "text": " These are all methods."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 222.5,
+            "end": 223.5,
+            "text": " These are all data types."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 223.5,
+            "end": 226.5,
+            "text": " This is a function."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 226.5,
+            "end": 228.5,
+            "text": " The one who helps."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 228.5,
+            "end": 230.5,
+            "text": " And DITTA, I have no data time."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 230.5,
+            "end": 231.5,
+            "text": " In converting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 231.5,
+            "end": 233.5,
+            "text": " Now he will try to convert."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 233.5,
+            "end": 235.5,
+            "text": " Now you will say,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 235.5,
+            "end": 236.5,
+            "text": " convert in a hairy-go-indeger."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 236.5,
+            "end": 237.5,
+            "text": " Why?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 237.5,
+            "end": 238.5,
+            "text": " Yes."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 238.5,
+            "end": 239.5,
+            "text": " No, no."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 239.5,
+            "end": 240.5,
+            "text": " How?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 240.5,
+            "end": 241.5,
+            "text": " How?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 241.5,
+            "end": 243.5,
+            "text": " It is a name written in a hairy-go-indeger."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 243.5,
+            "end": 244.5,
+            "text": " How?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 244.5,
+            "end": 245.5,
+            "text": " How?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 245.5,
+            "end": 246.5,
+            "text": " Yes."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 246.5,
+            "end": 248.5,
+            "text": " If you have written one in your string,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 248.5,
+            "end": 250.5,
+            "text": " then it is understood."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 250.5,
+            "end": 251.5,
+            "text": " That by one string,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 251.5,
+            "end": 252.5,
+            "text": " one string,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 252.5,
+            "end": 253.5,
+            "text": " one string,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 253.5,
+            "end": 254.5,
+            "text": " one string,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 254.5,
+            "end": 255.5,
+            "text": " one string,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 255.5,
+            "end": 256.5,
+            "text": " that is understood."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 256.5,
+            "end": 257.5,
+            "text": " But what is this?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 257.5,
+            "end": 259.5,
+            "text": " Let me make a hairy-go-indeger."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 259.5,
+            "end": 261.5,
+            "text": " Python is also frustrated."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 261.5,
+            "end": 262.5,
+            "text": " It is also angry."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 262.5,
+            "end": 264.5,
+            "text": " And it becomes angry."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 264.5,
+            "end": 265.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 265.5,
+            "end": 267.5,
+            "text": " What does it say?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 267.5,
+            "end": 269.5,
+            "text": " You want to convert in a hairy-go-indeger."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 269.5,
+            "end": 270.5,
+            "text": " You cannot do it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 270.5,
+            "end": 271.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 271.5,
+            "end": 272.5,
+            "text": " There are two types of casting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 272.5,
+            "end": 274.5,
+            "text": " But before that, I will tell you basic type casting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 274.5,
+            "end": 275.5,
+            "text": " Now I know that"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 275.5,
+            "end": 277.5,
+            "text": " I have to make a as a number"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 277.5,
+            "end": 279.5,
+            "text": " to do this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 279.5,
+            "end": 281.5,
+            "text": " My A string will be a string."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 281.5,
+            "end": 282.5,
+            "text": " If it says so,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 282.5,
+            "end": 283.5,
+            "text": " then it says so."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 283.5,
+            "end": 284.5,
+            "text": " I know what it is."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 284.5,
+            "end": 285.5,
+            "text": " So what I do?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 285.5,
+            "end": 287.5,
+            "text": " I use an int function."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 287.5,
+            "end": 288.5,
+            "text": " I say that"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 288.5,
+            "end": 289.5,
+            "text": " int of A"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 289.5,
+            "end": 291.5,
+            "text": " and int of B"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 291.5,
+            "end": 293.5,
+            "text": " add it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 293.5,
+            "end": 294.5,
+            "text": " So it was not 12."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 294.5,
+            "end": 296.5,
+            "text": " Then it says convert in D."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 296.5,
+            "end": 298.5,
+            "text": " Then B is convert in D."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 298.5,
+            "end": 299.5,
+            "text": " In D."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 299.5,
+            "end": 300.5,
+            "text": " In D."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 300.5,
+            "end": 301.5,
+            "text": " In D."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 301.5,
+            "end": 302.5,
+            "text": " In D."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 302.5,
+            "end": 303.5,
+            "text": " In D."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 303.5,
+            "end": 304.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 304.5,
+            "end": 305.5,
+            "text": " Something like this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 305.5,
+            "end": 306.5,
+            "text": " Something like this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 306.5,
+            "end": 308.5,
+            "text": " If I don't do this int int,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 308.5,
+            "end": 309.5,
+            "text": " then it was 12."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 309.5,
+            "end": 310.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 310.5,
+            "end": 312.5,
+            "text": " But what will happen if I do this one hairy-go-indeger?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 312.5,
+            "end": 314.5,
+            "text": " This time it will be angry."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 314.5,
+            "end": 316.5,
+            "text": " I can convert it in number."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 316.5,
+            "end": 318.5,
+            "text": " Because it is a valid integer entry."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 318.5,
+            "end": 320.5,
+            "text": " What is the hairy-go-indeger?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 320.5,
+            "end": 321.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 321.5,
+            "end": 323.5,
+            "text": " So this is why Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 323.5,
+            "end": 325.5,
+            "text": " So your strings should be valid."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 325.5,
+            "end": 327.5,
+            "text": " If you convert any data type."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 327.5,
+            "end": 329.5,
+            "text": " Which is also converted in data type."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 329.5,
+            "end": 332.5,
+            "text": " If you convert it in integer,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 332.5,
+            "end": 334.5,
+            "text": " then it should be valid integer."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 334.5,
+            "end": 337.5,
+            "text": " If you convert it in float,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 337.5,
+            "end": 339.5,
+            "text": " then valid float should be valid."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 339.5,
+            "end": 341.5,
+            "text": " It should be done by Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 341.5,
+            "end": 343.5,
+            "text": " This is not given to Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 343.5,
+            "end": 345.5,
+            "text": " Now look at the type of two types."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 345.5,
+            "end": 347.5,
+            "text": " It is an explicit."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 347.5,
+            "end": 349.5,
+            "text": " It is an explicit."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 349.5,
+            "end": 351.5,
+            "text": " What is implicit?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 351.5,
+            "end": 353.5,
+            "text": " It is automatically done by Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 353.5,
+            "end": 355.5,
+            "text": " I will tell you about both."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 355.5,
+            "end": 357.5,
+            "text": " It is an explicit conversion."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 357.5,
+            "end": 359.5,
+            "text": " I am converting it as a programmer."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 359.5,
+            "end": 361.5,
+            "text": " I am talking to Python interpreter."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 361.5,
+            "end": 365.5,
+            "text": " This data type is converted in this type of language."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 365.5,
+            "end": 366.5,
+            "text": " In this case,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 366.5,
+            "end": 369.5,
+            "text": " I said that convert the string in integer."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 369.5,
+            "end": 370.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 370.5,
+            "end": 373.5,
+            "text": " I will do it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 373.5,
+            "end": 375.5,
+            "text": " What is Python?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 375.5,
+            "end": 376.5,
+            "text": " I will do it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 376.5,
+            "end": 378.5,
+            "text": " And it has done it in integer."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 378.5,
+            "end": 379.5,
+            "text": " In a convert,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 379.5,
+            "end": 382.5,
+            "text": " we have connected both the two types."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 382.5,
+            "end": 384.5,
+            "text": " It is not done yet."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 384.5,
+            "end": 385.5,
+            "text": " Absolutely."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 385.5,
+            "end": 388.5,
+            "text": " So what is the explicit conversion?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 388.5,
+            "end": 389.5,
+            "text": " We are doing it differently."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 389.5,
+            "end": 391.5,
+            "text": " What is the implicit conversion?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 391.5,
+            "end": 393.5,
+            "text": " Python is doing it itself."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 393.5,
+            "end": 395.5,
+            "text": " I have understood the explicit conversion."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 395.5,
+            "end": 397.5,
+            "text": " I have studied so much."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 397.5,
+            "end": 399.5,
+            "text": " I have studied it for a long time."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 399.5,
+            "end": 402.5,
+            "text": " I have studied it for a long time."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 402.5,
+            "end": 405.5,
+            "text": " It can be done by Python's built-in function."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 405.5,
+            "end": 408.5,
+            "text": " Inflodhex, OctString, etc."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 408.5,
+            "end": 410.5,
+            "text": " You are watching it in one X."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 410.5,
+            "end": 412.5,
+            "text": " Don't forget the video."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 412.5,
+            "end": 414.5,
+            "text": " Example has given you the same thing."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 414.5,
+            "end": 416.5,
+            "text": " You have to do it yourself."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 416.5,
+            "end": 418.5,
+            "text": " This is your exercise."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 418.5,
+            "end": 419.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 419.5,
+            "end": 421.5,
+            "text": " Output the sum of both the numbers."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 421.5,
+            "end": 423.5,
+            "text": " It is the output of the numbers."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 423.5,
+            "end": 424.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 424.5,
+            "end": 426.5,
+            "text": " I will talk about the implicit type casting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 426.5,
+            "end": 428.5,
+            "text": " The implicit type casting means that Python says that"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 428.5,
+            "end": 431.5,
+            "text": " you should convert the data type."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 431.5,
+            "end": 433.5,
+            "text": " Let's do it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 433.5,
+            "end": 435.5,
+            "text": " I will tell you."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 435.5,
+            "end": 436.5,
+            "text": " What is the data type?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 436.5,
+            "end": 437.5,
+            "text": " You do not have the same level."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 437.5,
+            "end": 440.5,
+            "text": " Ordering of data types is not the same in Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 440.5,
+            "end": 443.5,
+            "text": " Some of the data types have higher order and some lower order."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 443.5,
+            "end": 446.5,
+            "text": " So whenever we are performing operations in two variables,"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 446.5,
+            "end": 450.5,
+            "text": " it is a small type of lower order variable."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 450.5,
+            "end": 452.5,
+            "text": " It is called the higher order."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 452.5,
+            "end": 455.5,
+            "text": " I will write a comment here."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 455.5,
+            "end": 461.5,
+            "text": " Implicit type casting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 461.5,
+            "end": 465.5,
+            "text": " I will write C is equal to 1.9."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 465.5,
+            "end": 468.5,
+            "text": " I will write D is equal to 8."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 468.5,
+            "end": 473.5,
+            "text": " If I write C plus D, what will happen?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 473.5,
+            "end": 476.5,
+            "text": " C plus D will convert into an integer."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 476.5,
+            "end": 480.5,
+            "text": " I will get the result of the float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 480.5,
+            "end": 481.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 481.5,
+            "end": 482.5,
+            "text": " 9.9."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 482.5,
+            "end": 486.5,
+            "text": " So the data type will be in float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 486.5,
+            "end": 490.5,
+            "text": " So here, I have written according to the level 1 data type is converted"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 490.5,
+            "end": 493.5,
+            "text": " to another automatically by Python interpreter."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 493.5,
+            "end": 495.5,
+            "text": " This is called implicit type conversion."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 495.5,
+            "end": 499.5,
+            "text": " Python converts a smaller data type to a higher data type to prevent data loss."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 499.5,
+            "end": 502.5,
+            "text": " If it was converted into a sequence, it would have been 9."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 502.5,
+            "end": 503.5,
+            "text": " But it did not do that."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 503.5,
+            "end": 505.5,
+            "text": " It did not give the C to float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 505.5,
+            "end": 507.5,
+            "text": " And D is converted into float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 507.5,
+            "end": 508.5,
+            "text": " Float plus float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 508.5,
+            "end": 510.5,
+            "text": " C plus D result 9.9."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 510.5,
+            "end": 512.5,
+            "text": " So this is implicit type casting."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 512.5,
+            "end": 514.5,
+            "text": " I have also written an example in Python."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 514.5,
+            "end": 516.5,
+            "text": " It is a very similar example."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 516.5,
+            "end": 518.5,
+            "text": " What was its type?"
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 518.5,
+            "end": 519.5,
+            "text": " It was its type."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 519.5,
+            "end": 520.5,
+            "text": " It was its type."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 520.5,
+            "end": 521.5,
+            "text": " Float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 521.5,
+            "end": 522.5,
+            "text": " It will be the result of float."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 522.5,
+            "end": 524.5,
+            "text": " So type function can be used."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 524.5,
+            "end": 526.5,
+            "text": " You can find this."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 526.5,
+            "end": 528.5,
+            "text": " I hope you enjoyed this video."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 528.5,
+            "end": 531.5,
+            "text": " If you did not do playlists, then do it quickly."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 531.5,
+            "end": 534.5,
+            "text": " Go and book this playlist."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 534.5,
+            "end": 536.5,
+            "text": " And save it."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 536.5,
+            "end": 538.5,
+            "text": " Click here and click here."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 538.5,
+            "end": 540.5,
+            "text": " Click here and click here."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 540.5,
+            "end": 542.5,
+            "text": " And see you in the next video."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 542.5,
+            "end": 544.5,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "9",
+            "title": "Typecasting in Python   Python Tutorial - Day #9",
+            "start": 544.5,
+            "end": 546.5,
+            "text": " And I will see you in day 10."
+        }
+    ],
+    "text": " What a great day! Even in day 9, 100 days of good consistency is 1st day of good consistency. Today I will tell you about the type of casting. This term is very scary. I am hearing it in the type casting. But I will tell you that it is very simple. See we have made a single string variable. And it has been written in the 27th. We have closed the double codes. Because the string was in the 27th. But if we add it in the 3th, then it will not come in 30. Because it is the 27th string. And the 3th is a integer. So if we want to tell you the pattern. The number of double codes written in the double codes is a valid number. So we can type it. You and the integer by using end function. This is how all these works. We will see in this video in the video in the description. We will go to the video screen and let's get started. Let's see about the type casting. First of all, why is it important? I had a comment. I will tell you what it is. The comment was that I also made A plus B. I got 1 value, 1 value, 2 value and I got a result 12. So I understood that my cherifix is small. I said, this is what it looks like. Harry was also coming to the exam. And he was thinking like this. And today I will tell you why he came here. It looks like you are fine. Now see what happens. I am writing A is equal to 1. I am telling you the problem. The problem comes from Python developers. And developers are also from the state. Now if you say I will print A plus B. Now you are saying why are you writing things like this? Why are you writing things like this? Because it is time to do this in this course. You are saying that it will be 13. Sorry, it will be 13. It will be 12. Now why I will tell you why I am 12? A is a string, B is a string. Python does not know that your string contains a number. Python is one number when you get two strings. If you write Harry and brother here, you can write Harry and brother here. Let me show you. If you write Harry and brother, then there is no number detection. Harry is hiding inside the side. Because the string is like this. So if you write 1 or 2, then what will be hidden side by side? So I have arranged this one string. This one is a string. Convert it into integer. So all the shift and down arrow, I will replicate both lines. Okay? And I wrote this one and here B is equal to 2. I do not need to comment on these lines. Because the value of the string was first. Then I have numbered it once. But I will also comment on clarity. Control plus forward slash. I will use it later. I will remember this. I will remember this. I will remember this. I will remember this. I will remember this. And A1, B2. Okay? I will repeat this. Because this time A was number. And B was number. Okay? They were writing this. I have not seen it. Now I will see. Now A1, B2. So what was the type of casting? The type of one data type into the other data type is known as type casting and Python. Or type conversion is also called as Python. Both are functions. Support function. The data types are not talking about functions. And STR, ORD, HECK, AX, TAPL, SET, LIST, DICKT. These are all methods. These are all methods. These are all data types. This is a function. The one who helps. And DITTA, I have no data time. In converting. Now he will try to convert. Now you will say, convert in a hairy-go-indeger. Why? Yes. No, no. How? How? It is a name written in a hairy-go-indeger. How? How? Yes. If you have written one in your string, then it is understood. That by one string, one string, one string, one string, one string, that is understood. But what is this? Let me make a hairy-go-indeger. Python is also frustrated. It is also angry. And it becomes angry. Okay? What does it say? You want to convert in a hairy-go-indeger. You cannot do it. Okay? There are two types of casting. But before that, I will tell you basic type casting. Now I know that I have to make a as a number to do this. My A string will be a string. If it says so, then it says so. I know what it is. So what I do? I use an int function. I say that int of A and int of B add it. So it was not 12. Then it says convert in D. Then B is convert in D. In D. In D. In D. In D. In D. Okay? Something like this. Something like this. If I don't do this int int, then it was 12. Okay? But what will happen if I do this one hairy-go-indeger? This time it will be angry. I can convert it in number. Because it is a valid integer entry. What is the hairy-go-indeger? Okay? So this is why Python. So your strings should be valid. If you convert any data type. Which is also converted in data type. If you convert it in integer, then it should be valid integer. If you convert it in float, then valid float should be valid. It should be done by Python. This is not given to Python. Now look at the type of two types. It is an explicit. It is an explicit. What is implicit? It is automatically done by Python. I will tell you about both. It is an explicit conversion. I am converting it as a programmer. I am talking to Python interpreter. This data type is converted in this type of language. In this case, I said that convert the string in integer. Okay? I will do it. What is Python? I will do it. And it has done it in integer. In a convert, we have connected both the two types. It is not done yet. Absolutely. So what is the explicit conversion? We are doing it differently. What is the implicit conversion? Python is doing it itself. I have understood the explicit conversion. I have studied so much. I have studied it for a long time. I have studied it for a long time. It can be done by Python's built-in function. Inflodhex, OctString, etc. You are watching it in one X. Don't forget the video. Example has given you the same thing. You have to do it yourself. This is your exercise. Okay? Output the sum of both the numbers. It is the output of the numbers. Okay? I will talk about the implicit type casting. The implicit type casting means that Python says that you should convert the data type. Let's do it. I will tell you. What is the data type? You do not have the same level. Ordering of data types is not the same in Python. Some of the data types have higher order and some lower order. So whenever we are performing operations in two variables, it is a small type of lower order variable. It is called the higher order. I will write a comment here. Implicit type casting. I will write C is equal to 1.9. I will write D is equal to 8. If I write C plus D, what will happen? C plus D will convert into an integer. I will get the result of the float. Okay? 9.9. So the data type will be in float. So here, I have written according to the level 1 data type is converted to another automatically by Python interpreter. This is called implicit type conversion. Python converts a smaller data type to a higher data type to prevent data loss. If it was converted into a sequence, it would have been 9. But it did not do that. It did not give the C to float. And D is converted into float. Float plus float. C plus D result 9.9. So this is implicit type casting. I have also written an example in Python. It is a very similar example. What was its type? It was its type. It was its type. Float. It will be the result of float. So type function can be used. You can find this. I hope you enjoyed this video. If you did not do playlists, then do it quickly. Go and book this playlist. And save it. Click here and click here. Click here and click here. And see you in the next video. Thank you so much guys for watching this video. And I will see you in day 10."
+}

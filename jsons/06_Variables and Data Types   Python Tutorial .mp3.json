@@ -1,0 +1,2770 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 0.0,
+            "end": 5.68,
+            "text": " Hey, what's up friends? You've come to Day 6, I wanted to share 100 days of code"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 5.68,
+            "end": 9.8,
+            "text": " Today I'll tell you how to use variables like a container"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 9.8,
+            "end": 13.780000000000001,
+            "text": " Like you guys have containers in the kitchen, which have a lot of things in it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 13.780000000000001,
+            "end": 19.04,
+            "text": " Variables are also available in the programming language, this analogy is fit and fit"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 19.04,
+            "end": 25.88,
+            "text": " If you have a container here, and you have a container inside, put it inside"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 25.88,
+            "end": 29.68,
+            "text": " I've changed the container's container"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 29.68,
+            "end": 37.28,
+            "text": " On the other hand, if I take another container and put it inside, I'll put it in the water"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 37.28,
+            "end": 39.68,
+            "text": " I can change the container's container"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 39.68,
+            "end": 44.879999999999995,
+            "text": " By the way, it's absolutely the same that you make containers and store it in it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 44.879999999999995,
+            "end": 47.879999999999995,
+            "text": " This data is stored in the memory"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 47.879999999999995,
+            "end": 50.68,
+            "text": " You can call it RAM, it's stored in it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 50.68,
+            "end": 51.68,
+            "text": " What's the type of data?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 51.68,
+            "end": 57.08,
+            "text": " It's a container that can be used in the container, it can be solid, it can be milk, it can be cheezy"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 57.08,
+            "end": 62.480000000000004,
+            "text": " It can be something like this, which is not even a food, like we have a lot of things"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 62.480000000000004,
+            "end": 67.16,
+            "text": " The food that is used to store food is not a food, so there are rules"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 67.16,
+            "end": 71.92,
+            "text": " Like this, there are rules in Python, data types, data types"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 71.92,
+            "end": 77.08,
+            "text": " Let's go to the computer screen and see what exactly are the rules and how to work"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 77.08,
+            "end": 78.48,
+            "text": " Let's get started"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 82.68,
+            "end": 91.08000000000001,
+            "text": " So exactly what is the variable in this case?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 91.08000000000001,
+            "end": 94.28,
+            "text": " It's a variable container, which I already told you about"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 94.28,
+            "end": 97.88000000000001,
+            "text": " But this container is in the memory"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 97.88000000000001,
+            "end": 103.88000000000001,
+            "text": " If you are confused by all these things, then come here and see what I'm doing here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 104.88,
+            "end": 112.88,
+            "text": " And you will know exactly how to make Python and why is it necessary to make it in Python"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 112.88,
+            "end": 117.88,
+            "text": " If I write a is equal to 1, then I need to print it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 117.88,
+            "end": 122.88,
+            "text": " Basically, I am saying that in the memory, in the RAM of my computer,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 123.88,
+            "end": 130.88,
+            "text": " I mean, the actual memory of it, let it store it in 1 and where it is stored,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 130.88,
+            "end": 132.88,
+            "text": " Let it address 1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 132.88,
+            "end": 138.88,
+            "text": " Now it will be a little complex to listen to you, but in A is equal to 1, I will use every one"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 138.88,
+            "end": 143.88,
+            "text": " I mean, whenever I want to refer to its value, I will print it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 143.88,
+            "end": 147.88,
+            "text": " Now you have gone to A is equal to 1, I don't want to directly print 1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 147.88,
+            "end": 150.88,
+            "text": " Why do I run this program? How about this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 150.88,
+            "end": 154.88,
+            "text": " Now I will do this, you have to save a number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 154.88,
+            "end": 157.88,
+            "text": " You have to save a number here and it is printing"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 157.88,
+            "end": 163.88,
+            "text": " So A is equal to this, A is equal to this, A is equal to this, and this is printed"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 163.88,
+            "end": 167.88,
+            "text": " Can I do something like this? B is equal to Harry"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 167.88,
+            "end": 169.88,
+            "text": " The answer is yes, I can do it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 169.88,
+            "end": 173.88,
+            "text": " But if I run, I will only get this number and print"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 173.88,
+            "end": 176.88,
+            "text": " And if I print, I will also print"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 176.88,
+            "end": 178.88,
+            "text": " I will get this number and print it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 178.88,
+            "end": 183.88,
+            "text": " Which is great, because this is a different type of data"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 183.88,
+            "end": 188.88,
+            "text": " Now you will see that when you have written 1, 2, 3, 4, 4, then you didn't write your double quotes"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 188.88,
+            "end": 191.88,
+            "text": " But when you write Harry, then why didn't you write it?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 191.88,
+            "end": 193.88,
+            "text": " Because it will be a error"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 193.88,
+            "end": 197.88,
+            "text": " Now why will it be a error? You can write it directly"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 197.88,
+            "end": 201.88,
+            "text": " But we have to write double quotes"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 201.88,
+            "end": 204.88,
+            "text": " Sometimes we represent a string data type"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 204.88,
+            "end": 208.88,
+            "text": " If you have written it like this, then it will be called Harry is equal to 9"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 208.88,
+            "end": 210.88,
+            "text": " Now it is called B is equal to Harry"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 210.88,
+            "end": 214.88,
+            "text": " Now you will know how to print Harry string"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 214.88,
+            "end": 216.88,
+            "text": " And I will run this program"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 216.88,
+            "end": 219.88,
+            "text": " So I will get 9 print, you will see that 9 print will be here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 219.88,
+            "end": 223.88,
+            "text": " So it is possible that you want to print Harry literally"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 223.88,
+            "end": 226.88,
+            "text": " But print 9 is here, so there is no rule in Python"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 226.88,
+            "end": 229.88,
+            "text": " I will write B is equal to double quotes"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 229.88,
+            "end": 233.88,
+            "text": " And you can see the print directly in the double quotes"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 233.88,
+            "end": 237.88,
+            "text": " Now I will show you the variable"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 237.88,
+            "end": 239.88,
+            "text": " So what is the variable?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 239.88,
+            "end": 241.88,
+            "text": " The variable is like a container that holds data"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 241.88,
+            "end": 243.88,
+            "text": " A container that holds data"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 243.88,
+            "end": 247.88,
+            "text": " Very similar to how and containers in kitchen holds sugar"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 247.88,
+            "end": 251.88,
+            "text": " As in your kitchen, salt, sugar, salt, all these things"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 251.88,
+            "end": 253.88,
+            "text": " To hold it, it is used double"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 253.88,
+            "end": 254.88,
+            "text": " Okay"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 254.88,
+            "end": 256.88,
+            "text": " The variable is just like creating a placeholder"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 256.88,
+            "end": 258.88,
+            "text": " And it is signing it somewhere"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 258.88,
+            "end": 260.88,
+            "text": " And here I have shown this in a series of 4 variables"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 260.88,
+            "end": 262.88,
+            "text": " I have shown it to you guys"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 262.88,
+            "end": 265.88,
+            "text": " Now these 4 different variables"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 265.88,
+            "end": 267.88,
+            "text": " They are different"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 267.88,
+            "end": 270.88,
+            "text": " As you know that you are a jeep"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 270.88,
+            "end": 272.88,
+            "text": " Okay, a doggy is also a jeep"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 272.88,
+            "end": 274.88,
+            "text": " Okay, a GT is also a jeep"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 274.88,
+            "end": 276.88,
+            "text": " But we are different types of jeep"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 276.88,
+            "end": 278.88,
+            "text": " Okay, that is equal to 1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 278.88,
+            "end": 279.88,
+            "text": " A is equal to 1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 279.88,
+            "end": 281.88,
+            "text": " A is equal to B is equal to 2"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 281.88,
+            "end": 282.88,
+            "text": " A is equal to Harry"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 282.88,
+            "end": 283.88,
+            "text": " A is equal to Harry"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 283.88,
+            "end": 284.88,
+            "text": " A is equal to D is equal to 1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 284.88,
+            "end": 285.88,
+            "text": " A is equal to 1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 285.88,
+            "end": 288.88,
+            "text": " Okay, you will see the video on 1x"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 288.88,
+            "end": 290.88,
+            "text": " Now if you are doing A is equal to 1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 290.88,
+            "end": 292.88,
+            "text": " So, 1 is equal to 2x"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 292.88,
+            "end": 294.88,
+            "text": " B is equal to 2x"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 294.88,
+            "end": 296.88,
+            "text": " B is equal to 2x"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 296.88,
+            "end": 297.88,
+            "text": " C is equal to Harry"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 297.88,
+            "end": 298.88,
+            "text": " A is equal to string"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 298.88,
+            "end": 299.88,
+            "text": " And D is equal to nuntip"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 299.88,
+            "end": 302.88,
+            "text": " The name of the name is D is equal to nuntip"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 302.88,
+            "end": 304.88,
+            "text": " The variable is equal to nuntip"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 304.88,
+            "end": 307.88,
+            "text": " Okay, so 4 different types are different types of jeep"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 307.88,
+            "end": 308.88,
+            "text": " What is the different type of jeep?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 308.88,
+            "end": 310.88,
+            "text": " And why is it called as a jeep?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 310.88,
+            "end": 312.88,
+            "text": " Now look, why is it called a jeep?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 312.88,
+            "end": 313.88,
+            "text": " So, I have told you here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 313.88,
+            "end": 315.88,
+            "text": " That we need a jeep"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 315.88,
+            "end": 318.88,
+            "text": " So that we can store the values of the jeep"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 318.88,
+            "end": 320.88,
+            "text": " So that we can store the values of the jeep"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 320.88,
+            "end": 321.88,
+            "text": " Okay, this is known"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 321.88,
+            "end": 322.88,
+            "text": " Data time specifies"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 322.88,
+            "end": 325.88,
+            "text": " The type of value that a variable can hold"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 325.88,
+            "end": 328.88,
+            "text": " This is required in programming to perform operations"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 328.88,
+            "end": 330.88,
+            "text": " Like I am writing here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 330.88,
+            "end": 333.88,
+            "text": " Print A plus B"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 333.88,
+            "end": 336.88,
+            "text": " Okay, so will Harry connect this to this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 336.88,
+            "end": 338.88,
+            "text": " You see, here it will be called"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 338.88,
+            "end": 340.88,
+            "text": " Will you say, brother, one is your teacher"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 340.88,
+            "end": 341.88,
+            "text": " The other is your string"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 341.88,
+            "end": 342.88,
+            "text": " How do you connect?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 342.88,
+            "end": 343.88,
+            "text": " I mean, what do you want?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 343.88,
+            "end": 345.88,
+            "text": " If I add a small number to this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 345.88,
+            "end": 347.88,
+            "text": " How do you connect this to 1133?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 347.88,
+            "end": 348.88,
+            "text": " I mean, what do you want?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 348.88,
+            "end": 349.88,
+            "text": " What do you want?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 349.88,
+            "end": 350.88,
+            "text": " You have planned this, brother,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 350.88,
+            "end": 351.88,
+            "text": " What do you mean?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 351.88,
+            "end": 352.88,
+            "text": " What do you want?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 352.88,
+            "end": 354.88,
+            "text": " Okay, and we are talking to brother"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 354.88,
+            "end": 357.88,
+            "text": " We want to concatenate this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 357.88,
+            "end": 359.88,
+            "text": " So brother, what do you want to concatenate?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 359.88,
+            "end": 360.88,
+            "text": " You are putting a plus"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 360.88,
+            "end": 362.88,
+            "text": " I mean, how do you know that you want to concatenate this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 362.88,
+            "end": 364.88,
+            "text": " You want to do something else"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 364.88,
+            "end": 367.88,
+            "text": " Okay, so that's why we do what we do here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 367.88,
+            "end": 369.88,
+            "text": " That A plus B"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 369.88,
+            "end": 371.88,
+            "text": " When we do it, we should do the same type of data"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 371.88,
+            "end": 374.88,
+            "text": " So I will do it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 374.88,
+            "end": 377.88,
+            "text": " I will make a variable from A1 name and I will write 9"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 377.88,
+            "end": 378.88,
+            "text": " If I do A plus A1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 378.88,
+            "end": 380.88,
+            "text": " Then this operation will be performed right"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 380.88,
+            "end": 383.88,
+            "text": " And you see here, it will be written as 1133"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 383.88,
+            "end": 385.88,
+            "text": " Okay, so this is very simple"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 385.88,
+            "end": 386.88,
+            "text": " You will know that"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 386.88,
+            "end": 388.88,
+            "text": " We need a data type"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 388.88,
+            "end": 391.88,
+            "text": " So that we can do various operations"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 391.88,
+            "end": 393.88,
+            "text": " Without causing"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 393.88,
+            "end": 394.88,
+            "text": " And without causing"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 394.88,
+            "end": 398.88,
+            "text": " And in Python we can print the type of operator using type function"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 398.88,
+            "end": 400.88,
+            "text": " And we have a variable"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 400.88,
+            "end": 402.88,
+            "text": " And I want to know what type is it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 402.88,
+            "end": 404.88,
+            "text": " So I can say this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 404.88,
+            "end": 405.88,
+            "text": " I can say that"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 405.88,
+            "end": 407.88,
+            "text": " The type of A is"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 407.88,
+            "end": 410.88,
+            "text": " And here I can write a comma"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 410.88,
+            "end": 412.88,
+            "text": " Type of A"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 412.88,
+            "end": 416.88,
+            "text": " Okay, so this is the type of A"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 416.88,
+            "end": 418.88,
+            "text": " And this is the type of A"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 418.88,
+            "end": 419.88,
+            "text": " And this is the type of A"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 419.88,
+            "end": 421.88,
+            "text": " And this is the opening parenthesis"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 421.88,
+            "end": 423.88,
+            "text": " If I do this, then you see"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 423.88,
+            "end": 426.88,
+            "text": " The type of A is the class A"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 426.88,
+            "end": 428.88,
+            "text": " So A is an integer"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 428.88,
+            "end": 431.88,
+            "text": " Let's see that we can do this with B"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 431.88,
+            "end": 433.88,
+            "text": " And we can do this with B"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 433.88,
+            "end": 435.88,
+            "text": " And I will run"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 435.88,
+            "end": 437.88,
+            "text": " And you see here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 437.88,
+            "end": 439.88,
+            "text": " Type of B is class STR"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 439.88,
+            "end": 442.88,
+            "text": " And I will do the same thing here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 442.88,
+            "end": 445.88,
+            "text": " Type of CS"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 445.88,
+            "end": 447.88,
+            "text": " And here you see C type"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 447.88,
+            "end": 448.88,
+            "text": " What is C?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 448.88,
+            "end": 449.88,
+            "text": " What is the type?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 449.88,
+            "end": 450.88,
+            "text": " I will do A1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 450.88,
+            "end": 451.88,
+            "text": " Or I will do a work"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 451.88,
+            "end": 452.88,
+            "text": " Or I will do C"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 452.88,
+            "end": 453.88,
+            "text": " Because I will do C"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 453.88,
+            "end": 455.88,
+            "text": " Because I will do 4 of the 4 variables"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 455.88,
+            "end": 456.88,
+            "text": " I will do it directly once"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 456.88,
+            "end": 458.88,
+            "text": " Okay, so I will do all the things"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 458.88,
+            "end": 460.88,
+            "text": " And I will do C as well"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 460.88,
+            "end": 462.88,
+            "text": " Now if I do this, then I will do C"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 462.88,
+            "end": 464.88,
+            "text": " And I will do C"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 464.88,
+            "end": 466.88,
+            "text": " And here A1 is not defined"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 466.88,
+            "end": 468.88,
+            "text": " Oh, print A plus A1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 468.88,
+            "end": 469.88,
+            "text": " I have written it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 469.88,
+            "end": 471.88,
+            "text": " I will also define A1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 471.88,
+            "end": 473.88,
+            "text": " Because this program is also for you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 473.88,
+            "end": 475.88,
+            "text": " You all have to understand"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 475.88,
+            "end": 478.88,
+            "text": " So now you see, you all have done 1, 2, 10"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 478.88,
+            "end": 479.88,
+            "text": " Type of A"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 479.88,
+            "end": 481.88,
+            "text": " And type of B is bold"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 481.88,
+            "end": 482.88,
+            "text": " Type of C is string"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 482.88,
+            "end": 484.88,
+            "text": " Okay, these three types have printed"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 484.88,
+            "end": 486.88,
+            "text": " So let's go"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 486.88,
+            "end": 488.88,
+            "text": " And here you can understand the story"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 488.88,
+            "end": 491.88,
+            "text": " Now in Python, you can tell some built-in data types"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 491.88,
+            "end": 493.88,
+            "text": " First built-in data type is"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 493.88,
+            "end": 496.88,
+            "text": " That is, we have a number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 496.88,
+            "end": 497.88,
+            "text": " Which I have told you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 497.88,
+            "end": 499.88,
+            "text": " Okay, int float complex"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 499.88,
+            "end": 501.88,
+            "text": " If I see this is A is equal to"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 501.88,
+            "end": 502.88,
+            "text": " I will show you one point one"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 502.88,
+            "end": 504.88,
+            "text": " You saw that type of A is the integer"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 504.88,
+            "end": 506.88,
+            "text": " If I show this one point one"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 506.88,
+            "end": 509.88,
+            "text": " Then type of A is the float"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 509.88,
+            "end": 511.88,
+            "text": " And if I write something like this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 511.88,
+            "end": 513.88,
+            "text": " I will write it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 513.88,
+            "end": 516.88,
+            "text": " This is A plus 2i"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 516.88,
+            "end": 518.88,
+            "text": " So this is a complex number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 518.88,
+            "end": 520.88,
+            "text": " Actually, I have to make this complex number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 520.88,
+            "end": 522.88,
+            "text": " I will do this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 522.88,
+            "end": 524.88,
+            "text": " I will do 8,2"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 524.88,
+            "end": 527.88,
+            "text": " And if I do this, then this is a complex number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 527.88,
+            "end": 528.88,
+            "text": " And you can see here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 528.88,
+            "end": 532.88,
+            "text": " That A plus 2 is the complex number of J names"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 532.88,
+            "end": 534.88,
+            "text": " Okay, if you don't know about complex numbers"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 534.88,
+            "end": 536.88,
+            "text": " That is totally fine"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 536.88,
+            "end": 538.88,
+            "text": " I don't expect you to know complex numbers"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 538.88,
+            "end": 540.88,
+            "text": " But I just want to tell you that complex numbers"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 540.88,
+            "end": 542.88,
+            "text": " You can also make in Python"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 542.88,
+            "end": 545.88,
+            "text": " This is basically a real part of the majority part of the number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 545.88,
+            "end": 548.88,
+            "text": " If you have a class 12, then complex numbers are good for you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 548.88,
+            "end": 552.88,
+            "text": " If you don't have a class 11, 12, then complex number is the same"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 552.88,
+            "end": 556.88,
+            "text": " But unlike the other boards, unlike the other labors"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 556.88,
+            "end": 558.88,
+            "text": " So there is a class 12 and a class 11"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 558.88,
+            "end": 561.88,
+            "text": " Anyways, class is showing here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 561.88,
+            "end": 564.88,
+            "text": " I want to show you that complex number is formed"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 564.88,
+            "end": 567.88,
+            "text": " So now you can see that I can write the integer type"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 567.88,
+            "end": 568.88,
+            "text": " It can be floating point number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 568.88,
+            "end": 570.88,
+            "text": " It can be complex type"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 570.88,
+            "end": 573.88,
+            "text": " If you talk about string, then hello world double code is closed"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 573.88,
+            "end": 575.88,
+            "text": " Hello world double code is closed"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 575.88,
+            "end": 578.88,
+            "text": " Python programming is all string"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 578.88,
+            "end": 581.88,
+            "text": " Okay, then after that you can talk about Boolean data"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 581.88,
+            "end": 583.88,
+            "text": " So you can also call it true"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 583.88,
+            "end": 585.88,
+            "text": " Now why we want to use this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 585.88,
+            "end": 587.88,
+            "text": " I want you to write a function"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 587.88,
+            "end": 590.88,
+            "text": " And you want to return it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 590.88,
+            "end": 591.88,
+            "text": " You can not drive it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 591.88,
+            "end": 594.88,
+            "text": " So if you don't know what function is, then I will tell you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 594.88,
+            "end": 598.88,
+            "text": " I want you to tell me that you can not drive it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 598.88,
+            "end": 601.88,
+            "text": " So you can only give me a small information"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 601.88,
+            "end": 603.88,
+            "text": " Yes or no"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 603.88,
+            "end": 606.88,
+            "text": " This Boolean is the same way that we work with this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 606.88,
+            "end": 609.88,
+            "text": " You will not need to tell directly that yes, I can drive it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 609.88,
+            "end": 612.88,
+            "text": " You need to give all the information"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 612.88,
+            "end": 616.88,
+            "text": " Yes or no, yes, that means true or false"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 616.88,
+            "end": 618.88,
+            "text": " As in string, there is a lot of information"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 618.88,
+            "end": 621.88,
+            "text": " It is a small AR, AR, Y and all the characters"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 621.88,
+            "end": 624.88,
+            "text": " But you can not tell that you can not drive it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 624.88,
+            "end": 627.88,
+            "text": " You can say yes or no"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 627.88,
+            "end": 629.88,
+            "text": " And you should be good"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 629.88,
+            "end": 631.88,
+            "text": " So this is Boolean data type"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 631.88,
+            "end": 633.88,
+            "text": " Okay, what we use"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 633.88,
+            "end": 636.88,
+            "text": " When we will use it, we will see it in time"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 636.88,
+            "end": 638.88,
+            "text": " Then there is a sequence data"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 638.88,
+            "end": 641.88,
+            "text": " Okay, I will talk about list and double"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 641.88,
+            "end": 643.88,
+            "text": " And we don't have complex list or double"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 643.88,
+            "end": 645.88,
+            "text": " I want to tell you that list and double"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 645.88,
+            "end": 647.88,
+            "text": " There is also a list of things"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 647.88,
+            "end": 649.88,
+            "text": " What is list, a code collection"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 649.88,
+            "end": 651.88,
+            "text": " And we will go to the study"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 651.88,
+            "end": 653.88,
+            "text": " So I will not tell you here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 653.88,
+            "end": 656.88,
+            "text": " Okay, if you want to know about list"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 656.88,
+            "end": 659.88,
+            "text": " Do it, I will tell you about list"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 659.88,
+            "end": 661.88,
+            "text": " Okay, what is list?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 661.88,
+            "end": 665.88,
+            "text": " So list is basically collection of different data elements"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 665.88,
+            "end": 667.88,
+            "text": " Which can be different data types"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 667.88,
+            "end": 669.88,
+            "text": " This is integer, this is float"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 669.88,
+            "end": 671.88,
+            "text": " This is the list of lists, this is the list of lists"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 671.88,
+            "end": 674.88,
+            "text": " So list is basically list of items"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 674.88,
+            "end": 676.88,
+            "text": " Which can be different data types"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 676.88,
+            "end": 678.88,
+            "text": " I will not tell you about it now"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 678.88,
+            "end": 680.88,
+            "text": " Okay, and we can change this list"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 680.88,
+            "end": 681.88,
+            "text": " What is the double?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 681.88,
+            "end": 683.88,
+            "text": " Exactly the same thing"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 683.88,
+            "end": 685.88,
+            "text": " I am telling you in simple language"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 685.88,
+            "end": 688.88,
+            "text": " The same thing except that it is immutable"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 688.88,
+            "end": 691.88,
+            "text": " It means that it cannot change"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 691.88,
+            "end": 694.88,
+            "text": " Now this immutable people confuse a lot"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 694.88,
+            "end": 698.88,
+            "text": " As many people say to me that I am telling you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 698.88,
+            "end": 703.88,
+            "text": " Many people say that we can change the immutable"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 703.88,
+            "end": 704.88,
+            "text": " Or immutable"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 704.88,
+            "end": 707.88,
+            "text": " We have problem, okay, I will tell you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 707.88,
+            "end": 709.88,
+            "text": " How to remember"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 709.88,
+            "end": 711.88,
+            "text": " People are immutable"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 711.88,
+            "end": 713.88,
+            "text": " You will read the mutation, mutation"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 713.88,
+            "end": 715.88,
+            "text": " What is the change?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 715.88,
+            "end": 719.88,
+            "text": " Like a theory that human was a tailor"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 719.88,
+            "end": 722.88,
+            "text": " And then there was mutations"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 722.88,
+            "end": 725.88,
+            "text": " And the mutation of human's tail was guided"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 725.88,
+            "end": 728.88,
+            "text": " So it is said that I am not reading biology"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 728.88,
+            "end": 730.88,
+            "text": " I am telling you the stuff"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 730.88,
+            "end": 732.88,
+            "text": " But what is the change?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 732.88,
+            "end": 733.88,
+            "text": " Okay, I am saying this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 733.88,
+            "end": 735.88,
+            "text": " If you read the genetic algorithm"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 735.88,
+            "end": 737.88,
+            "text": " If you read a little biology"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 737.88,
+            "end": 739.88,
+            "text": " In class 10th, in class 9th"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 739.88,
+            "end": 741.88,
+            "text": " Come on, you will read a little"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 741.88,
+            "end": 743.88,
+            "text": " The mutation means that it changes"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 743.88,
+            "end": 745.88,
+            "text": " The first one was a monkey"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 745.88,
+            "end": 746.88,
+            "text": " Then it was a monkey"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 746.88,
+            "end": 748.88,
+            "text": " And now it is a mutation"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 748.88,
+            "end": 751.88,
+            "text": " So mutable means it can change"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 751.88,
+            "end": 754.88,
+            "text": " Immutable means it can't change"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 754.88,
+            "end": 755.88,
+            "text": " So remember this"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 755.88,
+            "end": 757.88,
+            "text": " You can remember this first"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 757.88,
+            "end": 758.88,
+            "text": " I can remember you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 758.88,
+            "end": 759.88,
+            "text": " Then I will tell you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 759.88,
+            "end": 760.88,
+            "text": " Come on bro"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 760.88,
+            "end": 762.88,
+            "text": " I remember"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 762.88,
+            "end": 764.88,
+            "text": " I was telling him that people don't remember"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 764.88,
+            "end": 766.88,
+            "text": " Okay, now see here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 766.88,
+            "end": 768.88,
+            "text": " I have made a list"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 768.88,
+            "end": 770.88,
+            "text": " The collection of items is also called double"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 770.88,
+            "end": 772.88,
+            "text": " The collection of items is"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 772.88,
+            "end": 775.88,
+            "text": " Except the fact that you can't change it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 775.88,
+            "end": 779.88,
+            "text": " If you change it, then it will give you an error"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 779.88,
+            "end": 781.88,
+            "text": " Now how we will change it?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 781.88,
+            "end": 783.88,
+            "text": " We will keep all these things for the video"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 783.88,
+            "end": 785.88,
+            "text": " Now I will tell you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 785.88,
+            "end": 786.88,
+            "text": " Then there is a more data type"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 786.88,
+            "end": 787.88,
+            "text": " Map data"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 787.88,
+            "end": 788.88,
+            "text": " Dishnary"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 788.88,
+            "end": 789.88,
+            "text": " What is this?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 789.88,
+            "end": 791.88,
+            "text": " You will be in your home?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 791.88,
+            "end": 792.88,
+            "text": " No"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 792.88,
+            "end": 794.88,
+            "text": " No problem, I will tell you what is your dish?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 794.88,
+            "end": 798.88,
+            "text": " Dishnary is the collection of key value pairs"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 798.88,
+            "end": 800.88,
+            "text": " Now you want to see the abundance"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 800.88,
+            "end": 802.88,
+            "text": " The abundance has a value"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 802.88,
+            "end": 805.88,
+            "text": " You want to see the food"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 805.88,
+            "end": 807.88,
+            "text": " Food has a value"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 807.88,
+            "end": 809.88,
+            "text": " Food is all"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 809.88,
+            "end": 812.88,
+            "text": " Now you want to see something else"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 812.88,
+            "end": 814.88,
+            "text": " I am not giving you a comment"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 814.88,
+            "end": 816.88,
+            "text": " You want to see mutable"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 816.88,
+            "end": 818.88,
+            "text": " You want to see the mutable"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 818.88,
+            "end": 820.88,
+            "text": " So mutable means it can't be written in the dictionary"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 820.88,
+            "end": 822.88,
+            "text": " So key value pairs"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 822.88,
+            "end": 826.88,
+            "text": " I can store something on the top of the key value pairs"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 826.88,
+            "end": 830.88,
+            "text": " I can store the key value pairs"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 830.88,
+            "end": 832.88,
+            "text": " What is the purpose of which?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 832.88,
+            "end": 835.88,
+            "text": " The name of the child is the purpose of which"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 835.88,
+            "end": 838.88,
+            "text": " This information can be stored"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 838.88,
+            "end": 840.88,
+            "text": " I will tell you"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 840.88,
+            "end": 842.88,
+            "text": " Now you go there"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 842.88,
+            "end": 845.88,
+            "text": " I have written a name of Sachshi H20"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 845.88,
+            "end": 846.88,
+            "text": " Canvotrulek"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 846.88,
+            "end": 851.88,
+            "text": " You can see the name of Sachshi H20"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 851.88,
+            "end": 854.88,
+            "text": " I will tell you more about the dictionary"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 854.88,
+            "end": 858.06,
+            "text": " Now you will understand that it is a map data."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 858.06,
+            "end": 859.8,
+            "text": " I have mapped one thing from the other."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 859.8,
+            "end": 862.06,
+            "text": " Name, Sachshi, how many marks can it be?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 862.06,
+            "end": 864.2,
+            "text": " How many words can it be?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 864.2,
+            "end": 867.2,
+            "text": " And how is it in the game?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 867.2,
+            "end": 868.9,
+            "text": " How many marks can it be?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 868.9,
+            "end": 871.9399999999999,
+            "text": " How many marks can it be?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 871.9399999999999,
+            "end": 875.14,
+            "text": " How is it in the game?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 875.14,
+            "end": 877.34,
+            "text": " It is not in the game."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 877.34,
+            "end": 879.62,
+            "text": " Understand that people are all there."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 879.62,
+            "end": 881.0,
+            "text": " They are all there."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 881.0,
+            "end": 883.38,
+            "text": " And it will become a dictionary."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 883.38,
+            "end": 885.28,
+            "text": " It will become a total list."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 885.28,
+            "end": 887.18,
+            "text": " I hope you have understood."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 887.18,
+            "end": 888.9,
+            "text": " Now I want to say one thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 888.9,
+            "end": 893.16,
+            "text": " Because maybe you have to cover your mind."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 893.16,
+            "end": 895.66,
+            "text": " You will have to cover your mind."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 895.66,
+            "end": 897.66,
+            "text": " Maybe you will not be able to cover it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 897.66,
+            "end": 899.9,
+            "text": " But think about it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 899.9,
+            "end": 903.1,
+            "text": " Everything is an object in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 903.1,
+            "end": 906.86,
+            "text": " Everything is a dictionary."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 906.86,
+            "end": 909.34,
+            "text": " If you want to make a dictionary, then it is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 909.34,
+            "end": 911.88,
+            "text": " If you want to make a Boolean, then it is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 911.88,
+            "end": 914.4,
+            "text": " An integer, an object, an integer class object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 914.4,
+            "end": 917.5600000000001,
+            "text": " So you can see here, when we printed it,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 917.5600000000001,
+            "end": 922.0,
+            "text": " we saw that you can see here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 922.0,
+            "end": 924.88,
+            "text": " Type of A is class complex,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 924.88,
+            "end": 926.7,
+            "text": " so it is writing class."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 926.7,
+            "end": 928.64,
+            "text": " Class object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 928.64,
+            "end": 931.24,
+            "text": " Now you will understand what is this class?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 931.24,
+            "end": 933.2,
+            "text": " What is this class object?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 933.2,
+            "end": 935.44,
+            "text": " I will tell you in the coming videos."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 935.44,
+            "end": 938.08,
+            "text": " I will tell you everything when I am in the object oriented programming."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 938.08,
+            "end": 940.08,
+            "text": " Now remember this thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 940.08,
+            "end": 943.08,
+            "text": " In Python, everything is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 943.08,
+            "end": 945.08,
+            "text": " Now remember this thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 945.08,
+            "end": 949.08,
+            "text": " If you remember, then I will remember it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 949.08,
+            "end": 951.08,
+            "text": " Now forget about this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 951.08,
+            "end": 953.08,
+            "text": " I have not said anything about this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 953.08,
+            "end": 956.08,
+            "text": " But when we will do a class object,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 956.08,
+            "end": 958.08,
+            "text": " then you should remember."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 958.08,
+            "end": 961.08,
+            "text": " I told you that I will explain everything in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 961.08,
+            "end": 964.08,
+            "text": " Now you can grasp the concept of graded time."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 964.08,
+            "end": 966.08,
+            "text": " It seems like it is graded time."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 966.08,
+            "end": 968.08,
+            "text": " It seems like it is a big object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 968.08,
+            "end": 970.08,
+            "text": " That's it in this video."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 970.08,
+            "end": 972.08,
+            "text": " I hope you enjoyed it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 972.08,
+            "end": 974.08,
+            "text": " If you haven't done the playlist access yet,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 974.08,
+            "end": 976.08,
+            "text": " then do the playlist access."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 976.08,
+            "end": 978.08,
+            "text": " Click here and I have made a book."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 978.08,
+            "end": 980.08,
+            "text": " Click here and save it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 980.08,
+            "end": 983.08,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 983.08,
+            "end": 986.08,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types   Python Tutorial - Day #6",
+            "start": 996.08,
+            "end": 1004.08,
+            "text": " Bye."
+        }
+    ],
+    "text": " Hey, what's up friends? You've come to Day 6, I wanted to share 100 days of code Today I'll tell you how to use variables like a container Like you guys have containers in the kitchen, which have a lot of things in it Variables are also available in the programming language, this analogy is fit and fit If you have a container here, and you have a container inside, put it inside I've changed the container's container On the other hand, if I take another container and put it inside, I'll put it in the water I can change the container's container By the way, it's absolutely the same that you make containers and store it in it This data is stored in the memory You can call it RAM, it's stored in it What's the type of data? It's a container that can be used in the container, it can be solid, it can be milk, it can be cheezy It can be something like this, which is not even a food, like we have a lot of things The food that is used to store food is not a food, so there are rules Like this, there are rules in Python, data types, data types Let's go to the computer screen and see what exactly are the rules and how to work Let's get started So exactly what is the variable in this case? It's a variable container, which I already told you about But this container is in the memory If you are confused by all these things, then come here and see what I'm doing here And you will know exactly how to make Python and why is it necessary to make it in Python If I write a is equal to 1, then I need to print it Basically, I am saying that in the memory, in the RAM of my computer, I mean, the actual memory of it, let it store it in 1 and where it is stored, Let it address 1 Now it will be a little complex to listen to you, but in A is equal to 1, I will use every one I mean, whenever I want to refer to its value, I will print it Now you have gone to A is equal to 1, I don't want to directly print 1 Why do I run this program? How about this? Now I will do this, you have to save a number You have to save a number here and it is printing So A is equal to this, A is equal to this, A is equal to this, and this is printed Can I do something like this? B is equal to Harry The answer is yes, I can do it But if I run, I will only get this number and print And if I print, I will also print I will get this number and print it Which is great, because this is a different type of data Now you will see that when you have written 1, 2, 3, 4, 4, then you didn't write your double quotes But when you write Harry, then why didn't you write it? Because it will be a error Now why will it be a error? You can write it directly But we have to write double quotes Sometimes we represent a string data type If you have written it like this, then it will be called Harry is equal to 9 Now it is called B is equal to Harry Now you will know how to print Harry string And I will run this program So I will get 9 print, you will see that 9 print will be here So it is possible that you want to print Harry literally But print 9 is here, so there is no rule in Python I will write B is equal to double quotes And you can see the print directly in the double quotes Now I will show you the variable So what is the variable? The variable is like a container that holds data A container that holds data Very similar to how and containers in kitchen holds sugar As in your kitchen, salt, sugar, salt, all these things To hold it, it is used double Okay The variable is just like creating a placeholder And it is signing it somewhere And here I have shown this in a series of 4 variables I have shown it to you guys Now these 4 different variables They are different As you know that you are a jeep Okay, a doggy is also a jeep Okay, a GT is also a jeep But we are different types of jeep Okay, that is equal to 1 A is equal to 1 A is equal to B is equal to 2 A is equal to Harry A is equal to Harry A is equal to D is equal to 1 A is equal to 1 Okay, you will see the video on 1x Now if you are doing A is equal to 1 So, 1 is equal to 2x B is equal to 2x B is equal to 2x C is equal to Harry A is equal to string And D is equal to nuntip The name of the name is D is equal to nuntip The variable is equal to nuntip Okay, so 4 different types are different types of jeep What is the different type of jeep? And why is it called as a jeep? Now look, why is it called a jeep? So, I have told you here That we need a jeep So that we can store the values of the jeep So that we can store the values of the jeep Okay, this is known Data time specifies The type of value that a variable can hold This is required in programming to perform operations Like I am writing here Print A plus B Okay, so will Harry connect this to this? You see, here it will be called Will you say, brother, one is your teacher The other is your string How do you connect? I mean, what do you want? If I add a small number to this How do you connect this to 1133? I mean, what do you want? What do you want? You have planned this, brother, What do you mean? What do you want? Okay, and we are talking to brother We want to concatenate this So brother, what do you want to concatenate? You are putting a plus I mean, how do you know that you want to concatenate this? You want to do something else Okay, so that's why we do what we do here That A plus B When we do it, we should do the same type of data So I will do it I will make a variable from A1 name and I will write 9 If I do A plus A1 Then this operation will be performed right And you see here, it will be written as 1133 Okay, so this is very simple You will know that We need a data type So that we can do various operations Without causing And without causing And in Python we can print the type of operator using type function And we have a variable And I want to know what type is it So I can say this I can say that The type of A is And here I can write a comma Type of A Okay, so this is the type of A And this is the type of A And this is the type of A And this is the opening parenthesis If I do this, then you see The type of A is the class A So A is an integer Let's see that we can do this with B And we can do this with B And I will run And you see here Type of B is class STR And I will do the same thing here Type of CS And here you see C type What is C? What is the type? I will do A1 Or I will do a work Or I will do C Because I will do C Because I will do 4 of the 4 variables I will do it directly once Okay, so I will do all the things And I will do C as well Now if I do this, then I will do C And I will do C And here A1 is not defined Oh, print A plus A1 I have written it I will also define A1 Because this program is also for you You all have to understand So now you see, you all have done 1, 2, 10 Type of A And type of B is bold Type of C is string Okay, these three types have printed So let's go And here you can understand the story Now in Python, you can tell some built-in data types First built-in data type is That is, we have a number Which I have told you Okay, int float complex If I see this is A is equal to I will show you one point one You saw that type of A is the integer If I show this one point one Then type of A is the float And if I write something like this I will write it This is A plus 2i So this is a complex number Actually, I have to make this complex number I will do this I will do 8,2 And if I do this, then this is a complex number And you can see here That A plus 2 is the complex number of J names Okay, if you don't know about complex numbers That is totally fine I don't expect you to know complex numbers But I just want to tell you that complex numbers You can also make in Python This is basically a real part of the majority part of the number If you have a class 12, then complex numbers are good for you If you don't have a class 11, 12, then complex number is the same But unlike the other boards, unlike the other labors So there is a class 12 and a class 11 Anyways, class is showing here I want to show you that complex number is formed So now you can see that I can write the integer type It can be floating point number It can be complex type If you talk about string, then hello world double code is closed Hello world double code is closed Python programming is all string Okay, then after that you can talk about Boolean data So you can also call it true Now why we want to use this I want you to write a function And you want to return it You can not drive it So if you don't know what function is, then I will tell you I want you to tell me that you can not drive it So you can only give me a small information Yes or no This Boolean is the same way that we work with this You will not need to tell directly that yes, I can drive it You need to give all the information Yes or no, yes, that means true or false As in string, there is a lot of information It is a small AR, AR, Y and all the characters But you can not tell that you can not drive it You can say yes or no And you should be good So this is Boolean data type Okay, what we use When we will use it, we will see it in time Then there is a sequence data Okay, I will talk about list and double And we don't have complex list or double I want to tell you that list and double There is also a list of things What is list, a code collection And we will go to the study So I will not tell you here Okay, if you want to know about list Do it, I will tell you about list Okay, what is list? So list is basically collection of different data elements Which can be different data types This is integer, this is float This is the list of lists, this is the list of lists So list is basically list of items Which can be different data types I will not tell you about it now Okay, and we can change this list What is the double? Exactly the same thing I am telling you in simple language The same thing except that it is immutable It means that it cannot change Now this immutable people confuse a lot As many people say to me that I am telling you Many people say that we can change the immutable Or immutable We have problem, okay, I will tell you How to remember People are immutable You will read the mutation, mutation What is the change? Like a theory that human was a tailor And then there was mutations And the mutation of human's tail was guided So it is said that I am not reading biology I am telling you the stuff But what is the change? Okay, I am saying this If you read the genetic algorithm If you read a little biology In class 10th, in class 9th Come on, you will read a little The mutation means that it changes The first one was a monkey Then it was a monkey And now it is a mutation So mutable means it can change Immutable means it can't change So remember this You can remember this first I can remember you Then I will tell you Come on bro I remember I was telling him that people don't remember Okay, now see here I have made a list The collection of items is also called double The collection of items is Except the fact that you can't change it If you change it, then it will give you an error Now how we will change it? We will keep all these things for the video Now I will tell you Then there is a more data type Map data Dishnary What is this? You will be in your home? No No problem, I will tell you what is your dish? Dishnary is the collection of key value pairs Now you want to see the abundance The abundance has a value You want to see the food Food has a value Food is all Now you want to see something else I am not giving you a comment You want to see mutable You want to see the mutable So mutable means it can't be written in the dictionary So key value pairs I can store something on the top of the key value pairs I can store the key value pairs What is the purpose of which? The name of the child is the purpose of which This information can be stored I will tell you Now you go there I have written a name of Sachshi H20 Canvotrulek You can see the name of Sachshi H20 I will tell you more about the dictionary Now you will understand that it is a map data. I have mapped one thing from the other. Name, Sachshi, how many marks can it be? How many words can it be? And how is it in the game? How many marks can it be? How many marks can it be? How is it in the game? It is not in the game. Understand that people are all there. They are all there. And it will become a dictionary. It will become a total list. I hope you have understood. Now I want to say one thing. Because maybe you have to cover your mind. You will have to cover your mind. Maybe you will not be able to cover it. But think about it. Everything is an object in Python. Everything is a dictionary. If you want to make a dictionary, then it is an object. If you want to make a Boolean, then it is an object. An integer, an object, an integer class object. So you can see here, when we printed it, we saw that you can see here. Type of A is class complex, so it is writing class. Class object. Now you will understand what is this class? What is this class object? I will tell you in the coming videos. I will tell you everything when I am in the object oriented programming. Now remember this thing. In Python, everything is an object. Now remember this thing. If you remember, then I will remember it. Now forget about this. I have not said anything about this. But when we will do a class object, then you should remember. I told you that I will explain everything in Python. Now you can grasp the concept of graded time. It seems like it is graded time. It seems like it is a big object. That's it in this video. I hope you enjoyed it. If you haven't done the playlist access yet, then do the playlist access. Click here and I have made a book. Click here and save it. Thank you so much for watching this video. And I will see you next time. Bye."
+}

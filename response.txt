@@ -1,0 +1,5 @@
+I see you're trying to figure out where the starting of a program begins. That's a great question!
+
+From our Python Tutorial - Day #4 video, I found that we actually cover our first Python program at around 151 seconds into the video (around 2 minutes and 31 seconds). We discuss what makes a valid Python program and how it works.
+
+Would you like me to take you back to that specific video?

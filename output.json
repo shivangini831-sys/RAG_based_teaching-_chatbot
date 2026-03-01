@@ -1,0 +1,27 @@
+[
+    {
+        "start": 0.0,
+        "end": 2.0,
+        "text": " Welcome to 100 Days of Code"
+    },
+    {
+        "start": 2.0,
+        "end": 4.0,
+        "text": " I hope you all are well"
+    },
+    {
+        "start": 4.0,
+        "end": 6.0,
+        "text": " I want to tell you a story of my personal"
+    },
+    {
+        "start": 6.0,
+        "end": 8.0,
+        "text": " When I was in second year of college"
+    },
+    {
+        "start": 8.0,
+        "end": 10.0,
+        "text": " I was very good at CC++"
+    }
+]

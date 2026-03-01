@@ -1,0 +1,1629 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 0.0,
+            "end": 3.5,
+            "text": " You guys have been playing a lot in 100 days of code"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 3.5,
+            "end": 6.66,
+            "text": " and all the people's tempos are very high"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 6.66,
+            "end": 10.96,
+            "text": " so today I am going to tell you how we can get user input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 10.96,
+            "end": 13.9,
+            "text": " If you interact with some program"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 13.9,
+            "end": 17.240000000000002,
+            "text": " and then you will enjoy the game"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 17.240000000000002,
+            "end": 20.14,
+            "text": " You know how many tips you play in games"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 20.14,
+            "end": 22.54,
+            "text": " because all the inputs you play in computer"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 22.54,
+            "end": 24.26,
+            "text": " are in the computer action"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 24.26,
+            "end": 26.14,
+            "text": " and the inputs are in the computer"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 26.14,
+            "end": 28.46,
+            "text": " and these things are very important"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 28.46,
+            "end": 31.44,
+            "text": " so we are giving you input and computer response"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 31.44,
+            "end": 34.52,
+            "text": " You can also give your Python programs the same way"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 34.52,
+            "end": 37.02,
+            "text": " I will tell you how these things are done"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 37.02,
+            "end": 40.06,
+            "text": " by giving you Python program the input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 40.06,
+            "end": 43.06,
+            "text": " Let's go to the computer screen and let's get started"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 52.540000000000006,
+            "end": 54.8,
+            "text": " The user input is in Python programming"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 54.8,
+            "end": 57.6,
+            "text": " it is taken from input function"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 57.6,
+            "end": 60.160000000000004,
+            "text": " The input function is in Python programming"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 60.160000000000004,
+            "end": 62.660000000000004,
+            "text": " it takes a string from you"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 62.660000000000004,
+            "end": 66.46000000000001,
+            "text": " or you ask them what you want to give the input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 66.46000000000001,
+            "end": 68.0,
+            "text": " and they can put a message in it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 68.0,
+            "end": 71.24000000000001,
+            "text": " I will show you exactly how to do it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 71.24000000000001,
+            "end": 72.6,
+            "text": " zoom out a little"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 72.6,
+            "end": 74.1,
+            "text": " zoom out a little"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 74.1,
+            "end": 75.6,
+            "text": " zoom out a little"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 75.6,
+            "end": 77.34,
+            "text": " I will zoom out a little"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 77.34,
+            "end": 80.6,
+            "text": " I will zoom out a little"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 80.6,
+            "end": 83.48,
+            "text": " and see how it works"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 83.48,
+            "end": 84.84,
+            "text": " so we are going to take a very simple thing"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 84.84,
+            "end": 86.84,
+            "text": " to take the user input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 86.84,
+            "end": 88.84,
+            "text": " we use input function"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 88.84,
+            "end": 90.84,
+            "text": " what is input function?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 90.84,
+            "end": 92.84,
+            "text": " it is very simple"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 92.84,
+            "end": 94.84,
+            "text": " that you have to do it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 94.84,
+            "end": 96.84,
+            "text": " that is a variable is equal to input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 96.84,
+            "end": 99.84,
+            "text": " in Python we can take user input directly using input function"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 99.84,
+            "end": 102.84,
+            "text": " the input function gives a return value"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 102.84,
+            "end": 104.84,
+            "text": " as string character"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 104.84,
+            "end": 106.84,
+            "text": " hence we have to pass that into the variable"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 106.84,
+            "end": 108.84,
+            "text": " I will tell you what it means"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 108.84,
+            "end": 110.84,
+            "text": " it is very simple"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 110.84,
+            "end": 112.84,
+            "text": " just write it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 112.84,
+            "end": 114.84,
+            "text": " we have created this"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 114.84,
+            "end": 116.84,
+            "text": " the basic program"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 116.84,
+            "end": 117.84,
+            "text": " in Python"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 117.84,
+            "end": 119.84,
+            "text": " so if I write here"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 119.84,
+            "end": 120.84,
+            "text": " and enter"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 120.84,
+            "end": 122.84,
+            "text": " it has been printed"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 122.84,
+            "end": 124.84,
+            "text": " I can do it like this"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 124.84,
+            "end": 128.84,
+            "text": " that my name is"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 128.84,
+            "end": 130.84,
+            "text": " and after that I write"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 130.84,
+            "end": 132.84,
+            "text": " my name is HarryBrent"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 132.84,
+            "end": 133.84,
+            "text": " it is in 1"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 133.84,
+            "end": 135.84,
+            "text": " so this is very simple"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 135.84,
+            "end": 137.84,
+            "text": " and you guys understood"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 137.84,
+            "end": 139.84,
+            "text": " I will write Harry"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 139.84,
+            "end": 141.84,
+            "text": " and now my name is Harry"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 141.84,
+            "end": 143.84,
+            "text": " this is very simple"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 143.84,
+            "end": 145.84,
+            "text": " you can understand"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 145.84,
+            "end": 147.84,
+            "text": " but what you can do"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 147.84,
+            "end": 149.84,
+            "text": " you can also do a string"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 149.84,
+            "end": 151.84,
+            "text": " I can do it like this"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 151.84,
+            "end": 153.84,
+            "text": " and"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 153.84,
+            "end": 155.84,
+            "text": " your name"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 155.84,
+            "end": 157.84,
+            "text": " and your colon space"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 157.84,
+            "end": 159.84,
+            "text": " so you have to write your name"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 159.84,
+            "end": 161.84,
+            "text": " the string in the input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 161.84,
+            "end": 163.84,
+            "text": " I will show you"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 163.84,
+            "end": 165.84,
+            "text": " and if I write Harry here"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 165.84,
+            "end": 167.84,
+            "text": " then my name is Harry"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 167.84,
+            "end": 169.84,
+            "text": " it will show you"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 169.84,
+            "end": 171.84,
+            "text": " now this is"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 171.84,
+            "end": 173.84,
+            "text": " the input function"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 173.84,
+            "end": 175.84,
+            "text": " that is the input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 175.84,
+            "end": 177.84,
+            "text": " like this is the input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 177.84,
+            "end": 179.84,
+            "text": " so this is the one"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 179.84,
+            "end": 181.84,
+            "text": " that is the one"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 181.84,
+            "end": 183.84,
+            "text": " if you wait"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 183.84,
+            "end": 185.84,
+            "text": " after the input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 185.84,
+            "end": 187.84,
+            "text": " the input is not given"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 187.84,
+            "end": 189.84,
+            "text": " and if you give the string"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 189.84,
+            "end": 191.84,
+            "text": " then it shows"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 191.84,
+            "end": 193.84,
+            "text": " and after that"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 193.84,
+            "end": 195.84,
+            "text": " you will input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 195.84,
+            "end": 197.84,
+            "text": " my name is Harry"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 197.84,
+            "end": 199.84,
+            "text": " so this is the one"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 199.84,
+            "end": 201.84,
+            "text": " so this is the one"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 201.84,
+            "end": 203.84,
+            "text": " so people will make a program"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 203.84,
+            "end": 205.84,
+            "text": " I will tell you"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 205.84,
+            "end": 207.84,
+            "text": " that this is the biggest"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 207.84,
+            "end": 209.84,
+            "text": " doubt"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 209.84,
+            "end": 211.84,
+            "text": " and I will tell you"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 211.84,
+            "end": 213.84,
+            "text": " what is this"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 213.84,
+            "end": 215.84,
+            "text": " this is the one"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 215.84,
+            "end": 217.84,
+            "text": " that is the input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 217.84,
+            "end": 219.84,
+            "text": " I will X"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 219.84,
+            "end": 221.84,
+            "text": " and I will show you"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 221.84,
+            "end": 225.84,
+            "text": " the input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 225.84,
+            "end": 227.84,
+            "text": " so first"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 227.84,
+            "end": 229.84,
+            "text": " number will go in"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 229.84,
+            "end": 231.84,
+            "text": " and second number will go in"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 231.84,
+            "end": 233.84,
+            "text": " and I have a comment"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 233.84,
+            "end": 235.84,
+            "text": " I don't know who said it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 235.84,
+            "end": 237.84,
+            "text": " but I had a comment"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 237.84,
+            "end": 239.84,
+            "text": " what was it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 239.84,
+            "end": 241.84,
+            "text": " if you print the first number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 241.84,
+            "end": 243.84,
+            "text": " and you print the second number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 243.84,
+            "end": 245.84,
+            "text": " I will say"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 245.84,
+            "end": 247.84,
+            "text": " I will write Harry"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 247.84,
+            "end": 249.84,
+            "text": " and if you give the first number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 249.84,
+            "end": 251.84,
+            "text": " I will give you the second number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 251.84,
+            "end": 253.84,
+            "text": " what should be done"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 253.84,
+            "end": 255.84,
+            "text": " it is only 121"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 255.84,
+            "end": 257.84000000000003,
+            "text": " but no"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 257.84000000000003,
+            "end": 259.84000000000003,
+            "text": " 121"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 259.84000000000003,
+            "end": 261.84000000000003,
+            "text": " and you all will say"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 261.84000000000003,
+            "end": 263.84000000000003,
+            "text": " that the Python is poor"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 263.84000000000003,
+            "end": 265.84000000000003,
+            "text": " and I will say"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 265.84000000000003,
+            "end": 267.84000000000003,
+            "text": " that Python is poor"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 267.84000000000003,
+            "end": 269.84000000000003,
+            "text": " and I will write it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 269.84000000000003,
+            "end": 271.84000000000003,
+            "text": " but first"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 271.84000000000003,
+            "end": 273.84000000000003,
+            "text": " I will say"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 273.84000000000003,
+            "end": 275.84000000000003,
+            "text": " that Python is poor"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 275.84000000000003,
+            "end": 277.84000000000003,
+            "text": " and I will write it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 277.84000000000003,
+            "end": 279.84000000000003,
+            "text": " but I will tell you"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 279.84000000000003,
+            "end": 281.84000000000003,
+            "text": " what is happening"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 281.84,
+            "end": 283.84,
+            "text": " when we write the first number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 283.84,
+            "end": 285.84,
+            "text": " in the first number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 285.84,
+            "end": 287.84,
+            "text": " what happens?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 287.84,
+            "end": 289.84,
+            "text": " what happens?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 289.84,
+            "end": 291.84,
+            "text": " what is the rule?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 291.84,
+            "end": 293.84,
+            "text": " the rule is"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 293.84,
+            "end": 295.84,
+            "text": " that everything will go in the first number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 295.84,
+            "end": 297.84,
+            "text": " if you have input"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 297.84,
+            "end": 299.84,
+            "text": " Python's input function"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 299.84,
+            "end": 301.84,
+            "text": " is not intelligent enough"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 301.84,
+            "end": 303.84,
+            "text": " you have added the number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 303.84,
+            "end": 305.84,
+            "text": " so I will take the first number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 305.84,
+            "end": 307.84,
+            "text": " as a string"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 307.84,
+            "end": 309.84,
+            "text": " Python's input function"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 309.84,
+            "end": 311.84,
+            "text": " you will also enter"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 311.84,
+            "end": 313.84,
+            "text": " I will take the first number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 313.84,
+            "end": 315.84,
+            "text": " and if you are entering"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 315.84,
+            "end": 317.84,
+            "text": " you can type it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 317.84,
+            "end": 319.84,
+            "text": " we had read the first number"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 319.84,
+            "end": 321.84,
+            "text": " then we will convert it"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 321.84,
+            "end": 323.84,
+            "text": " into dpus"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 323.84,
+            "end": 325.84,
+            "text": " it will be a y string"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 325.84,
+            "end": 327.84,
+            "text": " and when the string is connected"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 327.84,
+            "end": 329.84,
+            "text": " I did not read the string"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 329.84,
+            "end": 331.84,
+            "text": " but I will tell you"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 331.84,
+            "end": 337.84,
+            "text": " when x plus y is"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 337.84,
+            "end": 343.03999999999996,
+            "text": " If you have a 12 and 100, then what will happen if you have a 12 and 100?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 343.03999999999996,
+            "end": 346.03999999999996,
+            "text": " If you have an integer, then you will have a 12 and 100."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 346.03999999999996,
+            "end": 348.64,
+            "text": " This is the fourth class child."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 348.64,
+            "end": 351.84,
+            "text": " If you have a fourth class child, then comment below."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 351.84,
+            "end": 356.23999999999995,
+            "text": " If this is a string, 12 and 100, then what will happen?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 356.23999999999995,
+            "end": 358.64,
+            "text": " 12 and 100."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 358.64,
+            "end": 361.64,
+            "text": " It will be similar to that of a string."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 361.64,
+            "end": 366.64,
+            "text": " If we have a love wish in a hat, then we will have a love wish."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 366.64,
+            "end": 369.64,
+            "text": " The word has a string."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 369.64,
+            "end": 372.64,
+            "text": " It will be similar to that of a string."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 372.64,
+            "end": 376.64,
+            "text": " If you have a string, then you will have a string."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 376.64,
+            "end": 381.64,
+            "text": " If you have a 12 and 100, then what will happen?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 381.64,
+            "end": 383.64,
+            "text": " What will happen?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 383.64,
+            "end": 390.64,
+            "text": " If I want to have a 12 and 100, then what will happen?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 390.64,
+            "end": 394.64,
+            "text": " Let me see X but as an integer."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 394.64,
+            "end": 398.64,
+            "text": " Y but as an integer."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 398.64,
+            "end": 400.64,
+            "text": " Let me connect both of them."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 400.64,
+            "end": 402.64,
+            "text": " I will run this program."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 402.64,
+            "end": 405.64,
+            "text": " I have written Harry from my name."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 405.64,
+            "end": 408.64,
+            "text": " I have put the number of numbers."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 408.64,
+            "end": 411.64,
+            "text": " I will write the number of numbers."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 411.64,
+            "end": 414.64,
+            "text": " This is the one I have done the print express."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 414.64,
+            "end": 416.64,
+            "text": " It is 4.5 meters."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 416.64,
+            "end": 418.64,
+            "text": " It is kept in the form of 45."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 418.64,
+            "end": 424.64,
+            "text": " And this is the actual arithmetic operation between two integers."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 424.64,
+            "end": 428.64,
+            "text": " So if these are the two integers, then you can see the two integers."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 428.64,
+            "end": 431.64,
+            "text": " And this is the two integers."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 431.64,
+            "end": 433.64,
+            "text": " And we have created them."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 433.64,
+            "end": 436.64,
+            "text": " Now let me tell you one more thing."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 436.64,
+            "end": 440.64,
+            "text": " The solution is that I will tell you in the course of 100 days of code."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 440.64,
+            "end": 442.64,
+            "text": " But I will not tell you the solution."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 442.64,
+            "end": 444.64,
+            "text": " I will give you a hint."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 444.64,
+            "end": 447.64,
+            "text": " If you want to see it, you can see it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 447.64,
+            "end": 449.64,
+            "text": " And the second number I have given you."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 449.64,
+            "end": 451.64,
+            "text": " You have given a number of numbers."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 451.64,
+            "end": 453.64,
+            "text": " I have given it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 453.64,
+            "end": 455.64,
+            "text": " It is a mistake to break something."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 455.64,
+            "end": 457.64,
+            "text": " It breaks things."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 457.64,
+            "end": 460.64,
+            "text": " It is something that has been called in the hands of others."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 460.64,
+            "end": 462.64,
+            "text": " It breaks them."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 462.64,
+            "end": 464.64,
+            "text": " It breaks them."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 464.64,
+            "end": 466.64,
+            "text": " It is not like that."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 466.64,
+            "end": 468.64,
+            "text": " I will not understand."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 468.64,
+            "end": 470.64,
+            "text": " You can see here."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 470.64,
+            "end": 472.64,
+            "text": " This is error in Python."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 472.64,
+            "end": 474.64,
+            "text": " Python says that I have done my hand."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 474.64,
+            "end": 476.64,
+            "text": " Python has done my hand."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 476.64,
+            "end": 479.64,
+            "text": " Python says that I am not getting it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 479.64,
+            "end": 481.64,
+            "text": " I have done my hand."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 481.64,
+            "end": 483.64,
+            "text": " Python has done my hand."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 483.64,
+            "end": 485.64,
+            "text": " Python has broken."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 485.64,
+            "end": 487.64,
+            "text": " Python has broken."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 487.64,
+            "end": 489.64,
+            "text": " Python has said that I am not getting it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 489.64,
+            "end": 492.64,
+            "text": " Now you guys see, I have nothing."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 492.64,
+            "end": 494.64,
+            "text": " This is something like this."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 494.64,
+            "end": 499.64,
+            "text": " So here most recent call file min.py line 18 module."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 499.64,
+            "end": 502.64,
+            "text": " I have converted it into x."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 502.64,
+            "end": 505.64,
+            "text": " I will convert it into a hary."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 505.64,
+            "end": 508.64,
+            "text": " Python has broken."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 508.64,
+            "end": 510.64,
+            "text": " Python has broken."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 510.64,
+            "end": 514.64,
+            "text": " Python says that this value error is not like that."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 514.64,
+            "end": 517.64,
+            "text": " I will show you the value error."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 517.64,
+            "end": 521.64,
+            "text": " Python says that this value error is invalidated."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 521.64,
+            "end": 525.64,
+            "text": " I have given it a string in theowa."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 525.64,
+            "end": 530.64,
+            "text": " I have converted it into a disk in theowa and this is error in Python."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 530.64,
+            "end": 533.64,
+            "text": " We can also display our text using input function."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 533.64,
+            "end": 541.64,
+            "text": " We have seen this method, we can display text, and we can convert it in float."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 541.64,
+            "end": 547.64,
+            "text": " So, whenever you are joining the number, or you are doing arithmetic operation, what do you want to do?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 547.64,
+            "end": 551.64,
+            "text": " In the future, in float, which you should convert in the number you want to export."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 551.64,
+            "end": 559.64,
+            "text": " So, we can import it in Python programming, and now I want you to create a automatic operation carryout."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 559.64,
+            "end": 565.64,
+            "text": " We have done this in exercise 1, plus minus times, divide, expo, and all the operators."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 565.64,
+            "end": 568.64,
+            "text": " I am going to show you all the operators here."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 568.64,
+            "end": 573.64,
+            "text": " If we are taking a string, or if we are directly putting it directly in the X or Y, what is the operator doing?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 573.64,
+            "end": 576.64,
+            "text": " And if we are doing this, what is the operator doing?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 576.64,
+            "end": 578.64,
+            "text": " I want you to do it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 578.64,
+            "end": 579.64,
+            "text": " And show me."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 579.64,
+            "end": 585.64,
+            "text": " So, in this video, if you haven't done Python, I would like you to do it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 585.64,
+            "end": 589.64,
+            "text": " And if you are doing this, and you are doing this, what is the operator doing?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 589.64,
+            "end": 593.64,
+            "text": " Now, we will do this video. Thank you so much guys for watching this video."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python   Python Tutorial - Day #10",
+            "start": 593.64,
+            "end": 596.64,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " You guys have been playing a lot in 100 days of code and all the people's tempos are very high so today I am going to tell you how we can get user input If you interact with some program and then you will enjoy the game You know how many tips you play in games because all the inputs you play in computer are in the computer action and the inputs are in the computer and these things are very important so we are giving you input and computer response You can also give your Python programs the same way I will tell you how these things are done by giving you Python program the input Let's go to the computer screen and let's get started The user input is in Python programming it is taken from input function The input function is in Python programming it takes a string from you or you ask them what you want to give the input and they can put a message in it I will show you exactly how to do it zoom out a little zoom out a little zoom out a little I will zoom out a little I will zoom out a little and see how it works so we are going to take a very simple thing to take the user input we use input function what is input function? it is very simple that you have to do it that is a variable is equal to input in Python we can take user input directly using input function the input function gives a return value as string character hence we have to pass that into the variable I will tell you what it means it is very simple just write it we have created this the basic program in Python so if I write here and enter it has been printed I can do it like this that my name is and after that I write my name is HarryBrent it is in 1 so this is very simple and you guys understood I will write Harry and now my name is Harry this is very simple you can understand but what you can do you can also do a string I can do it like this and your name and your colon space so you have to write your name the string in the input I will show you and if I write Harry here then my name is Harry it will show you now this is the input function that is the input like this is the input so this is the one that is the one if you wait after the input the input is not given and if you give the string then it shows and after that you will input my name is Harry so this is the one so this is the one so people will make a program I will tell you that this is the biggest doubt and I will tell you what is this this is the one that is the input I will X and I will show you the input so first number will go in and second number will go in and I have a comment I don't know who said it but I had a comment what was it if you print the first number and you print the second number I will say I will write Harry and if you give the first number I will give you the second number what should be done it is only 121 but no 121 and you all will say that the Python is poor and I will say that Python is poor and I will write it but first I will say that Python is poor and I will write it but I will tell you what is happening when we write the first number in the first number what happens? what happens? what is the rule? the rule is that everything will go in the first number if you have input Python's input function is not intelligent enough you have added the number so I will take the first number as a string Python's input function you will also enter I will take the first number and if you are entering you can type it we had read the first number then we will convert it into dpus it will be a y string and when the string is connected I did not read the string but I will tell you when x plus y is If you have a 12 and 100, then what will happen if you have a 12 and 100? If you have an integer, then you will have a 12 and 100. This is the fourth class child. If you have a fourth class child, then comment below. If this is a string, 12 and 100, then what will happen? 12 and 100. It will be similar to that of a string. If we have a love wish in a hat, then we will have a love wish. The word has a string. It will be similar to that of a string. If you have a string, then you will have a string. If you have a 12 and 100, then what will happen? What will happen? If I want to have a 12 and 100, then what will happen? Let me see X but as an integer. Y but as an integer. Let me connect both of them. I will run this program. I have written Harry from my name. I have put the number of numbers. I will write the number of numbers. This is the one I have done the print express. It is 4.5 meters. It is kept in the form of 45. And this is the actual arithmetic operation between two integers. So if these are the two integers, then you can see the two integers. And this is the two integers. And we have created them. Now let me tell you one more thing. The solution is that I will tell you in the course of 100 days of code. But I will not tell you the solution. I will give you a hint. If you want to see it, you can see it. And the second number I have given you. You have given a number of numbers. I have given it. It is a mistake to break something. It breaks things. It is something that has been called in the hands of others. It breaks them. It breaks them. It is not like that. I will not understand. You can see here. This is error in Python. Python says that I have done my hand. Python has done my hand. Python says that I am not getting it. I have done my hand. Python has done my hand. Python has broken. Python has broken. Python has said that I am not getting it. Now you guys see, I have nothing. This is something like this. So here most recent call file min.py line 18 module. I have converted it into x. I will convert it into a hary. Python has broken. Python has broken. Python says that this value error is not like that. I will show you the value error. Python says that this value error is invalidated. I have given it a string in theowa. I have converted it into a disk in theowa and this is error in Python. We can also display our text using input function. We have seen this method, we can display text, and we can convert it in float. So, whenever you are joining the number, or you are doing arithmetic operation, what do you want to do? In the future, in float, which you should convert in the number you want to export. So, we can import it in Python programming, and now I want you to create a automatic operation carryout. We have done this in exercise 1, plus minus times, divide, expo, and all the operators. I am going to show you all the operators here. If we are taking a string, or if we are directly putting it directly in the X or Y, what is the operator doing? And if we are doing this, what is the operator doing? I want you to do it. And show me. So, in this video, if you haven't done Python, I would like you to do it. And if you are doing this, and you are doing this, what is the operator doing? Now, we will do this video. Thank you so much guys for watching this video. And I will see you next time."
+}

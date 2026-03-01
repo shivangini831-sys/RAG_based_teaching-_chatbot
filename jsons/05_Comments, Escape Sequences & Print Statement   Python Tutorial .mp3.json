@@ -1,0 +1,3841 @@
+{
+    "chunks": [
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 0.0,
+            "end": 2.88,
+            "text": " Welcome to the second half of your 200 days of code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 2.88,
+            "end": 6.42,
+            "text": " In today's video, we will see comments, escape sequence characters"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 6.42,
+            "end": 8.58,
+            "text": " and print statement from a little bit"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 8.58,
+            "end": 12.08,
+            "text": " Whenever we are coding, we want to write in Python programming language"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 12.08,
+            "end": 13.32,
+            "text": " in any language"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 13.32,
+            "end": 16.52,
+            "text": " and we don't want to leave any text in that program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 16.52,
+            "end": 18.1,
+            "text": " whatever we write in our program,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 18.1,
+            "end": 19.740000000000002,
+            "text": " we execute Python interpreter"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 19.740000000000002,
+            "end": 20.900000000000002,
+            "text": " but whenever we want,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 20.900000000000002,
+            "end": 22.900000000000002,
+            "text": " we write some lines in our program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 22.900000000000002,
+            "end": 23.900000000000002,
+            "text": " which we don't execute"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 23.900000000000002,
+            "end": 26.060000000000002,
+            "text": " For example, if I write a program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 26.060000000000002,
+            "end": 27.82,
+            "text": " then it can be said that after 6 months"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 27.82,
+            "end": 29.82,
+            "text": " I will forget what is happening in this program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 29.82,
+            "end": 31.82,
+            "text": " For me, writing in my program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 31.82,
+            "end": 33.82,
+            "text": " will be a little bit difficult"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 33.82,
+            "end": 35.82,
+            "text": " I want to add some lines like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 35.82,
+            "end": 37.82,
+            "text": " Because in future, Harry told me"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 37.82,
+            "end": 39.82,
+            "text": " what kind of program he wrote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 39.82,
+            "end": 41.82,
+            "text": " or if I am working with a friend"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 41.82,
+            "end": 43.82,
+            "text": " with a friend with a friend with a friend with a friend"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 43.82,
+            "end": 45.82,
+            "text": " or if I am working with a friend with a friend with a friend with a friend"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 45.82,
+            "end": 47.82,
+            "text": " then both of them will have to tell me"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 47.82,
+            "end": 49.82,
+            "text": " what I am doing in this program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 49.82,
+            "end": 51.82,
+            "text": " and how I am working"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 51.82,
+            "end": 53.82,
+            "text": " I will use it in this way"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 53.82,
+            "end": 55.82,
+            "text": " and let's get started"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 55.82,
+            "end": 57.82,
+            "text": " in this video"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 57.82,
+            "end": 59.82,
+            "text": " let's go to computer screen"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 59.82,
+            "end": 61.82,
+            "text": " and let's get started"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 69.82,
+            "end": 71.82,
+            "text": " So what I will do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 71.82,
+            "end": 73.82,
+            "text": " is that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 73.82,
+            "end": 75.82,
+            "text": " I am going to open my main.py"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 75.82,
+            "end": 77.82,
+            "text": " I am going to open my main.py"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 77.82,
+            "end": 79.82,
+            "text": " and I will open my main.py"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 79.82,
+            "end": 81.82,
+            "text": " and here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 81.82,
+            "end": 83.82,
+            "text": " my main.py"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 83.82,
+            "end": 85.82,
+            "text": " will open it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 85.82,
+            "end": 87.82,
+            "text": " and I will show you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 87.82,
+            "end": 89.82,
+            "text": " So if I write a friend"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 89.82,
+            "end": 91.82,
+            "text": " I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 91.82,
+            "end": 93.82,
+            "text": " then there is no doubt that I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 93.82,
+            "end": 95.82,
+            "text": " so I will be a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 95.82,
+            "end": 97.82,
+            "text": " In fact, in the statement"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 97.82,
+            "end": 99.82,
+            "text": " in double quotes"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 99.82,
+            "end": 101.82,
+            "text": " you will see the same thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 101.82,
+            "end": 103.82,
+            "text": " and I will see the same good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 103.82,
+            "end": 105.82,
+            "text": " and you will see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 105.82,
+            "end": 107.82,
+            "text": " if I write a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 107.82,
+            "end": 109.82,
+            "text": " and I will enter"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 109.82,
+            "end": 111.82,
+            "text": " and this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 111.82,
+            "end": 113.82,
+            "text": " viewer"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 113.82,
+            "end": 115.82,
+            "text": " is also a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 115.82,
+            "end": 117.82,
+            "text": " slash girl"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 117.82,
+            "end": 119.82,
+            "text": " so if I do this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 119.82,
+            "end": 121.82,
+            "text": " then what is the red line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 121.82,
+            "end": 123.82,
+            "text": " that is the sign"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 123.82,
+            "end": 125.82,
+            "text": " how it is"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 125.82,
+            "end": 127.82,
+            "text": " I will tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 127.82,
+            "end": 129.82,
+            "text": " what is the name of this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 129.82,
+            "end": 131.82,
+            "text": " you know what"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 131.82,
+            "end": 133.82,
+            "text": " you wrote a print"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 133.82,
+            "end": 135.82,
+            "text": " but you did not like"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 135.82,
+            "end": 137.82,
+            "text": " I did not like it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 137.82,
+            "end": 139.82,
+            "text": " so I said"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 139.82,
+            "end": 141.82,
+            "text": " what should I do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 141.82,
+            "end": 143.82,
+            "text": " I need a new line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 143.82,
+            "end": 145.82,
+            "text": " Python says"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 145.82,
+            "end": 147.82,
+            "text": " you should have a new line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 147.82,
+            "end": 149.82,
+            "text": " so you should do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 149.82,
+            "end": 151.82,
+            "text": " escape sequence"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 151.82,
+            "end": 153.82,
+            "text": " you have to write backslash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 153.82,
+            "end": 155.82,
+            "text": " and this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 155.82,
+            "end": 157.82,
+            "text": " I will not kill you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 157.82,
+            "end": 159.82,
+            "text": " just write backslash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 159.82,
+            "end": 161.82,
+            "text": " Python will take care of it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 161.82,
+            "end": 163.82,
+            "text": " so you have to write backslash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 163.82,
+            "end": 165.82,
+            "text": " and you will see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 165.82,
+            "end": 167.82,
+            "text": " you will see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 167.82,
+            "end": 169.82,
+            "text": " I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 169.82,
+            "end": 171.82,
+            "text": " and this viewer is also a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 171.82,
+            "end": 173.82,
+            "text": " slash girl"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 173.82,
+            "end": 175.82,
+            "text": " so what was the"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 175.82,
+            "end": 177.82,
+            "text": " backslash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 177.82,
+            "end": 179.82,
+            "text": " this is the escape sequence"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 179.82,
+            "end": 181.82,
+            "text": " and I will tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 181.82,
+            "end": 183.82,
+            "text": " what are the other"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 183.82,
+            "end": 185.82,
+            "text": " and what are the other"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 185.82,
+            "end": 187.01999999999998,
+            "text": " other"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 187.01999999999998,
+            "end": 189.82,
+            "text": " but I need to tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 189.82,
+            "end": 191.82,
+            "text": " I know I am doing this on code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 191.82,
+            "end": 193.82,
+            "text": " I will tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 193.82,
+            "end": 195.82,
+            "text": " the other"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 195.82,
+            "end": 198.06,
+            "text": " that last"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 198.06,
+            "end": 199.82,
+            "text": " except I am talking"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 199.82,
+            "end": 202.9,
+            "text": " next"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 202.9,
+            "end": 205.9,
+            "text": " that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 205.9,
+            "end": 207.9,
+            "text": " I will write"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 207.9,
+            "end": 210.29999999999998,
+            "text": " distance"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 210.29999999999998,
+            "end": 213.6,
+            "text": " I am going to put the"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 213.6,
+            "end": 215.79999999999998,
+            "text": " inside my"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 215.79999999999998,
+            "end": 218.79999999999998,
+            "text": " computer"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 218.79999999999998,
+            "end": 220.79999999999998,
+            "text": " and go and put the"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 220.8,
+            "end": 222.8,
+            "text": " I want to remove the Harries line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 222.8,
+            "end": 224.8,
+            "text": " I am working on it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 224.8,
+            "end": 227.8,
+            "text": " I want to keep this in the code base for the line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 227.8,
+            "end": 230.8,
+            "text": " But you guys are watching the Python Devitan Nalaz."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 230.8,
+            "end": 232.8,
+            "text": " I am not sure what is going on."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 232.8,
+            "end": 234.8,
+            "text": " Where is the invalid syntax?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 234.8,
+            "end": 235.8,
+            "text": " I understand it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 235.8,
+            "end": 237.8,
+            "text": " I understand many more syntax."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 237.8,
+            "end": 240.8,
+            "text": " But this Harries don't remove this line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 240.8,
+            "end": 241.8,
+            "text": " I didn't like it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 241.8,
+            "end": 242.8,
+            "text": " Python doesn't say this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 242.8,
+            "end": 243.8,
+            "text": " So we will run it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 243.8,
+            "end": 245.8,
+            "text": " Obviously we will see it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 245.8,
+            "end": 247.8,
+            "text": " We will not get any doubt in it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 247.8,
+            "end": 249.8,
+            "text": " And you will also know what you are ready."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 249.8,
+            "end": 251.8,
+            "text": " But I want to keep the Harries line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 251.8,
+            "end": 252.8,
+            "text": " Please."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 252.8,
+            "end": 253.8,
+            "text": " I said Python."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 253.8,
+            "end": 255.8,
+            "text": " Python says, okay, don't do it like kids."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 255.8,
+            "end": 256.8,
+            "text": " Don't do it like kids."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 256.8,
+            "end": 258.8,
+            "text": " I want to know how to keep it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 258.8,
+            "end": 260.8,
+            "text": " Python says, look, there are comments in me."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 260.8,
+            "end": 262.8,
+            "text": " It means that you can keep any text."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 262.8,
+            "end": 264.8,
+            "text": " I don't mean that."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 265.8,
+            "end": 266.8,
+            "text": " You have a wow."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 266.8,
+            "end": 268.8,
+            "text": " Python is so good."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 268.8,
+            "end": 270.8,
+            "text": " Python says, yes, I am so good."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 270.8,
+            "end": 271.8,
+            "text": " What should I do?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 271.8,
+            "end": 272.8,
+            "text": " What should I do?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 272.8,
+            "end": 275.8,
+            "text": " Python says, you start with this character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 275.8,
+            "end": 277.8,
+            "text": " And this will become a comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 277.8,
+            "end": 281.8,
+            "text": " And if you have marked any line,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 281.8,
+            "end": 283.8,
+            "text": " then you will start with the same."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 283.8,
+            "end": 285.8,
+            "text": " You will write in some ID."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 285.8,
+            "end": 287.8,
+            "text": " You will write in the same ID."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 287.8,
+            "end": 289.8,
+            "text": " This will be the same in this case."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 289.8,
+            "end": 291.8,
+            "text": " The comment has started showing in every color."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 291.8,
+            "end": 293.8,
+            "text": " And here, this is the syntax highlighting."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 293.8,
+            "end": 295.8,
+            "text": " I have printed it in yellow."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 295.8,
+            "end": 296.8,
+            "text": " You can see it in the color of yellow."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 296.8,
+            "end": 299.8,
+            "text": " The string letter is in orange."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 299.8,
+            "end": 300.8,
+            "text": " This is brackets."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 300.8,
+            "end": 302.8,
+            "text": " You can see it in different colors."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 302.8,
+            "end": 304.8,
+            "text": " You can see it in red."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 304.8,
+            "end": 306.8,
+            "text": " This is the syntax highlighting."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 306.8,
+            "end": 308.8,
+            "text": " You can give it to the red."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 308.8,
+            "end": 309.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 309.8,
+            "end": 311.8,
+            "text": " Hey Harry, please don't remove this line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 311.8,
+            "end": 313.8,
+            "text": " Let's see."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 313.8,
+            "end": 316.8,
+            "text": " And now, our program is running."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 316.8,
+            "end": 319.8,
+            "text": " I can write in my program a text."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 319.8,
+            "end": 321.8,
+            "text": " I can add some information."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 321.8,
+            "end": 325.8,
+            "text": " I want to mark this program's author Harry."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 325.8,
+            "end": 327.8,
+            "text": " I want to mark this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 327.8,
+            "end": 331.8,
+            "text": " This is the code of 100 days of code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 331.8,
+            "end": 332.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 332.8,
+            "end": 334.8,
+            "text": " I want to write this in my program."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 334.8,
+            "end": 335.8,
+            "text": " I can write it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 335.8,
+            "end": 336.8,
+            "text": " I can write it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 336.8,
+            "end": 338.8,
+            "text": " I will tell you one thing."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 338.8,
+            "end": 339.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 339.8,
+            "end": 340.8,
+            "text": " What is the meaning of the meaning of the meaning?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 340.8,
+            "end": 343.8,
+            "text": " Because I have told you that you can select multiple lines."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 343.8,
+            "end": 344.8,
+            "text": " And control."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 344.8,
+            "end": 346.8,
+            "text": " Or if you are under the command,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 346.8,
+            "end": 348.8,
+            "text": " control plus forward slash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 348.8,
+            "end": 350.8,
+            "text": " You press this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 350.8,
+            "end": 353.8,
+            "text": " You can comment any code based on this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 353.8,
+            "end": 356.8,
+            "text": " So, I will comment on many lines in this way."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 356.8,
+            "end": 358.8,
+            "text": " So, don't say that."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 358.8,
+            "end": 360.8,
+            "text": " Because I have done it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 360.8,
+            "end": 362.8,
+            "text": " Control plus forward slash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 362.8,
+            "end": 363.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 363.8,
+            "end": 365.8,
+            "text": " So, control plus forward slash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 365.8,
+            "end": 367.8,
+            "text": " You can use this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 367.8,
+            "end": 368.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 368.8,
+            "end": 371.8,
+            "text": " We can use one line in the multi line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 371.8,
+            "end": 372.8,
+            "text": " Yes."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 372.8,
+            "end": 374.8,
+            "text": " And we will talk about this series."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 374.8,
+            "end": 375.8,
+            "text": " I am not talking about this series."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 375.8,
+            "end": 378.8,
+            "text": " So, I was telling you that these lines,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 378.8,
+            "end": 381.8,
+            "text": " multiple lines, you can mark them."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 381.8,
+            "end": 382.8,
+            "text": " As comments."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 382.8,
+            "end": 384.8,
+            "text": " You can also comment them."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 384.8,
+            "end": 385.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 385.8,
+            "end": 386.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 386.8,
+            "end": 389.8,
+            "text": " So, here I have written that a comment is a part of coding."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 389.8,
+            "end": 392.8,
+            "text": " File that the programmer does not want to execute."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 392.8,
+            "end": 395.8,
+            "text": " Rather, the programmer uses it to either explain a block of code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 395.8,
+            "end": 399.8,
+            "text": " or to avoid the execution of a specific part of code while testing."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 399.8,
+            "end": 403.8,
+            "text": " The meaning of this is that I write a comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 403.8,
+            "end": 405.8,
+            "text": " I write a code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 405.8,
+            "end": 406.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 406.8,
+            "end": 408.8,
+            "text": " I want to write this here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 408.8,
+            "end": 409.8,
+            "text": " Print."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 409.8,
+            "end": 410.8,
+            "text": " Hello."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 410.8,
+            "end": 411.8,
+            "text": " What?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 411.8,
+            "end": 412.8,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 412.8,
+            "end": 413.8,
+            "text": " Now, I will show you."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 413.8,
+            "end": 414.8,
+            "text": " I have shown this in my boss program."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 414.8,
+            "end": 416.8,
+            "text": " I have shown this in my boss program."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 416.8,
+            "end": 417.8,
+            "text": " How do I write this?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 417.8,
+            "end": 418.8,
+            "text": " I have written this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 418.8,
+            "end": 419.8,
+            "text": " I have said this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 419.8,
+            "end": 420.8,
+            "text": " This is a big one."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 420.8,
+            "end": 421.8,
+            "text": " No, I am not writing this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 421.8,
+            "end": 422.8,
+            "text": " I will not give it a good one."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 422.8,
+            "end": 423.8,
+            "text": " I will give it a good one."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 423.8,
+            "end": 424.8,
+            "text": " I will say, okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 424.8,
+            "end": 426.8,
+            "text": " So, I will slash this control forward slash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 426.8,
+            "end": 428.8,
+            "text": " And now, I can remove this code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 428.8,
+            "end": 431.8,
+            "text": " Now, people say that my boss is also a boss."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 431.8,
+            "end": 432.8,
+            "text": " He says, what is going on?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 432.8,
+            "end": 434.8,
+            "text": " He has given such a big word."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 434.8,
+            "end": 437.8,
+            "text": " So, I can do this again."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 437.8,
+            "end": 439.8,
+            "text": " And it will come again."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 439.8,
+            "end": 440.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 440.8,
+            "end": 441.8,
+            "text": " So, this can be done."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 441.8,
+            "end": 443.8,
+            "text": " I will comment this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 443.8,
+            "end": 444.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 444.8,
+            "end": 445.8,
+            "text": " I have taken this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 445.8,
+            "end": 446.8,
+            "text": " You have given an example."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 446.8,
+            "end": 447.8,
+            "text": " You will write a code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 447.8,
+            "end": 448.8,
+            "text": " Do not need it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 448.8,
+            "end": 449.8,
+            "text": " Copy it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 449.8,
+            "end": 450.8,
+            "text": " Paste it here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 450.8,
+            "end": 451.8,
+            "text": " Run it like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 451.8,
+            "end": 452.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 452.8,
+            "end": 453.8,
+            "text": " You will do it like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 453.8,
+            "end": 454.8,
+            "text": " Now, see here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 454.8,
+            "end": 456.8,
+            "text": " You guys, this is a single line comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 456.8,
+            "end": 457.8,
+            "text": " I will not get it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 457.8,
+            "end": 459.8,
+            "text": " And this is a print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 459.8,
+            "end": 461.8,
+            "text": " I have given an example."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 461.8,
+            "end": 464.8,
+            "text": " You can write a line comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 464.8,
+            "end": 466.8,
+            "text": " If you write something like this,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 466.8,
+            "end": 468.8,
+            "text": " I am doing it like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 468.8,
+            "end": 471.8,
+            "text": " I will do it like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 471.8,
+            "end": 474.8,
+            "text": " Now, see what I can do after the print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 474.8,
+            "end": 476.8,
+            "text": " Actually, I have given this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 476.8,
+            "end": 478.8,
+            "text": " I should have written a letter."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 478.8,
+            "end": 480.8,
+            "text": " Now, see, we write like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 480.8,
+            "end": 482.8,
+            "text": " And then I write a hello word."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 482.8,
+            "end": 485.8,
+            "text": " And then I write something here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 485.8,
+            "end": 486.8,
+            "text": " I want to write it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 486.8,
+            "end": 487.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 487.8,
+            "end": 489.8,
+            "text": " So, my code is executed."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 489.8,
+            "end": 492.8,
+            "text": " And as soon as I get this bound symbol,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 492.8,
+            "end": 494.8,
+            "text": " I will write whatever I want to write."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 494.8,
+            "end": 496.8,
+            "text": " If I want to do it, I will ignore it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 496.8,
+            "end": 498.8,
+            "text": " So, I will write Python interpreter."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 498.8,
+            "end": 499.8,
+            "text": " Printing hello word,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 499.8,
+            "end": 501.8,
+            "text": " I will write whatever I want to ignore."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 501.8,
+            "end": 503.8,
+            "text": " What happens if it is not?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 503.8,
+            "end": 505.8,
+            "text": " Obviously, it happens."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 505.8,
+            "end": 507.8,
+            "text": " Do you know what is the error?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 507.8,
+            "end": 509.8,
+            "text": " It will be said that what is going on?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 509.8,
+            "end": 511.8,
+            "text": " What is the printing hello word?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 511.8,
+            "end": 513.8,
+            "text": " The print hello word is fine."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 513.8,
+            "end": 514.8,
+            "text": " But, you will say,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 514.8,
+            "end": 516.8,
+            "text": " What is the printing hello word?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 516.8,
+            "end": 518.8,
+            "text": " You have given an idea like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 518.8,
+            "end": 520.8,
+            "text": " So, you can see here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 520.8,
+            "end": 524.8,
+            "text": " I will write a pound symbol here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 524.8,
+            "end": 526.8,
+            "text": " And after that, I will do it like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 526.8,
+            "end": 527.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 527.8,
+            "end": 528.8,
+            "text": " You can see."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 528.8,
+            "end": 530.8,
+            "text": " Now, see what I can do."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 530.8,
+            "end": 533.8,
+            "text": " I will tell you the code commentators."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 533.8,
+            "end": 535.8,
+            "text": " I want to tell you something else."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 535.8,
+            "end": 537.8,
+            "text": " How will you write the multi-line comments?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 537.8,
+            "end": 540.8,
+            "text": " Now, I will tell you the story of multi-line comments."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 540.8,
+            "end": 545.8,
+            "text": " I told people that I will take an example of this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 545.8,
+            "end": 546.8,
+            "text": " I will comment on this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 546.8,
+            "end": 549.8,
+            "text": " I told people that I will comment on three lines."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 549.8,
+            "end": 550.8,
+            "text": " I have two lines."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 550.8,
+            "end": 553.8,
+            "text": " Now, because I am living in modern world."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 553.8,
+            "end": 554.8,
+            "text": " I have IDE."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 554.8,
+            "end": 555.8,
+            "text": " I have a template."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 555.8,
+            "end": 557.8,
+            "text": " I have modern IDE."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 557.8,
+            "end": 560.8,
+            "text": " I will select and then flash the control."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 560.8,
+            "end": 562.8,
+            "text": " This template is used for short cut."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 562.8,
+            "end": 563.8,
+            "text": " It is used for WS code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 563.8,
+            "end": 565.8,
+            "text": " It is used for modern IDE."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 565.8,
+            "end": 568.8,
+            "text": " Which you can comment on."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 568.8,
+            "end": 570.8,
+            "text": " It is used for all kinds of short cut."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 570.8,
+            "end": 572.8,
+            "text": " But, if I don't do this, what can I do?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 572.8,
+            "end": 575.8,
+            "text": " I write a triple single quote for my convenience."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 575.8,
+            "end": 577.8,
+            "text": " And, write in it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 577.8,
+            "end": 579.8,
+            "text": " I will add all the words to my own down line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 579.8,
+            "end": 581.8,
+            "text": " By the way, to move the line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 581.8,
+            "end": 583.8,
+            "text": " So, you can also learn this short cut."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 583.8,
+            "end": 585.8,
+            "text": " WS code, all the short cuts are done."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 585.8,
+            "end": 587.8,
+            "text": " You can see that in the template."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 587.8,
+            "end": 591.8,
+            "text": " If you learn the short cut of WS code, you can search Google."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 591.8,
+            "end": 594.8,
+            "text": " You can see my video of WS code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 594.8,
+            "end": 596.8,
+            "text": " But, now we will focus on Python."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 596.8,
+            "end": 599.8,
+            "text": " So, I will close the simple quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 599.8,
+            "end": 601.8,
+            "text": " It will be a multi line comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 601.8,
+            "end": 603.8,
+            "text": " Did you write it before?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 603.8,
+            "end": 605.8,
+            "text": " It was not a multi line comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 605.8,
+            "end": 607.8,
+            "text": " It was a multi line comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 607.8,
+            "end": 608.8,
+            "text": " I wrote it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 608.8,
+            "end": 611.8,
+            "text": " I can add the simple quote to the simple quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 611.8,
+            "end": 613.8,
+            "text": " But, this is the way it is."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 613.8,
+            "end": 615.8,
+            "text": " You can also write a triple single quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 615.8,
+            "end": 617.8,
+            "text": " I will tell you in the comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 617.8,
+            "end": 619.8,
+            "text": " The triple single quote program is done."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 619.8,
+            "end": 621.8,
+            "text": " But, the triple double quote program is done."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 621.8,
+            "end": 623.8,
+            "text": " I added two or three triple double quotes."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 623.8,
+            "end": 625.8,
+            "text": " I will do one more."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 625.8,
+            "end": 626.8,
+            "text": " I will shift 10."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 626.8,
+            "end": 630.8,
+            "text": " I will select the control, the x, the y, the y, the y, and now I will go."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 630.8,
+            "end": 632.8,
+            "text": " Then, I will go after that."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 632.8,
+            "end": 634.8,
+            "text": " See, look at this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 634.8,
+            "end": 636.8,
+            "text": " This one is done."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 636.8,
+            "end": 638.8,
+            "text": " It is very tasty."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 638.8,
+            "end": 641.8,
+            "text": " Now, we can comment on this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 641.8,
+            "end": 643.8,
+            "text": " If you have any line, I have written it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 643.8,
+            "end": 645.8,
+            "text": " I have written multiple lines."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 645.8,
+            "end": 649.8,
+            "text": " I will select it and then I will go to the command plus forward slash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 649.8,
+            "end": 653.8,
+            "text": " So, I can use it to comment."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 653.8,
+            "end": 654.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 654.8,
+            "end": 657.8,
+            "text": " I hope you have understood something."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 657.8,
+            "end": 660.8,
+            "text": " Let's talk about the escape sequence characters."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 660.8,
+            "end": 664.8,
+            "text": " If you want to insert characters in the string."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 664.8,
+            "end": 666.8,
+            "text": " For example, here I have written,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 666.8,
+            "end": 668.8,
+            "text": " Hey, I am a good boy."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 668.8,
+            "end": 671.8,
+            "text": " And after that, I have to insert a character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 671.8,
+            "end": 674.8,
+            "text": " I will do it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 674.8,
+            "end": 676.8,
+            "text": " I will do it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 676.8,
+            "end": 680.8,
+            "text": " So that you can see the output of this print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 680.8,
+            "end": 682.8,
+            "text": " I understood why you did this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 682.8,
+            "end": 684.8,
+            "text": " So that you can focus on this print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 684.8,
+            "end": 689.8,
+            "text": " Hey, I am a good boy and this viewer is also a good boy slash girl."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 689.8,
+            "end": 692.8,
+            "text": " Now, look at this tutorial I have written."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 692.8,
+            "end": 694.8,
+            "text": " What I have written in it?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 694.8,
+            "end": 697.8,
+            "text": " I have written that two insert characters that cannot directly be used in a string."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 697.8,
+            "end": 700.8,
+            "text": " Use in a string views escape sequence characters."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 700.8,
+            "end": 703.8,
+            "text": " So, one thing is that one character that cannot directly use the string."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 703.8,
+            "end": 706.8,
+            "text": " It can be used as a scape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 706.8,
+            "end": 709.8,
+            "text": " For example, if I enter the line,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 709.8,
+            "end": 712.8,
+            "text": " the new line character will literally be inserted here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 712.8,
+            "end": 714.8,
+            "text": " Because Python does not do parts."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 714.8,
+            "end": 716.8,
+            "text": " If you insert a new line in a string,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 716.8,
+            "end": 718.8,
+            "text": " then it will not be part of the new line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 718.8,
+            "end": 720.8,
+            "text": " So, we insert the new line character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 720.8,
+            "end": 722.8,
+            "text": " Backslash plus n."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 722.8,
+            "end": 724.8,
+            "text": " These two characters are looking at this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 724.8,
+            "end": 726.8,
+            "text": " But this is the character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 726.8,
+            "end": 729.8,
+            "text": " This is the new line character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 729.8,
+            "end": 731.8,
+            "text": " This is the escape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 731.8,
+            "end": 733.8,
+            "text": " You can insert a string in it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 733.8,
+            "end": 735.8,
+            "text": " So, you can see the new line in it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 735.8,
+            "end": 737.8,
+            "text": " If I run it,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 737.8,
+            "end": 739.8,
+            "text": " then I am going to get a new line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 739.8,
+            "end": 741.8,
+            "text": " What about me?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 741.8,
+            "end": 744.8,
+            "text": " I want to close the double code in this new line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 744.8,
+            "end": 746.8,
+            "text": " This is the way."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 746.8,
+            "end": 748.8,
+            "text": " What problem do you have in it?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 748.8,
+            "end": 750.8,
+            "text": " If you think like this,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 750.8,
+            "end": 752.8,
+            "text": " then you are looking at this red line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 752.8,
+            "end": 754.8,
+            "text": " The red line has given the sign."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 754.8,
+            "end": 757.8,
+            "text": " So, the ID will be saved."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 757.8,
+            "end": 760.8,
+            "text": " If you want to run it, then you can do it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 760.8,
+            "end": 762.8,
+            "text": " If you want to do it, then you will see."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 762.8,
+            "end": 764.8,
+            "text": " You will get an error."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 764.8,
+            "end": 766.8,
+            "text": " You will get an invalid string."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 766.8,
+            "end": 768.8,
+            "text": " What problem is this?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 768.8,
+            "end": 770.8,
+            "text": " When you start your print statement,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 770.8,
+            "end": 772.8,
+            "text": " and start the double code,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 772.8,
+            "end": 774.8,
+            "text": " then the confusion is coming."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 774.8,
+            "end": 776.8,
+            "text": " This string is starting."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 776.8,
+            "end": 778.8,
+            "text": " Is the end of the line here?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 778.8,
+            "end": 780.8,
+            "text": " Now, you will know that the line is not ending."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 780.8,
+            "end": 783.8,
+            "text": " The Python interpreter is confused."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 783.8,
+            "end": 785.8,
+            "text": " It says, you have put double code here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 785.8,
+            "end": 787.8,
+            "text": " You have put the Fitser double code here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 787.8,
+            "end": 789.8,
+            "text": " It means, the end is going to be over here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 789.8,
+            "end": 791.8,
+            "text": " Okay, the end is going to be over here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 791.8,
+            "end": 792.8,
+            "text": " Then what is this?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 792.8,
+            "end": 794.8,
+            "text": " This is for the invalid string text."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 794.8,
+            "end": 796.8,
+            "text": " Because if you take this double code from here,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 796.8,
+            "end": 798.8,
+            "text": " then what is the good boy after this?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 798.8,
+            "end": 800.8,
+            "text": " Okay, then you will see the error."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 800.8,
+            "end": 802.8,
+            "text": " So, to save this,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 802.8,
+            "end": 804.8,
+            "text": " we do not use double code character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 804.8,
+            "end": 807.8,
+            "text": " We use the backslash double code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 807.8,
+            "end": 810.8,
+            "text": " The one that has a double code scape sequence."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 810.8,
+            "end": 812.8,
+            "text": " So, this is a character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 812.8,
+            "end": 814.8,
+            "text": " Now I will do this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 814.8,
+            "end": 816.8,
+            "text": " So, I will double-code here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 816.8,
+            "end": 818.8,
+            "text": " This is a good boy."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 818.8,
+            "end": 820.8,
+            "text": " It is coming in double code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 820.8,
+            "end": 822.8,
+            "text": " You can see the backslash here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 822.8,
+            "end": 824.8,
+            "text": " But I have used the backslash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 824.8,
+            "end": 825.8,
+            "text": " Why?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 825.8,
+            "end": 828.8,
+            "text": " Because I want to use the backslash double code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 828.8,
+            "end": 830.8,
+            "text": " Because the character is one."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 830.8,
+            "end": 832.8,
+            "text": " I have used two lines, but this is a character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 832.8,
+            "end": 834.8,
+            "text": " The backslash double code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 834.8,
+            "end": 836.8,
+            "text": " In the output, I use single double code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 836.8,
+            "end": 838.8,
+            "text": " It is a scape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 838.8,
+            "end": 839.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 839.8,
+            "end": 843.8,
+            "text": " The scape sequence character is a backslash followed by the character you want to insert."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 843.8,
+            "end": 844.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 844.8,
+            "end": 847.8,
+            "text": " An example of a character that cannot be directly used in a string."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 847.8,
+            "end": 848.8,
+            "text": " I have given it here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 848.8,
+            "end": 851.8,
+            "text": " If you have the string in the print,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 851.8,
+            "end": 854.8,
+            "text": " it is made in a single code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 854.8,
+            "end": 856.8,
+            "text": " So, you cannot use single code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 856.8,
+            "end": 857.8,
+            "text": " You understand?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 857.8,
+            "end": 860.8,
+            "text": " Now we will study this in the rest of the strings chapter in detail."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 860.8,
+            "end": 862.8,
+            "text": " But if I put the single code in the inside,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 862.8,
+            "end": 864.8,
+            "text": " I cannot put the single code in it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 864.8,
+            "end": 866.8,
+            "text": " I have to put the backslash single code in the inside."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 866.8,
+            "end": 867.8,
+            "text": " Okay?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 867.8,
+            "end": 869.8,
+            "text": " Now, I have added the backslash single code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 869.8,
+            "end": 871.8,
+            "text": " So, this single code is here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 871.8,
+            "end": 872.8,
+            "text": " Hey, I am here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 872.8,
+            "end": 874.8,
+            "text": " I have added a single code."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 874.8,
+            "end": 876.8,
+            "text": " Okay? So, this single code is inserted in the strings."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 876.8,
+            "end": 878.8,
+            "text": " So, this is our scape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 878.8,
+            "end": 880.8,
+            "text": " I hope you understood."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 880.8,
+            "end": 884.8,
+            "text": " Now, I want to tell you about the print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 884.8,
+            "end": 888.8,
+            "text": " First of all, what I want to tell you is that you can only"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 888.8,
+            "end": 890.8,
+            "text": " give you multiple values in the print."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 890.8,
+            "end": 893.8,
+            "text": " I can give you three values here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 893.8,
+            "end": 896.8,
+            "text": " I will run the three values and I will get three."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 896.8,
+            "end": 898.8,
+            "text": " This is 6 and 7."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 898.8,
+            "end": 901.8,
+            "text": " You can see here in your computer screen."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 901.8,
+            "end": 904.8,
+            "text": " Now, after this, there is another parameter."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 904.8,
+            "end": 905.8,
+            "text": " It is separate."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 905.8,
+            "end": 907.8,
+            "text": " I will put the scape equal to,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 907.8,
+            "end": 909.8,
+            "text": " if you want to add this character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 909.8,
+            "end": 911.8,
+            "text": " And I will run it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 911.8,
+            "end": 914.8,
+            "text": " You will see that when I will add this scape equal to,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 914.8,
+            "end": 917.8,
+            "text": " this will be separated from the tilde character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 917.8,
+            "end": 918.8,
+            "text": " You can see here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 918.8,
+            "end": 920.8,
+            "text": " After this, the tilde is here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 920.8,
+            "end": 921.8,
+            "text": " After that, the tilde is here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 921.8,
+            "end": 923.8,
+            "text": " You also want to join."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 923.8,
+            "end": 926.8,
+            "text": " You can do this with a given separator."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 926.8,
+            "end": 928.8,
+            "text": " I have done this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 928.8,
+            "end": 930.8,
+            "text": " You can do this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 930.8,
+            "end": 932.8,
+            "text": " After this, there is another parameter."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 932.8,
+            "end": 933.8,
+            "text": " And is equal to."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 933.8,
+            "end": 938.8,
+            "text": " I will write the end equal to double 0 9."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 938.8,
+            "end": 939.8,
+            "text": " What does it mean?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 939.8,
+            "end": 943.8,
+            "text": " It means that if I write a next print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 943.8,
+            "end": 945.8,
+            "text": " And I will write a print Harry."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 945.8,
+            "end": 947.8,
+            "text": " And I will run it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 947.8,
+            "end": 950.8,
+            "text": " You will see that it will be 6 and 7."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 950.8,
+            "end": 954.8,
+            "text": " And then, the next print statement will be 9."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 954.8,
+            "end": 957.8,
+            "text": " Ideally, we write an end equal to,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 957.8,
+            "end": 959.8,
+            "text": " I write 0 0 9 backslash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 959.8,
+            "end": 962.8,
+            "text": " We add backslash and equal to,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 962.8,
+            "end": 963.8,
+            "text": " we can add null."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 963.8,
+            "end": 965.8,
+            "text": " By default, backslash is,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 965.8,
+            "end": 967.8,
+            "text": " we can add null."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 967.8,
+            "end": 969.8,
+            "text": " You should also tell."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 969.8,
+            "end": 972.8,
+            "text": " Now, I have added 0 0 9 backslash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 972.8,
+            "end": 974.8,
+            "text": " Whenever I run the next print statement,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 974.8,
+            "end": 976.8,
+            "text": " then 0 0 9 backslash will be spread."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 976.8,
+            "end": 978.8,
+            "text": " In this print statement,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 978.8,
+            "end": 981.8,
+            "text": " what is the difference between the end and the end?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 981.8,
+            "end": 982.8,
+            "text": " It means that,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 982.8,
+            "end": 985.8,
+            "text": " the only print statement has multiple values."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 985.8,
+            "end": 987.8,
+            "text": " I will separate that from what."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 987.8,
+            "end": 989.8,
+            "text": " The default separator is,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 989.8,
+            "end": 991.8,
+            "text": " it is space."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 991.8,
+            "end": 992.8,
+            "text": " I have written that,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 992.8,
+            "end": 993.8,
+            "text": " default separator is space."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 993.8,
+            "end": 995.8,
+            "text": " Then, what does the end mean?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 995.8,
+            "end": 996.8,
+            "text": " It means,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 996.8,
+            "end": 997.8,
+            "text": " what to print at the end?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 997.8,
+            "end": 999.8,
+            "text": " When this print statement is at the end,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 999.8,
+            "end": 1000.8,
+            "text": " then what to print?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1000.8,
+            "end": 1001.8,
+            "text": " You can write something here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1001.8,
+            "end": 1002.8,
+            "text": " It will be print."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1002.8,
+            "end": 1004.8,
+            "text": " By default, it is a new line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1004.8,
+            "end": 1006.8,
+            "text": " If you want to write a behavior"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1006.8,
+            "end": 1007.8,
+            "text": " overwrite that,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1007.8,
+            "end": 1009.8,
+            "text": " you do not want to go to a new line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1009.8,
+            "end": 1010.8,
+            "text": " with a new print."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1010.8,
+            "end": 1011.8,
+            "text": " As you can see,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1011.8,
+            "end": 1012.8,
+            "text": " this print statement has gone."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1012.8,
+            "end": 1014.8,
+            "text": " Then, the new line automatically print."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1014.8,
+            "end": 1017.8,
+            "text": " Then, the new line automatically print."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1017.8,
+            "end": 1019.8,
+            "text": " If I don't write this in the end,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1019.8,
+            "end": 1020.8,
+            "text": " then I have written that,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1020.8,
+            "end": 1022.8,
+            "text": " because the end is equal to 0 0 9 backslash."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1022.8,
+            "end": 1024.8,
+            "text": " This is why,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1024.8,
+            "end": 1027.8,
+            "text": " this print statement will be printed."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1027.8,
+            "end": 1029.8,
+            "text": " And the separator is,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1029.8,
+            "end": 1031.8,
+            "text": " that you have multiple values in the end,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1031.8,
+            "end": 1032.8,
+            "text": " then what is in the middle?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1032.8,
+            "end": 1033.8,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1033.8,
+            "end": 1034.8,
+            "text": " It is big."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1034.8,
+            "end": 1035.8,
+            "text": " Now, there is another argument."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1035.8,
+            "end": 1036.8,
+            "text": " File."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1036.8,
+            "end": 1037.8,
+            "text": " And this is your own."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1037.8,
+            "end": 1038.8,
+            "text": " In the case of this,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1038.8,
+            "end": 1039.8,
+            "text": " I have written this,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1039.8,
+            "end": 1041.8,
+            "text": " because I want you to know that,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1041.8,
+            "end": 1043.8,
+            "text": " you can write it in the file,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1043.8,
+            "end": 1044.8,
+            "text": " with the print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1044.8,
+            "end": 1046.8,
+            "text": " And the object with the right method,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1046.8,
+            "end": 1048.8,
+            "text": " default is dot STD."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1048.8,
+            "end": 1049.8,
+            "text": " You will write on STD."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1049.8,
+            "end": 1050.8,
+            "text": " You will see,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1050.8,
+            "end": 1051.8,
+            "text": " wherever you are doing it,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1051.8,
+            "end": 1052.8,
+            "text": " you will see it on the console."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1052.8,
+            "end": 1054.8,
+            "text": " In this fourth argument,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1054.8,
+            "end": 1055.8,
+            "text": " we will talk about it later."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1055.8,
+            "end": 1058.8,
+            "text": " I will come to the details in the next video."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1058.8,
+            "end": 1060.8,
+            "text": " In the progress of this course."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1060.8,
+            "end": 1061.8,
+            "text": " Now,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1061.8,
+            "end": 1062.8,
+            "text": " I have written this one more."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1062.8,
+            "end": 1064.8,
+            "text": " I have written it in the parameters 2 and 4 are optional."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1064.8,
+            "end": 1066.8,
+            "text": " 2 and 4 parameters are optional."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1066.8,
+            "end": 1069.8,
+            "text": " This is not to separate you."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1069.8,
+            "end": 1071.8,
+            "text": " And this is not necessary to write all these things."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1071.8,
+            "end": 1072.8,
+            "text": " You can also write the file,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1072.8,
+            "end": 1073.8,
+            "text": " without writing it,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1073.8,
+            "end": 1074.8,
+            "text": " your print statement is going on."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1074.8,
+            "end": 1075.8,
+            "text": " As we have seen,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1075.8,
+            "end": 1077.8,
+            "text": " we have written the separator."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1077.8,
+            "end": 1078.8,
+            "text": " No, we have written the end."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1078.8,
+            "end": 1080.8,
+            "text": " No, we have given multiple values."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1080.8,
+            "end": 1081.8,
+            "text": " You can also give the single value."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1081.8,
+            "end": 1083.8,
+            "text": " But multiple values are also given,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1083.8,
+            "end": 1084.8,
+            "text": " then we will go."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1084.8,
+            "end": 1085.8,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1085.8,
+            "end": 1086.8,
+            "text": " I hope you are enjoying."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1086.8,
+            "end": 1089.8,
+            "text": " If you have not done this code access yet,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1089.8,
+            "end": 1090.8,
+            "text": " then do it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1090.8,
+            "end": 1091.8,
+            "text": " Playlist is all bookmarks."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1091.8,
+            "end": 1094.8,
+            "text": " You can click on all the videos that are added in this playlist."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1094.8,
+            "end": 1095.8,
+            "text": " You can click on it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1095.8,
+            "end": 1098.8,
+            "text": " Click here and bookmark this playlist."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1098.8,
+            "end": 1100.8,
+            "text": " And click here and save it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1100.8,
+            "end": 1102.8,
+            "text": " You can watch this video in the next video."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1102.8,
+            "end": 1104.8,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement   Python Tutorial - Day #5",
+            "start": 1104.8,
+            "end": 1107.8,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " Welcome to the second half of your 200 days of code In today's video, we will see comments, escape sequence characters and print statement from a little bit Whenever we are coding, we want to write in Python programming language in any language and we don't want to leave any text in that program whatever we write in our program, we execute Python interpreter but whenever we want, we write some lines in our program which we don't execute For example, if I write a program then it can be said that after 6 months I will forget what is happening in this program For me, writing in my program will be a little bit difficult I want to add some lines like this Because in future, Harry told me what kind of program he wrote or if I am working with a friend with a friend with a friend with a friend with a friend or if I am working with a friend with a friend with a friend with a friend then both of them will have to tell me what I am doing in this program and how I am working I will use it in this way and let's get started in this video let's go to computer screen and let's get started So what I will do is that I am going to open my main.py I am going to open my main.py and I will open my main.py and here my main.py will open it and I will show you So if I write a friend I am a good boy then there is no doubt that I am a good boy so I will be a good boy In fact, in the statement in double quotes you will see the same thing and I will see the same good boy and you will see if I write a good boy and I will enter and this viewer is also a good boy slash girl so if I do this then what is the red line that is the sign how it is I will tell you what is the name of this you know what you wrote a print but you did not like I did not like it so I said what should I do I need a new line Python says you should have a new line so you should do escape sequence you have to write backslash and this I will not kill you just write backslash Python will take care of it so you have to write backslash and you will see you will see I am a good boy and this viewer is also a good boy slash girl so what was the backslash this is the escape sequence and I will tell you what are the other and what are the other other but I need to tell you I know I am doing this on code I will tell you the other that last except I am talking next that I will write distance I am going to put the inside my computer and go and put the I want to remove the Harries line. I am working on it. I want to keep this in the code base for the line. But you guys are watching the Python Devitan Nalaz. I am not sure what is going on. Where is the invalid syntax? I understand it. I understand many more syntax. But this Harries don't remove this line. I didn't like it. Python doesn't say this. So we will run it. Obviously we will see it. We will not get any doubt in it. And you will also know what you are ready. But I want to keep the Harries line. Please. I said Python. Python says, okay, don't do it like kids. Don't do it like kids. I want to know how to keep it. Python says, look, there are comments in me. It means that you can keep any text. I don't mean that. You have a wow. Python is so good. Python says, yes, I am so good. What should I do? What should I do? Python says, you start with this character. And this will become a comment. And if you have marked any line, then you will start with the same. You will write in some ID. You will write in the same ID. This will be the same in this case. The comment has started showing in every color. And here, this is the syntax highlighting. I have printed it in yellow. You can see it in the color of yellow. The string letter is in orange. This is brackets. You can see it in different colors. You can see it in red. This is the syntax highlighting. You can give it to the red. Okay? Hey Harry, please don't remove this line. Let's see. And now, our program is running. I can write in my program a text. I can add some information. I want to mark this program's author Harry. I want to mark this. This is the code of 100 days of code. Okay? I want to write this in my program. I can write it. I can write it. I will tell you one thing. Okay? What is the meaning of the meaning of the meaning? Because I have told you that you can select multiple lines. And control. Or if you are under the command, control plus forward slash. You press this. You can comment any code based on this. So, I will comment on many lines in this way. So, don't say that. Because I have done it. Control plus forward slash. Okay? So, control plus forward slash. You can use this. Okay? We can use one line in the multi line. Yes. And we will talk about this series. I am not talking about this series. So, I was telling you that these lines, multiple lines, you can mark them. As comments. You can also comment them. Okay? Okay? So, here I have written that a comment is a part of coding. File that the programmer does not want to execute. Rather, the programmer uses it to either explain a block of code or to avoid the execution of a specific part of code while testing. The meaning of this is that I write a comment. I write a code. Okay? I want to write this here. Print. Hello. What? Okay. Now, I will show you. I have shown this in my boss program. I have shown this in my boss program. How do I write this? I have written this. I have said this. This is a big one. No, I am not writing this. I will not give it a good one. I will give it a good one. I will say, okay. So, I will slash this control forward slash. And now, I can remove this code. Now, people say that my boss is also a boss. He says, what is going on? He has given such a big word. So, I can do this again. And it will come again. Okay? So, this can be done. I will comment this. Okay? I have taken this. You have given an example. You will write a code. Do not need it. Copy it. Paste it here. Run it like this. Okay? You will do it like this. Now, see here. You guys, this is a single line comment. I will not get it. And this is a print statement. I have given an example. You can write a line comment. If you write something like this, I am doing it like this. I will do it like this. Now, see what I can do after the print statement. Actually, I have given this. I should have written a letter. Now, see, we write like this. And then I write a hello word. And then I write something here. I want to write it. Okay? So, my code is executed. And as soon as I get this bound symbol, I will write whatever I want to write. If I want to do it, I will ignore it. So, I will write Python interpreter. Printing hello word, I will write whatever I want to ignore. What happens if it is not? Obviously, it happens. Do you know what is the error? It will be said that what is going on? What is the printing hello word? The print hello word is fine. But, you will say, What is the printing hello word? You have given an idea like this. So, you can see here. I will write a pound symbol here. And after that, I will do it like this. Okay? You can see. Now, see what I can do. I will tell you the code commentators. I want to tell you something else. How will you write the multi-line comments? Now, I will tell you the story of multi-line comments. I told people that I will take an example of this. I will comment on this. I told people that I will comment on three lines. I have two lines. Now, because I am living in modern world. I have IDE. I have a template. I have modern IDE. I will select and then flash the control. This template is used for short cut. It is used for WS code. It is used for modern IDE. Which you can comment on. It is used for all kinds of short cut. But, if I don't do this, what can I do? I write a triple single quote for my convenience. And, write in it. I will add all the words to my own down line. By the way, to move the line. So, you can also learn this short cut. WS code, all the short cuts are done. You can see that in the template. If you learn the short cut of WS code, you can search Google. You can see my video of WS code. But, now we will focus on Python. So, I will close the simple quote. It will be a multi line comment. Did you write it before? It was not a multi line comment. It was a multi line comment. I wrote it. I can add the simple quote to the simple quote. But, this is the way it is. You can also write a triple single quote. I will tell you in the comment. The triple single quote program is done. But, the triple double quote program is done. I added two or three triple double quotes. I will do one more. I will shift 10. I will select the control, the x, the y, the y, the y, and now I will go. Then, I will go after that. See, look at this. This one is done. It is very tasty. Now, we can comment on this. If you have any line, I have written it. I have written multiple lines. I will select it and then I will go to the command plus forward slash. So, I can use it to comment. Okay? I hope you have understood something. Let's talk about the escape sequence characters. If you want to insert characters in the string. For example, here I have written, Hey, I am a good boy. And after that, I have to insert a character. I will do it. I will do it. So that you can see the output of this print statement. I understood why you did this. So that you can focus on this print statement. Hey, I am a good boy and this viewer is also a good boy slash girl. Now, look at this tutorial I have written. What I have written in it? I have written that two insert characters that cannot directly be used in a string. Use in a string views escape sequence characters. So, one thing is that one character that cannot directly use the string. It can be used as a scape sequence character. For example, if I enter the line, the new line character will literally be inserted here. Because Python does not do parts. If you insert a new line in a string, then it will not be part of the new line. So, we insert the new line character. Backslash plus n. These two characters are looking at this. But this is the character. This is the new line character. This is the escape sequence character. You can insert a string in it. So, you can see the new line in it. If I run it, then I am going to get a new line. What about me? I want to close the double code in this new line. This is the way. What problem do you have in it? If you think like this, then you are looking at this red line. The red line has given the sign. So, the ID will be saved. If you want to run it, then you can do it. If you want to do it, then you will see. You will get an error. You will get an invalid string. What problem is this? When you start your print statement, and start the double code, then the confusion is coming. This string is starting. Is the end of the line here? Now, you will know that the line is not ending. The Python interpreter is confused. It says, you have put double code here. You have put the Fitser double code here. It means, the end is going to be over here. Okay, the end is going to be over here. Then what is this? This is for the invalid string text. Because if you take this double code from here, then what is the good boy after this? Okay, then you will see the error. So, to save this, we do not use double code character. We use the backslash double code. The one that has a double code scape sequence. So, this is a character. Now I will do this. So, I will double-code here. This is a good boy. It is coming in double code. You can see the backslash here. But I have used the backslash. Why? Because I want to use the backslash double code. Because the character is one. I have used two lines, but this is a character. The backslash double code. In the output, I use single double code. It is a scape sequence character. Okay? The scape sequence character is a backslash followed by the character you want to insert. Okay? An example of a character that cannot be directly used in a string. I have given it here. If you have the string in the print, it is made in a single code. So, you cannot use single code. You understand? Now we will study this in the rest of the strings chapter in detail. But if I put the single code in the inside, I cannot put the single code in it. I have to put the backslash single code in the inside. Okay? Now, I have added the backslash single code. So, this single code is here. Hey, I am here. I have added a single code. Okay? So, this single code is inserted in the strings. So, this is our scape sequence character. I hope you understood. Now, I want to tell you about the print statement. First of all, what I want to tell you is that you can only give you multiple values in the print. I can give you three values here. I will run the three values and I will get three. This is 6 and 7. You can see here in your computer screen. Now, after this, there is another parameter. It is separate. I will put the scape equal to, if you want to add this character. And I will run it. You will see that when I will add this scape equal to, this will be separated from the tilde character. You can see here. After this, the tilde is here. After that, the tilde is here. You also want to join. You can do this with a given separator. I have done this. You can do this. After this, there is another parameter. And is equal to. I will write the end equal to double 0 9. What does it mean? It means that if I write a next print statement. And I will write a print Harry. And I will run it. You will see that it will be 6 and 7. And then, the next print statement will be 9. Ideally, we write an end equal to, I write 0 0 9 backslash. We add backslash and equal to, we can add null. By default, backslash is, we can add null. You should also tell. Now, I have added 0 0 9 backslash. Whenever I run the next print statement, then 0 0 9 backslash will be spread. In this print statement, what is the difference between the end and the end? It means that, the only print statement has multiple values. I will separate that from what. The default separator is, it is space. I have written that, default separator is space. Then, what does the end mean? It means, what to print at the end? When this print statement is at the end, then what to print? You can write something here. It will be print. By default, it is a new line. If you want to write a behavior overwrite that, you do not want to go to a new line with a new print. As you can see, this print statement has gone. Then, the new line automatically print. Then, the new line automatically print. If I don't write this in the end, then I have written that, because the end is equal to 0 0 9 backslash. This is why, this print statement will be printed. And the separator is, that you have multiple values in the end, then what is in the middle? Okay. It is big. Now, there is another argument. File. And this is your own. In the case of this, I have written this, because I want you to know that, you can write it in the file, with the print statement. And the object with the right method, default is dot STD. You will write on STD. You will see, wherever you are doing it, you will see it on the console. In this fourth argument, we will talk about it later. I will come to the details in the next video. In the progress of this course. Now, I have written this one more. I have written it in the parameters 2 and 4 are optional. 2 and 4 parameters are optional. This is not to separate you. And this is not necessary to write all these things. You can also write the file, without writing it, your print statement is going on. As we have seen, we have written the separator. No, we have written the end. No, we have given multiple values. You can also give the single value. But multiple values are also given, then we will go. Okay. I hope you are enjoying. If you have not done this code access yet, then do it. Playlist is all bookmarks. You can click on all the videos that are added in this playlist. You can click on it. Click here and bookmark this playlist. And click here and save it. You can watch this video in the next video. Thank you so much guys for watching this video. And I will see you next time."
+}

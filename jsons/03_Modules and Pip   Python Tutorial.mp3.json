@@ -1,0 +1,2161 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 0.0,
+            "end": 7.2,
+            "text": " We will talk about the modules in today's video and what is the pip?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 7.2,
+            "end": 10.0,
+            "text": " The modules are basically used by the other codes."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 10.0,
+            "end": 15.200000000000001,
+            "text": " You can use the code in your Python program."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 15.200000000000001,
+            "end": 16.6,
+            "text": " There are two modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 16.6,
+            "end": 19.8,
+            "text": " There are built-in modules and there are external modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 19.8,
+            "end": 21.8,
+            "text": " They are installed by the pip."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 21.8,
+            "end": 24.8,
+            "text": " The external modules are the codes that are written by people."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 24.8,
+            "end": 28.400000000000002,
+            "text": " And they want you to use the code in your Python program."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 28.4,
+            "end": 30.4,
+            "text": " I am using this phone."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 30.4,
+            "end": 32.4,
+            "text": " What is the use of this phone?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 32.4,
+            "end": 34.4,
+            "text": " How is it working?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 34.4,
+            "end": 36.4,
+            "text": " I don't know. I am able to use this phone."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 36.4,
+            "end": 38.4,
+            "text": " This is an external module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 38.4,
+            "end": 40.4,
+            "text": " I don't know what is the implementation of this."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 40.4,
+            "end": 41.4,
+            "text": " But I am able to use it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 41.4,
+            "end": 43.4,
+            "text": " Built-in module is the other hand."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 43.4,
+            "end": 46.4,
+            "text": " There are some modules that are used by the pip and programming language."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 46.4,
+            "end": 49.4,
+            "text": " And you don't need to install it externally."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 49.4,
+            "end": 52.4,
+            "text": " We will take the modules into pre-agments because"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 52.4,
+            "end": 55.4,
+            "text": " we don't want to code with the correct code."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 55.4,
+            "end": 57.4,
+            "text": " You are working in a big machine learning program."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 57.4,
+            "end": 59.4,
+            "text": " You are making some artificial intelligence."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 59.4,
+            "end": 61.4,
+            "text": " You are making some artificial intelligence."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 61.4,
+            "end": 65.4,
+            "text": " You don't want to use the code in your Python program."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 65.4,
+            "end": 69.4,
+            "text": " You can use the code in your Python program."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 69.4,
+            "end": 73.4,
+            "text": " The code is written by the modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 73.4,
+            "end": 75.4,
+            "text": " It is well tested, it is written by experts."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 75.4,
+            "end": 78.4,
+            "text": " And because many people have used it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 78.4,
+            "end": 80.4,
+            "text": " There are many errors in it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 80.4,
+            "end": 84.4,
+            "text": " If you want to write a crutch program for your understanding."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 84.4,
+            "end": 86.4,
+            "text": " But if you use modules,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 86.4,
+            "end": 90.4,
+            "text": " you will save time, efforts and you will work on something big."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 90.4,
+            "end": 92.4,
+            "text": " Let's go to the computer screen."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 92.4,
+            "end": 96.4,
+            "text": " We will install some modules and see how all these work."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 96.4,
+            "end": 98.4,
+            "text": " Let's get started."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 107.4,
+            "end": 109.4,
+            "text": " So guys, I am going to open my computer screen."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 109.4,
+            "end": 112.4,
+            "text": " And open my day 3 Rapples here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 112.4,
+            "end": 116.4,
+            "text": " You will see the video that I am recording."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 116.4,
+            "end": 118.4,
+            "text": " But because I am recording this video here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 118.4,
+            "end": 120.4,
+            "text": " I will put it on the side."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 120.4,
+            "end": 122.4,
+            "text": " You will see the video here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 122.4,
+            "end": 126.4,
+            "text": " And I will adjust it in the same way."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 126.4,
+            "end": 129.4,
+            "text": " You can adjust it in your own way."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 129.4,
+            "end": 133.4,
+            "text": " I want to tell you what modules are written in Python."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 133.4,
+            "end": 137.4,
+            "text": " Whenever you write a Python programming language."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 137.4,
+            "end": 139.4,
+            "text": " You can write it in two ways."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 139.4,
+            "end": 143.4,
+            "text": " You can write it in the code or you can help the modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 143.4,
+            "end": 146.4,
+            "text": " If you have installed Python in your computer."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 146.4,
+            "end": 148.4,
+            "text": " And you go to your terminal."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 148.4,
+            "end": 150.4,
+            "text": " And you will see the paper."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 150.4,
+            "end": 152.4,
+            "text": " So you will see a utility."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 152.4,
+            "end": 154.4,
+            "text": " Because I am a Mac, so I will work on paper 3."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 154.4,
+            "end": 157.4,
+            "text": " If you are a Mac, I will work on paper 3."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 157.4,
+            "end": 159.4,
+            "text": " I will work on windows."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 159.4,
+            "end": 161.4,
+            "text": " But you can see that I have written paper 3."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 161.4,
+            "end": 163.4,
+            "text": " I have found a lot of things here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 163.4,
+            "end": 166.4,
+            "text": " If I write paper 3 install pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 166.4,
+            "end": 168.4,
+            "text": " Now you don't have to go to pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 168.4,
+            "end": 170.4,
+            "text": " What I am writing."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 170.4,
+            "end": 172.4,
+            "text": " You can see that there is a collecting pandas here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 172.4,
+            "end": 174.4,
+            "text": " It is downloading."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 174.4,
+            "end": 176.4,
+            "text": " 1.1 mbps, a package."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 176.4,
+            "end": 178.4,
+            "text": " Let me explain what is going on here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 178.4,
+            "end": 180.4,
+            "text": " When I write paper install pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 180.4,
+            "end": 182.4,
+            "text": " I will give a command."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 182.4,
+            "end": 185.4,
+            "text": " I have to install a package name of pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 185.4,
+            "end": 188.4,
+            "text": " Now it is a data analysis library."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 188.4,
+            "end": 190.4,
+            "text": " You can see here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 190.4,
+            "end": 194.4,
+            "text": " But let me tell you that you can use all the modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 194.4,
+            "end": 196.4,
+            "text": " I have used pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 196.4,
+            "end": 200.4,
+            "text": " Now I will explain the built-in modules and external modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 200.4,
+            "end": 204.4,
+            "text": " When you are younger, your mom doesn't send you the data."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 204.4,
+            "end": 206.4,
+            "text": " She doesn't send you the data."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 206.4,
+            "end": 208.4,
+            "text": " She takes milk, curd or bread."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 208.4,
+            "end": 210.4,
+            "text": " She takes the mac and mac."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 210.4,
+            "end": 212.4,
+            "text": " And you can keep the data at home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 212.4,
+            "end": 214.4,
+            "text": " She gives you the app."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 214.4,
+            "end": 216.4,
+            "text": " So you can use the package name of your home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 216.4,
+            "end": 218.4,
+            "text": " You can use the data at home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 218.4,
+            "end": 220.4,
+            "text": " You can use the package name of your home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 220.4,
+            "end": 222.4,
+            "text": " I have used the department package by septomodium."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 222.4,
+            "end": 224.4,
+            "text": " As well as all other trends and accessories."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 224.4,
+            "end": 226.4,
+            "text": " I have using you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 226.4,
+            "end": 228.4,
+            "text": " I have used you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 228.4,
+            "end": 230.4,
+            "text": " I have used you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 230.4,
+            "end": 232.4,
+            "text": " I have used you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 232.4,
+            "end": 234.4,
+            "text": " I will details on how to buy all services."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 234.4,
+            "end": 236.08,
+            "text": " You will need to buy references and tools for references."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 236.08,
+            "end": 238.08,
+            "text": " If you need a repository for its hardware,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 238.08,
+            "end": 240.08,
+            "text": " then\u30a2\u30af\u30c6\u30a3ishi roaring is important."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 240.08,
+            "end": 242.56,
+            "text": " Automatically, there is no need to buy reviews."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 242.56,
+            "end": 244.4,
+            "text": " This is there are built-in modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 244.4,
+            "end": 246.56,
+            "text": " There are modules in your home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 246.56,
+            "end": 248.4,
+            "text": " There is a suite in every home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 248.4,
+            "end": 250.24,
+            "text": " There is no suite in every home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 250.24,
+            "end": 254.24,
+            "text": " All the built in modules are available in every home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 254.24,
+            "end": 256.24,
+            "text": " You don't need to take it out every time."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 256.24,
+            "end": 259.24,
+            "text": " That's why built in modules and external modules work."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 259.24,
+            "end": 262.24,
+            "text": " All modules we are installing are installed with pip."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 262.24,
+            "end": 264.24,
+            "text": " And if I write Python 3 here,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 264.24,
+            "end": 266.24,
+            "text": " and if you write in Windows,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 266.24,
+            "end": 269.24,
+            "text": " then you can see Python 3.1.1 from the way you see it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 269.24,
+            "end": 271.24,
+            "text": " I will zoom in here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 271.24,
+            "end": 273.24,
+            "text": " If I write here import pandas,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 273.24,
+            "end": 275.24,
+            "text": " then you will see that I don't get to see the error."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 275.24,
+            "end": 278.24,
+            "text": " But if I write here import,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 278.24,
+            "end": 280.24,
+            "text": " then I will see the error."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 280.24,
+            "end": 282.24,
+            "text": " There is no module name,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 282.24,
+            "end": 284.24,
+            "text": " and it is written in SSL."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 284.24,
+            "end": 286.24,
+            "text": " Because this module is not in my computer."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 286.24,
+            "end": 288.24,
+            "text": " Now you guys are getting attention."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 288.24,
+            "end": 290.24,
+            "text": " You will not understand what are all these things."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 290.24,
+            "end": 293.24,
+            "text": " I know that you are telling me that"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 293.24,
+            "end": 295.24,
+            "text": " it is made of modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 295.24,
+            "end": 298.24,
+            "text": " So I will write out the exit from Python."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 298.24,
+            "end": 300.24,
+            "text": " If I want to install this,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 300.24,
+            "end": 302.24,
+            "text": " then I will write pip 3 install,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 302.24,
+            "end": 304.24,
+            "text": " and then I will write the packet."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 304.24,
+            "end": 306.24,
+            "text": " When I use it, I will write it as a circuit."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 306.24,
+            "end": 308.24,
+            "text": " But I will install it as a circuit."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 308.24,
+            "end": 310.24,
+            "text": " You can see it is installing."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 310.24,
+            "end": 312.24,
+            "text": " It is getting better speed."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 312.24,
+            "end": 314.24,
+            "text": " And now if I write Python 3.1.1,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 314.24,
+            "end": 316.24,
+            "text": " then I will get my work done."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 316.24,
+            "end": 318.24,
+            "text": " This is a dependency."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 318.24,
+            "end": 320.24,
+            "text": " Which is probably taking time."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 320.24,
+            "end": 322.24,
+            "text": " What is the machine learning library?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 322.24,
+            "end": 324.24,
+            "text": " What we are using now is not just yet."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 324.24,
+            "end": 326.24,
+            "text": " So if I write here as a learn,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 326.24,
+            "end": 328.24,
+            "text": " then you will get to see here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 328.24,
+            "end": 330.24,
+            "text": " The machine learning library in Python."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 330.24,
+            "end": 332.24,
+            "text": " We will do everything."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 332.24,
+            "end": 334.24,
+            "text": " Don't worry."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 334.24,
+            "end": 336.24,
+            "text": " Many people are commenting on this."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 336.24,
+            "end": 338.24,
+            "text": " It is getting slow."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 338.24,
+            "end": 340.24,
+            "text": " I will get some days later."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 340.24,
+            "end": 342.24,
+            "text": " And when difficulty level increases,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 342.24,
+            "end": 344.24,
+            "text": " and understanding will be good."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 344.24,
+            "end": 346.24,
+            "text": " You follow me all day."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 346.24,
+            "end": 348.24,
+            "text": " Now I want to show you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 348.24,
+            "end": 350.24,
+            "text": " This will be installed."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 350.24,
+            "end": 352.24,
+            "text": " And I will write it as a Python 3."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 352.24,
+            "end": 354.24,
+            "text": " I want to show you the import scale."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 354.24,
+            "end": 358.24,
+            "text": " The import scale is here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 358.24,
+            "end": 360.24,
+            "text": " You will see that you will do import scale."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 360.24,
+            "end": 362.24,
+            "text": " I will not do it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 362.24,
+            "end": 364.24,
+            "text": " I will exit it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 364.24,
+            "end": 366.24,
+            "text": " Now this is the thing."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 366.24,
+            "end": 368.24,
+            "text": " We are able to see here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 368.24,
+            "end": 370.24,
+            "text": " This is RAPL."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 370.24,
+            "end": 372.24,
+            "text": " REPL."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 372.24,
+            "end": 374.24,
+            "text": " Read, Evaluate, Print Loop."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 374.24,
+            "end": 376.24,
+            "text": " We will not use it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 376.24,
+            "end": 378.24,
+            "text": " We will write proper programs."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 378.24,
+            "end": 382.24,
+            "text": " And we will execute it as a Python script."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 382.24,
+            "end": 384.24,
+            "text": " And I will use it as a template."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 384.24,
+            "end": 386.24,
+            "text": " You can use it as a template."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 386.24,
+            "end": 388.24,
+            "text": " It is possible."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 388.24,
+            "end": 392.24,
+            "text": " I will make a main.py file."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 392.24,
+            "end": 396.24,
+            "text": " And I will take the output."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 396.24,
+            "end": 398.24,
+            "text": " I will drag it and leave it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 398.24,
+            "end": 400.24,
+            "text": " I will get the output."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 400.24,
+            "end": 402.24,
+            "text": " You will see my video."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 402.24,
+            "end": 404.24,
+            "text": " You will see it as a super convenient."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 404.24,
+            "end": 406.24,
+            "text": " So what I will write in main.py."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 406.24,
+            "end": 410.24,
+            "text": " I will write it as import pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 410.24,
+            "end": 412.24,
+            "text": " And what is the best thing about RAPL."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 412.24,
+            "end": 414.24,
+            "text": " I will do it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 414.24,
+            "end": 416.24,
+            "text": " It will detect pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 416.24,
+            "end": 418.24,
+            "text": " So you do not have to confuse."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 418.24,
+            "end": 420.24,
+            "text": " Why did you not get the error?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 420.24,
+            "end": 424.24,
+            "text": " Because RAPL has started installing for your convenience."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 424.24,
+            "end": 426.24,
+            "text": " RAPL wants you to do it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 426.24,
+            "end": 430.24,
+            "text": " But you need to know the concept."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 430.24,
+            "end": 432.24,
+            "text": " If you go here, you will see the error."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 432.24,
+            "end": 434.24,
+            "text": " You will see the error."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 434.24,
+            "end": 436.24,
+            "text": " But you will see the RAPL."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 436.24,
+            "end": 438.24,
+            "text": " It has started installing pandas automatically."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 438.24,
+            "end": 442.24,
+            "text": " I know that I want to use pandas in the import."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 442.24,
+            "end": 444.24,
+            "text": " I want to use pandas automatically."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 444.24,
+            "end": 446.24,
+            "text": " I want to install it automatically."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 446.24,
+            "end": 448.24,
+            "text": " It looks very good."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 448.24,
+            "end": 450.24,
+            "text": " I have installed pandas in Python."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 450.24,
+            "end": 452.24,
+            "text": " I will write here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 452.24,
+            "end": 454.24,
+            "text": " I will write here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 454.24,
+            "end": 456.24,
+            "text": " I will write it in some way."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 456.24,
+            "end": 458.24,
+            "text": " I will run it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 458.24,
+            "end": 460.24,
+            "text": " I have installed it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 460.24,
+            "end": 462.24,
+            "text": " I have seen pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 462.24,
+            "end": 464.24,
+            "text": " So this is the RAPL."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 464.24,
+            "end": 466.24,
+            "text": " I have written in text that"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 466.24,
+            "end": 468.24,
+            "text": " it is like a module code library."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 468.24,
+            "end": 470.24,
+            "text": " Because someone has written it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 470.24,
+            "end": 472.24,
+            "text": " I will tell you about the import."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 472.24,
+            "end": 474.24,
+            "text": " I will tell you about it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 474.24,
+            "end": 476.24,
+            "text": " Built-in modules and external modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 476.24,
+            "end": 478.24,
+            "text": " There are two types of modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 478.24,
+            "end": 480.24,
+            "text": " They are called built-in modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 480.24,
+            "end": 482.24,
+            "text": " They write here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 482.24,
+            "end": 484.24,
+            "text": " They write here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 484.24,
+            "end": 486.24,
+            "text": " Which modules are they built-in?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 486.24,
+            "end": 488.24,
+            "text": " I don't need to install them."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 488.24,
+            "end": 490.24,
+            "text": " They have all the modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 490.24,
+            "end": 494.24,
+            "text": " You can see that the hashlip is a module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 494.24,
+            "end": 496.24,
+            "text": " Let's use it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 496.24,
+            "end": 498.24,
+            "text": " Let's look at the import hashlip."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 498.24,
+            "end": 500.24,
+            "text": " Let's see how I will install the import hashlip."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 500.24,
+            "end": 502.24,
+            "text": " What will be installed?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 502.24,
+            "end": 504.24,
+            "text": " I have done it like I have done it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 504.24,
+            "end": 506.24,
+            "text": " I am doing it like I have done it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 506.24,
+            "end": 508.24,
+            "text": " You can see that the import hashlip is not installed."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 508.24,
+            "end": 510.24,
+            "text": " It is simple."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 510.24,
+            "end": 512.24,
+            "text": " But on the other hand, if I write the import tensor flow."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 512.24,
+            "end": 514.24,
+            "text": " I will show you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 514.24,
+            "end": 516.24,
+            "text": " I will write tensor flow."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 516.24,
+            "end": 518.24,
+            "text": " The tensor flow will start installing."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 518.24,
+            "end": 520.24,
+            "text": " I have started installing tensor flow."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 520.24,
+            "end": 522.24,
+            "text": " Because the tensor flow is not built-in module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 522.24,
+            "end": 524.24,
+            "text": " It is an external module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 524.24,
+            "end": 526.24,
+            "text": " It is downloading from the internet."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 526.24,
+            "end": 528.24,
+            "text": " So, external modules are not built-in."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 528.24,
+            "end": 530.24,
+            "text": " Like you have to get the home time."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 530.24,
+            "end": 532.24,
+            "text": " The home is finished."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 532.24,
+            "end": 534.24,
+            "text": " You have to get it everyday."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 534.24,
+            "end": 536.24,
+            "text": " But you don't have to get the plate everyday."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 536.24,
+            "end": 538.24,
+            "text": " The plate is built-in module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 538.24,
+            "end": 540.24,
+            "text": " And the two days you get it from the outside."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 540.24,
+            "end": 542.24,
+            "text": " It is an external module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 542.24,
+            "end": 544.24,
+            "text": " It is fun."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 544.24,
+            "end": 546.24,
+            "text": " I have told you how to use paper-install pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 546.24,
+            "end": 550.24,
+            "text": " You can use this button to copy the code."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 550.24,
+            "end": 552.24,
+            "text": " So, you can copy whatever code you want."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 552.24,
+            "end": 554.24,
+            "text": " You can copy whatever code you want."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 554.24,
+            "end": 556.24,
+            "text": " And paste whatever code you want."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 556.24,
+            "end": 558.24,
+            "text": " And you can run it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 558.24,
+            "end": 560.24,
+            "text": " What is in the pandas?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 560.24,
+            "end": 562.24,
+            "text": " There is a module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 562.24,
+            "end": 564.24,
+            "text": " The pandas in which the read csp function is."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 564.24,
+            "end": 566.24,
+            "text": " The file is like cspxl."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 566.24,
+            "end": 568.24,
+            "text": " But don't read it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 568.24,
+            "end": 570.24,
+            "text": " I am telling you how to use it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 570.24,
+            "end": 574.24,
+            "text": " I will read the excel excel excel in detail."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 574.24,
+            "end": 576.24,
+            "text": " So, take attention and you will get it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 576.24,
+            "end": 580.24,
+            "text": " Many people ask me which python tutorial should follow."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 580.24,
+            "end": 584.24,
+            "text": " If you are watching latest videos,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 584.24,
+            "end": 586.24,
+            "text": " then follow this video."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 586.24,
+            "end": 590.24,
+            "text": " And many people ask me which version to use python."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 590.24,
+            "end": 594.24,
+            "text": " So, tell them that the latest version is used."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 594.24,
+            "end": 598.24,
+            "text": " If you are on a replicate, you don't need to take attention."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 598.24,
+            "end": 600.24,
+            "text": " And I will tell you as long as it is python 3."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 600.24,
+            "end": 602.24,
+            "text": " python 3.7, 3.11, 3.8."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 602.24,
+            "end": 604.24,
+            "text": " There is no difference in this."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 604.24,
+            "end": 606.24,
+            "text": " You will work on the program."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 606.24,
+            "end": 610.24,
+            "text": " If python 4 comes, python 5 comes."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 610.24,
+            "end": 612.24,
+            "text": " It can be a major upgrade."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 612.24,
+            "end": 614.24,
+            "text": " It can be a guarantee."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 614.24,
+            "end": 616.24,
+            "text": " It can be the same in python 4."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 616.24,
+            "end": 618.24,
+            "text": " So, it will be a good thing to see."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 618.24,
+            "end": 620.24,
+            "text": " But don't take attention."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 620.24,
+            "end": 622.24,
+            "text": " You have to use it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 622.24,
+            "end": 624.24,
+            "text": " I am watching 3.11's tutorial."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 624.24,
+            "end": 626.24,
+            "text": " I can use it for 3.12."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 626.24,
+            "end": 628.24,
+            "text": " You can see it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 628.24,
+            "end": 630.24,
+            "text": " It is the same."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 630.24,
+            "end": 634.24,
+            "text": " Now, the way we take this terminal is in the template."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 634.24,
+            "end": 638.24,
+            "text": " If you write python in shell,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 638.24,
+            "end": 642.24,
+            "text": " you will see that python 3.8.1 is in the installer."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 642.24,
+            "end": 646.24,
+            "text": " If I write here, print hello."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 646.24,
+            "end": 648.24,
+            "text": " It is not W."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 648.24,
+            "end": 650.24,
+            "text": " I am spelling hello."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 650.24,
+            "end": 652.24,
+            "text": " I will enter and write hello here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 652.24,
+            "end": 654.24,
+            "text": " This terminal is available here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 654.24,
+            "end": 658.24,
+            "text": " And the idea of this terminal is built in browser."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 658.24,
+            "end": 660.24,
+            "text": " I will also come here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 660.24,
+            "end": 662.24,
+            "text": " I will see it in the bottom."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 662.24,
+            "end": 666.24,
+            "text": " I will help you find detailed details."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 666.24,
+            "end": 668.24,
+            "text": " In the bottom left corner of the video,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 668.24,
+            "end": 672.24,
+            "text": " check this tutorial class to see what you will see today."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 672.24,
+            "end": 674.24,
+            "text": " This is very important."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 674.24,
+            "end": 675.66,
+            "text": " If you have supported"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 675.66,
+            "end": 678.98,
+            "text": " Understanding how to learn"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 678.98,
+            "end": 681.24,
+            "text": " any of our mysteries."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 681.24,
+            "end": 682.26,
+            "text": " The purpose of this tutorial is"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 682.58,
+            "end": 684.74,
+            "text": " just making 10.11,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 684.74,
+            "end": 687.74,
+            "text": " making multiple efforts."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 687.74,
+            "end": 689.78,
+            "text": " please\u3044\u307e\u3059 comment here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 689.78,
+            "end": 692.78,
+            "text": " Click here and save the playlist."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 692.78,
+            "end": 694.78,
+            "text": " You guys are going to enjoy it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 694.78,
+            "end": 696.78,
+            "text": " Python has a lot of programming language."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 696.78,
+            "end": 698.78,
+            "text": " It uses YouTube to use Python."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 698.78,
+            "end": 701.78,
+            "text": " Python also uses Instagram to use Python to use Facebook."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 701.78,
+            "end": 703.78,
+            "text": " Python uses this question."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 703.78,
+            "end": 704.78,
+            "text": " The question is,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 704.78,
+            "end": 706.78,
+            "text": " Who doesn't use Python?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 706.78,
+            "end": 708.78,
+            "text": " Python is a very versatile language."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 708.78,
+            "end": 712.78,
+            "text": " Everyone uses Python in all the big companies."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 712.78,
+            "end": 714.78,
+            "text": " Now we are clear about why we are programming."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 714.78,
+            "end": 718.78,
+            "text": " Because we are humans, as humans, we do good things."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 718.78,
+            "end": 720.78,
+            "text": " And as a computer, we do good things."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 720.78,
+            "end": 722.78,
+            "text": " So we want to work with the computer,"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 722.78,
+            "end": 724.78,
+            "text": " in which we are a computer."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 724.78,
+            "end": 727.78,
+            "text": " And we are doing good things in our daily life."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 727.78,
+            "end": 731.78,
+            "text": " So that's why we use Python programming language."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 731.78,
+            "end": 733.78,
+            "text": " Because it is very easy."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 733.78,
+            "end": 735.78,
+            "text": " I have to meet you in day 4."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 735.78,
+            "end": 738.78,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 738.78,
+            "end": 741.78,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip   Python Tutorial - Day #3",
+            "start": 748.78,
+            "end": 758.78,
+            "text": " Bye."
+        }
+    ],
+    "text": " We will talk about the modules in today's video and what is the pip? The modules are basically used by the other codes. You can use the code in your Python program. There are two modules. There are built-in modules and there are external modules. They are installed by the pip. The external modules are the codes that are written by people. And they want you to use the code in your Python program. I am using this phone. What is the use of this phone? How is it working? I don't know. I am able to use this phone. This is an external module. I don't know what is the implementation of this. But I am able to use it. Built-in module is the other hand. There are some modules that are used by the pip and programming language. And you don't need to install it externally. We will take the modules into pre-agments because we don't want to code with the correct code. You are working in a big machine learning program. You are making some artificial intelligence. You are making some artificial intelligence. You don't want to use the code in your Python program. You can use the code in your Python program. The code is written by the modules. It is well tested, it is written by experts. And because many people have used it. There are many errors in it. If you want to write a crutch program for your understanding. But if you use modules, you will save time, efforts and you will work on something big. Let's go to the computer screen. We will install some modules and see how all these work. Let's get started. So guys, I am going to open my computer screen. And open my day 3 Rapples here. You will see the video that I am recording. But because I am recording this video here. I will put it on the side. You will see the video here. And I will adjust it in the same way. You can adjust it in your own way. I want to tell you what modules are written in Python. Whenever you write a Python programming language. You can write it in two ways. You can write it in the code or you can help the modules. If you have installed Python in your computer. And you go to your terminal. And you will see the paper. So you will see a utility. Because I am a Mac, so I will work on paper 3. If you are a Mac, I will work on paper 3. I will work on windows. But you can see that I have written paper 3. I have found a lot of things here. If I write paper 3 install pandas. Now you don't have to go to pandas. What I am writing. You can see that there is a collecting pandas here. It is downloading. 1.1 mbps, a package. Let me explain what is going on here. When I write paper install pandas. I will give a command. I have to install a package name of pandas. Now it is a data analysis library. You can see here. But let me tell you that you can use all the modules. I have used pandas. Now I will explain the built-in modules and external modules. When you are younger, your mom doesn't send you the data. She doesn't send you the data. She takes milk, curd or bread. She takes the mac and mac. And you can keep the data at home. She gives you the app. So you can use the package name of your home. You can use the data at home. You can use the package name of your home. I have used the department package by septomodium. As well as all other trends and accessories. I have using you. I have used you. I have used you. I have used you. I will details on how to buy all services. You will need to buy references and tools for references. If you need a repository for its hardware, then\u30a2\u30af\u30c6\u30a3ishi roaring is important. Automatically, there is no need to buy reviews. This is there are built-in modules. There are modules in your home. There is a suite in every home. There is no suite in every home. All the built in modules are available in every home. You don't need to take it out every time. That's why built in modules and external modules work. All modules we are installing are installed with pip. And if I write Python 3 here, and if you write in Windows, then you can see Python 3.1.1 from the way you see it. I will zoom in here. If I write here import pandas, then you will see that I don't get to see the error. But if I write here import, then I will see the error. There is no module name, and it is written in SSL. Because this module is not in my computer. Now you guys are getting attention. You will not understand what are all these things. I know that you are telling me that it is made of modules. So I will write out the exit from Python. If I want to install this, then I will write pip 3 install, and then I will write the packet. When I use it, I will write it as a circuit. But I will install it as a circuit. You can see it is installing. It is getting better speed. And now if I write Python 3.1.1, then I will get my work done. This is a dependency. Which is probably taking time. What is the machine learning library? What we are using now is not just yet. So if I write here as a learn, then you will get to see here. The machine learning library in Python. We will do everything. Don't worry. Many people are commenting on this. It is getting slow. I will get some days later. And when difficulty level increases, and understanding will be good. You follow me all day. Now I want to show you. This will be installed. And I will write it as a Python 3. I want to show you the import scale. The import scale is here. You will see that you will do import scale. I will not do it. I will exit it. Now this is the thing. We are able to see here. This is RAPL. REPL. Read, Evaluate, Print Loop. We will not use it. We will write proper programs. And we will execute it as a Python script. And I will use it as a template. You can use it as a template. It is possible. I will make a main.py file. And I will take the output. I will drag it and leave it. I will get the output. You will see my video. You will see it as a super convenient. So what I will write in main.py. I will write it as import pandas. And what is the best thing about RAPL. I will do it. It will detect pandas. So you do not have to confuse. Why did you not get the error? Because RAPL has started installing for your convenience. RAPL wants you to do it. But you need to know the concept. If you go here, you will see the error. You will see the error. But you will see the RAPL. It has started installing pandas automatically. I know that I want to use pandas in the import. I want to use pandas automatically. I want to install it automatically. It looks very good. I have installed pandas in Python. I will write here. I will write here. I will write it in some way. I will run it. I have installed it. I have seen pandas. So this is the RAPL. I have written in text that it is like a module code library. Because someone has written it. I will tell you about the import. I will tell you about it. Built-in modules and external modules. There are two types of modules. They are called built-in modules. They write here. They write here. Which modules are they built-in? I don't need to install them. They have all the modules. You can see that the hashlip is a module. Let's use it. Let's look at the import hashlip. Let's see how I will install the import hashlip. What will be installed? I have done it like I have done it. I am doing it like I have done it. You can see that the import hashlip is not installed. It is simple. But on the other hand, if I write the import tensor flow. I will show you. I will write tensor flow. The tensor flow will start installing. I have started installing tensor flow. Because the tensor flow is not built-in module. It is an external module. It is downloading from the internet. So, external modules are not built-in. Like you have to get the home time. The home is finished. You have to get it everyday. But you don't have to get the plate everyday. The plate is built-in module. And the two days you get it from the outside. It is an external module. It is fun. I have told you how to use paper-install pandas. You can use this button to copy the code. So, you can copy whatever code you want. You can copy whatever code you want. And paste whatever code you want. And you can run it. What is in the pandas? There is a module. The pandas in which the read csp function is. The file is like cspxl. But don't read it. I am telling you how to use it. I will read the excel excel excel in detail. So, take attention and you will get it. Many people ask me which python tutorial should follow. If you are watching latest videos, then follow this video. And many people ask me which version to use python. So, tell them that the latest version is used. If you are on a replicate, you don't need to take attention. And I will tell you as long as it is python 3. python 3.7, 3.11, 3.8. There is no difference in this. You will work on the program. If python 4 comes, python 5 comes. It can be a major upgrade. It can be a guarantee. It can be the same in python 4. So, it will be a good thing to see. But don't take attention. You have to use it. I am watching 3.11's tutorial. I can use it for 3.12. You can see it. It is the same. Now, the way we take this terminal is in the template. If you write python in shell, you will see that python 3.8.1 is in the installer. If I write here, print hello. It is not W. I am spelling hello. I will enter and write hello here. This terminal is available here. And the idea of this terminal is built in browser. I will also come here. I will see it in the bottom. I will help you find detailed details. In the bottom left corner of the video, check this tutorial class to see what you will see today. This is very important. If you have supported Understanding how to learn any of our mysteries. The purpose of this tutorial is just making 10.11, making multiple efforts. please\u3044\u307e\u3059 comment here. Click here and save the playlist. You guys are going to enjoy it. Python has a lot of programming language. It uses YouTube to use Python. Python also uses Instagram to use Python to use Facebook. Python uses this question. The question is, Who doesn't use Python? Python is a very versatile language. Everyone uses Python in all the big companies. Now we are clear about why we are programming. Because we are humans, as humans, we do good things. And as a computer, we do good things. So we want to work with the computer, in which we are a computer. And we are doing good things in our daily life. So that's why we use Python programming language. Because it is very easy. I have to meet you in day 4. Thank you so much for watching this video. And I will see you next time. Bye."
+}

@@ -1,0 +1,677 @@
+{
+    "chunks": [
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 0.0,
+            "end": 3.74,
+            "text": " Today we will see how much it takes the worth"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 3.74,
+            "end": 15.780000000000001,
+            "text": " That is how much we pay for a 100 days of"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 15.780000000000001,
+            "end": 20.12,
+            "text": " Two of us have paid our staff 35 days"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 20.12,
+            "end": 24.44,
+            "text": " And will be given 500 days total"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 24.6,
+            "end": 24.92,
+            "text": " ESTAP OUT"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 25.18,
+            "end": 27.2,
+            "text": " Ever since yesterday"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 27.2,
+            "end": 29.44,
+            "text": " But still"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 89.44,
+            "end": 100.62,
+            "text": " 5-6-11 is not good, but what if I tell you that you guys are doing this 15 so that I can do it even without you guys"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 100.62,
+            "end": 106.46,
+            "text": " and I will start and divide the official one, all the results will be printed in this screen"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 106.46,
+            "end": 112.94,
+            "text": " 5-10 is not available, 6-9 is not available and 15 is not available, 15 is not available, 9-10 is not available"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 112.94,
+            "end": 122.88,
+            "text": " 15-10 is not available, 2.5 is available, so you guys know this thing, I will tell you"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 122.88,
+            "end": 128.38,
+            "text": " but a new operator who may not be able to do something, he is a flow division operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 128.38,
+            "end": 134.86,
+            "text": " if I want to take 2.5 to 0.5, then I will use a flow division operator"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 135.86,
+            "end": 139.86,
+            "text": " 1-1 operator, 2-1 operator, and 2-1 operator, what does the model operator do?"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 139.86,
+            "end": 150.86,
+            "text": " simple work, if I take 15% 6, then it means it is simple that if I divide 15 to 6, then I will give a simple example"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 150.86,
+            "end": 157.86,
+            "text": " 5% 3, if I divide 3 to 2, then it is simple and it gives a reminder"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 157.86,
+            "end": 161.86,
+            "text": " if I run 5 to 3, then it will give a reminder, then it gives a reminder"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 161.86,
+            "end": 169.86,
+            "text": " 15 divided by 6, 15 divided by 6, then it is 2.5 but if I don't divide it, then it will end with 0.5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 169.86,
+            "end": 175.86,
+            "text": " and it will save only 2, 15 by 6, then 2.5, 15 multiplied by 6, then it is 9-10"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 175.86,
+            "end": 179.86,
+            "text": " so all these operators are Joki addition, subtraction, multiplication"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 179.86,
+            "end": 184.86,
+            "text": " now the exponential operator, which I have shown you, this division is actually, so I will do this"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 185.86,
+            "end": 188.86,
+            "text": " what is the exponential operator, I will tell you what is the difference,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 188.86,
+            "end": 196.86,
+            "text": " print 5, I will do star star 3, then print 5 to 3, 5 multiplied by 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 196.86,
+            "end": 200.86,
+            "text": " I will fix it and come back, how I have written it in exponential,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 200.86,
+            "end": 203.86,
+            "text": " now I have said that people have done it, I have done it myself,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 203.86,
+            "end": 206.86,
+            "text": " you have done it yourself, it has been done, it has been done for a long time,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 206.86,
+            "end": 210.86,
+            "text": " now look, I have written star star, I have already written it, I have already told you all the options,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 210.86,
+            "end": 215.86,
+            "text": " try it out, 5 star star 3 means 5 multiplied by 5 multiplied by 5 multiplied by 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 215.86,
+            "end": 219.86,
+            "text": " 3 times, if I start 4, then 5 multiplied by 5 multiplied by 5 multiplied by 5"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 219.86,
+            "end": 222.86,
+            "text": " 4 times 5, then multiply by 5, then what will happen in it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 222.86,
+            "end": 228.86,
+            "text": " okay, simple things, 2 multiplied by 2, double star 4, then 2 into 2 into 2,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 228.86,
+            "end": 231.86,
+            "text": " okay, 4 times 2, how much will it be, it will be solved,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 231.86,
+            "end": 236.86,
+            "text": " simple things, so I will explain it, now I will talk about the exercise,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 236.86,
+            "end": 242.86,
+            "text": " I have given you the exercise, first I will show you a simple thing,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 242.86,
+            "end": 245.86,
+            "text": " this is a problem, if you do not solve the exercise,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 245.86,
+            "end": 249.86,
+            "text": " then I will not do it, okay, I will explain it in explanation,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 249.86,
+            "end": 253.86,
+            "text": " I will tell you, this is what I have written, you guys are not able to solve it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 253.86,
+            "end": 256.86,
+            "text": " and I know that everyone will solve it, it is very simple,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 256.86,
+            "end": 259.86,
+            "text": " and in the next page you will go to this apple,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 259.86,
+            "end": 262.86,
+            "text": " then you will see the exercise, the creator calculator,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 262.86,
+            "end": 267.86,
+            "text": " you guys have to make a calculator, which is capable of performing"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 267.86,
+            "end": 271.86,
+            "text": " additions, subtraction, multiplication and division operations on 2 numbers,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 271.86,
+            "end": 274.86,
+            "text": " 2 numbers, but all these operations are done,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 274.86,
+            "end": 276.86,
+            "text": " 2 numbers you can make a variable, okay,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 276.86,
+            "end": 280.86,
+            "text": " and I will not give you more hints, you guys have to show the output,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 280.86,
+            "end": 282.86,
+            "text": " I will give more hints in the first one,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 282.86,
+            "end": 285.86,
+            "text": " because I already have the comments of the Palo,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 285.86,
+            "end": 287.86,
+            "text": " this is a simple exercise, the point is,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 287.86,
+            "end": 290.86,
+            "text": " the point is that many people are also starting programming,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 290.86,
+            "end": 292.86,
+            "text": " so give them the confidence,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 292.86,
+            "end": 297.86,
+            "text": " and they will have to put the velocity in the programming,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 297.86,
+            "end": 299.86,
+            "text": " okay, I hope you will enjoy,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 299.86,
+            "end": 302.86,
+            "text": " I will tell you in the next video,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 302.86,
+            "end": 304.86,
+            "text": " in the next video, I am also announcing,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 304.86,
+            "end": 307.86,
+            "text": " that this is number 7, our day 6,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 307.86,
+            "end": 311.86,
+            "text": " sorry day 7, we will solve this question on day 8,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 311.86,
+            "end": 314.86,
+            "text": " and I will give the shout out to those people,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 314.86,
+            "end": 316.86,
+            "text": " who will solve this,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 316.86,
+            "end": 318.86,
+            "text": " you have to do it, I will tell you,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 318.86,
+            "end": 320.86,
+            "text": " you have to do it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 320.86,
+            "end": 322.86,
+            "text": " you have to do it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 322.86,
+            "end": 324.86,
+            "text": " you have to go to the cover page of this,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 324.86,
+            "end": 326.86,
+            "text": " you will see the same way,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 326.86,
+            "end": 328.86,
+            "text": " what you have to do here,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 328.86,
+            "end": 330.86,
+            "text": " you have to make your Rappl,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 330.86,
+            "end": 332.86,
+            "text": " you have to make your Rappl,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 332.86,
+            "end": 334.86,
+            "text": " you will make a calculator,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 334.86,
+            "end": 336.86,
+            "text": " make sure that this is run button,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 336.86,
+            "end": 338.86,
+            "text": " select Python, and make your Rappl,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 338.86,
+            "end": 340.86,
+            "text": " and after that, you will comment on that,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 340.86,
+            "end": 342.86,
+            "text": " this comment section is the one,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 342.86,
+            "end": 344.86,
+            "text": " this is the comment section of day 7,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 344.86,
+            "end": 346.86,
+            "text": " you have to comment on that,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 346.86,
+            "end": 348.86,
+            "text": " and you have to comment on that,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 348.86,
+            "end": 350.86,
+            "text": " and tell me in the comment section,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 350.86,
+            "end": 352.86,
+            "text": " because I will open the Rappl,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 352.86,
+            "end": 356.86,
+            "text": " and I will give you the shout out to those people,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 356.86,
+            "end": 358.86,
+            "text": " who will solve this quickly,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 358.86,
+            "end": 360.86,
+            "text": " but don't worry about it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 360.86,
+            "end": 362.86,
+            "text": " if you start now,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 362.86,
+            "end": 364.86,
+            "text": " take time,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 364.86,
+            "end": 366.86,
+            "text": " I just want you to do it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 366.86,
+            "end": 368.86,
+            "text": " you are very important,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 368.86,
+            "end": 370.86,
+            "text": " you are not important at all,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 370.86,
+            "end": 372.86,
+            "text": " believe me,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 372.86,
+            "end": 374.86,
+            "text": " you will not understand the time,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 374.86,
+            "end": 376.86,
+            "text": " your competition,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 376.86,
+            "end": 378.86,
+            "text": " you have to do it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 378.86,
+            "end": 380.86,
+            "text": " you have to win,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 380.86,
+            "end": 382.86,
+            "text": " you have to do it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 382.86,
+            "end": 384.86,
+            "text": " you will not get success,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 384.86,
+            "end": 386.86,
+            "text": " you have to do it,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 386.86,
+            "end": 388.86,
+            "text": " you will see the next video,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 388.86,
+            "end": 390.86,
+            "text": " thank you so much for watching this video,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 390.86,
+            "end": 392.86,
+            "text": " and I will see you next time,"
+        },
+        {
+            "number": "7",
+            "title": "Exercise 1 Calculator using Python   Python Tutorial - Day #7",
+            "start": 404.86,
+            "end": 406.86,
+            "text": " bye,"
+        }
+    ],
+    "text": " Today we will see how much it takes the worth That is how much we pay for a 100 days of Two of us have paid our staff 35 days And will be given 500 days total ESTAP OUT Ever since yesterday But still 5-6-11 is not good, but what if I tell you that you guys are doing this 15 so that I can do it even without you guys and I will start and divide the official one, all the results will be printed in this screen 5-10 is not available, 6-9 is not available and 15 is not available, 15 is not available, 9-10 is not available 15-10 is not available, 2.5 is available, so you guys know this thing, I will tell you but a new operator who may not be able to do something, he is a flow division operator if I want to take 2.5 to 0.5, then I will use a flow division operator 1-1 operator, 2-1 operator, and 2-1 operator, what does the model operator do? simple work, if I take 15% 6, then it means it is simple that if I divide 15 to 6, then I will give a simple example 5% 3, if I divide 3 to 2, then it is simple and it gives a reminder if I run 5 to 3, then it will give a reminder, then it gives a reminder 15 divided by 6, 15 divided by 6, then it is 2.5 but if I don't divide it, then it will end with 0.5 and it will save only 2, 15 by 6, then 2.5, 15 multiplied by 6, then it is 9-10 so all these operators are Joki addition, subtraction, multiplication now the exponential operator, which I have shown you, this division is actually, so I will do this what is the exponential operator, I will tell you what is the difference, print 5, I will do star star 3, then print 5 to 3, 5 multiplied by 5 I will fix it and come back, how I have written it in exponential, now I have said that people have done it, I have done it myself, you have done it yourself, it has been done, it has been done for a long time, now look, I have written star star, I have already written it, I have already told you all the options, try it out, 5 star star 3 means 5 multiplied by 5 multiplied by 5 multiplied by 5 3 times, if I start 4, then 5 multiplied by 5 multiplied by 5 multiplied by 5 4 times 5, then multiply by 5, then what will happen in it, okay, simple things, 2 multiplied by 2, double star 4, then 2 into 2 into 2, okay, 4 times 2, how much will it be, it will be solved, simple things, so I will explain it, now I will talk about the exercise, I have given you the exercise, first I will show you a simple thing, this is a problem, if you do not solve the exercise, then I will not do it, okay, I will explain it in explanation, I will tell you, this is what I have written, you guys are not able to solve it, and I know that everyone will solve it, it is very simple, and in the next page you will go to this apple, then you will see the exercise, the creator calculator, you guys have to make a calculator, which is capable of performing additions, subtraction, multiplication and division operations on 2 numbers, 2 numbers, but all these operations are done, 2 numbers you can make a variable, okay, and I will not give you more hints, you guys have to show the output, I will give more hints in the first one, because I already have the comments of the Palo, this is a simple exercise, the point is, the point is that many people are also starting programming, so give them the confidence, and they will have to put the velocity in the programming, okay, I hope you will enjoy, I will tell you in the next video, in the next video, I am also announcing, that this is number 7, our day 6, sorry day 7, we will solve this question on day 8, and I will give the shout out to those people, who will solve this, you have to do it, I will tell you, you have to do it, you have to do it, you have to go to the cover page of this, you will see the same way, what you have to do here, you have to make your Rappl, you have to make your Rappl, you will make a calculator, make sure that this is run button, select Python, and make your Rappl, and after that, you will comment on that, this comment section is the one, this is the comment section of day 7, you have to comment on that, and you have to comment on that, and tell me in the comment section, because I will open the Rappl, and I will give you the shout out to those people, who will solve this quickly, but don't worry about it, if you start now, take time, I just want you to do it, you are very important, you are not important at all, believe me, you will not understand the time, your competition, you have to do it, you have to win, you have to do it, you will not get success, you have to do it, you will see the next video, thank you so much for watching this video, and I will see you next time, bye,"
+}
